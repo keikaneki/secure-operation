@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="ja-JP">
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-157139200-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-157139200-1');
+	</script>
+	<meta charset="UTF-8">
+	<title>よくある質問｜AI、顔認証セキュリティはSECURE | 株式会社セキュア</title>
+	<meta name="description" content="監視カメラシステムや入退室システム等のセキュリティソリューションを提供する株式会社セキュアのブランド「SECURE」のよくある質問のページです。お客様から寄せられた疑問をお答えします。">
+	<meta name="keywords" content="セキュア,SECURE,よくある質問,FAQ,セキュリティ">
+	<link rel="shortcut icon" href="/assets/img/fav.ico">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="format-detection" content="telephone=no">
+	<meta property="og:title" content="よくある質問｜顔認証セキュリティはセキュアのSECURE">
+	<meta property="og:type" content="website">
+	<meta property="og:description" content="監視カメラシステムや入退室システム等のセキュリティソリューションを提供する株式会社セキュアのブランド「SECURE」のよくある質問のページです。お客様から寄せられた疑問をお答えします。">
+	<meta property="og:url" content="https://secureinc.co.jp/">
+	<meta property="og:image" content="/assets/img/share.png">
+	<meta property="og:site_name" content="入退室管理・防犯カメラなど、オフィスセキュリティのことならセキュア">
+	<meta property="og:locale" content="ja_JP">
+	<link rel="stylesheet" href="/assets/css/common.css?v=20021303">
+	<script src="/assets/js/jquery1.8.3.js"></script>
+	<script src="/assets/js/common.min.js"></script>
+	<script src="/assets/js/bundle.js"></script>
+<script src="/assets/js/include.js" type="text/javascript"></script></head>
+
+<body>
+	<header class="header-include"></header>
+	<section class="l-inner security_qa_detail_page ofxh" v-if="faq_detail_data">
+		<nav class="breadcrumb">
+			<ul>
+				<li><a href="/">TOP</a></li>
+				<li><a href="/security_qa/">よくある質問</a></li>
+				<li><span>{{ faq_detail_data['contents']['title'] }}</span></li>
+			</ul>
+		</nav>
+
+		<div class="ttlarea ta-c">
+			<h1 class="fs-rennermedium fs-50">Q&amp;A</h1>
+			<h2 class="fs-20">よくある質問</h2>
+		</div>
+
+		<article v-cloak>
+			<div class="qa">
+				<div class="q"><span class="ttl">{{ faq_detail_data['contents']['title'] }}</span></div>
+				<div class="a">
+					<div v-if="faq_detail_data['contents']['answer']" class="ttl">
+						{{ faq_detail_data['contents']['answer'] }}</div>
+					<div v-if="faq_detail_data['contents']['body']" v-html="faq_detail_data['contents']['body']"></div>
+				</div>
+			</div>
+		</article>
+
+		<div class="block" v-if="category_data" v-cloak>
+			<div class="l-cols" v-if="category_data['term']['service']">
+				<div class="col w-10">
+					サービス
+				</div>
+				<div class="col w-90">
+					<ul class="rowlist">
+						<li v-for="(keyword,index) in category_data['term']['service']">
+							<a :href="'/security_qa/search.html?cat=' + keyword['term_id']" class="label black small">{{ keyword['name'] }}</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="l-cols" v-if="category_data['term']['industry']">
+				<div class="col w-10">
+					業種
+				</div>
+				<div class="col w-90">
+					<ul class="rowlist">
+						<li v-for="(keyword,index) in category_data['term']['industry']">
+							<a :href="'/security_qa/search.html?cat=' + keyword['term_id']" class="label black small">{{ keyword['name'] }}</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="l-cols" v-if="category_data['keywords']">
+				<div class="col w-10">
+					キーワード
+				</div>
+				<div class="col w-90">
+					<ul class="rowlist">
+						<li v-for="(keyword,index) in category_data['keywords']"><a :href="'/security_qa/search.html?tag=' + keyword['term_id']" class="label black small">{{ keyword['name'] }}</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+		<div class="block" v-if="faq_detail_data['recommend_product']" v-cloak>
+			<div class="ttlarea">
+				<h3 class="blackbelt">関連製品</h3>
+			</div>
+			<article v-html="faq_detail_data['recommend_product']">
+			</article>
+		</div>
+
+		<div class="block" v-if="faq_detail_data['recommend_questions']" v-cloak>
+			<div class="ttlarea">
+				<div class="blackbelt">よく一緒に検索されている質問</div>
+			</div>
+			<div class="qa">
+				<div v-for="(recommend_question,index) in faq_detail_data['recommend_questions']" class="q">
+					<a :href="'/security_qa/detail.html?id=' + recommend_question['id']"><span>{{ recommend_question['title'] }}</span></a>
+				</div>
+			</div>
+		</div>
+
+	</section>
+	<aside>
+<div class="contact-include"></div>
+<div class="case-include"></div>
+<div class="solution-include"></div>
+</aside>
+
+	<div class="dlbox noPC">
+		<a href="/download/" class="btn orange shadow">
+			3分で分かる「オフィスセキュリティ対策」<br>
+			<em class="dl fs-30"><span class="fw-700">資料ダウンロード</span>はコチラ</em>
+		</a>
+		<strong class="casenum orangeunderline fs-30 fw-500 noSP">導入実績<span class="fc-orange number"><span class="fs-60 fw-700 number">4,000</span>社</span>以上</strong>
+	</div>
+
+
+	<div class="pagetop">
+		<span class="fs-renner">PAGE TOP</span>
+	</div>
+	<footer class="footer-include"></footer>
+	<div class="mask"></div>
+</body>
+</html>

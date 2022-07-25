@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="ja-JP">
+<head>
+
+	<meta charset="UTF-8">
+	
+	<meta name="robots" content="noindex">
+	<title v-if="news_detail_data['contents']['title']">{{ news_detail_data['contents']['title'] }}</title>
+							
+							
+<script type="text/javascript">
+function showUrl(){
+    var url= location.href;
+    alert(url);
+}
+</script>
+
+	<meta property="og:type" content="website" />
+	<meta name="googlebot" content="noindex">
+	<meta property="og:title" content="SECURE AI Office Base：社員を守り、事業も継続！職場はクラウドで管理する" />
+	<meta property="og:image" content="https://secureinc.co.jp/aioffice/images/og.png" />
+	<meta property="og:url" content="https://secureinc.co.jp/aioffice/" />
+	<meta property="og:site_name" content="SECURE AI Office Base：社員を守り、事業も継続！職場はクラウドで管理する" />
+	<meta property="og:description" content="ABWや職場3密対策に！職場はクラウドで管理する。入退室管理、顔認証の「SECURE AI Office Base」を提供いたします。" />
+
+	<meta name="description" content="監視カメラシステムや入退室システム等のセキュリティソリューションを提供する株式会社セキュアのニュース一覧ページです。">
+	<meta name="keywords" content="セキュア,SECURE,ニュース,お知らせ,プレスリリース,セキュリティ">
+
+	<script src="bundle_test.js"></script>
+
+</head>
+
+<body><!-- End Google Tag Manager (noscript) -->
+	<section class="news_detail_page">
+	
+<script language="JavaScript">
+var url= location.href;
+	document.write("てすと")
+ document.write("<p class=\"example1\">サンプル</p><p class='example2'>サンプル</p>");
+	document.write(url)
+		document.write(url)
+
+	</script>
+		
+<script type="text/javascript">
+  var h1Elm = document.getElementsByTagName('h1')[0];
+  var textNode = h1Elm.childNodes[0];
+  var text = textNode.nodeValue;
+  document.write(text);
+</script>
+
+<hr>
+<script type="text/javascript">
+  /* （1）id属性値がsubtitle2となっている要素を取り出す*/
+  var subtitle2 = document.getElementById('subtitle1');
+    document.write(subtitle2.childNodes[0].nodeValue);
+</script>
+
+<hr>
+
+<h2 id="subtitle1" class="testtest">DOMのメソッド</h2>
+<ul>
+  <li id="item1_1">getElementsByTagName</li>
+  <li id="item1_2">getElementById</li>
+</ul>
+<h2 id="subtitle2">DOMのプロパティ</h2>
+<ul>
+  <li id="item2_1">childNodes</li>
+  <li id="item2_2">nodeValue</li>
+</ul>
+
+<hr>
+<script type="text/javascript">
+  /* （1）id属性値がsubtitle2となっている要素を取り出す*/
+  var subtitle2 = document.getElementById('subtitle1');
+    document.write(subtitle2.childNodes[0].nodeValue);
+</script>
+
+<hr>
+
+		<div class="l-cols">
+			<div class="main col">
+				<article v-if="news_detail_data">
+					<div class="box ta-c">
+						<h1 v-if="news_detail_data['contents']['title']" class="fs-30">
+							{{ news_detail_data['contents']['title'] }}　　h1の内容</h1>
+						<h2 v-if="news_detail_data['contents']['sub_title']" class="fs-24">
+							{{ news_detail_data['contents']['sub_title'] }}</h2>
+					</div>
+					
+					
+					
+<hr>
+<ul id="textList">
+  <li>Text 1</li>
+  <li class="foo">Text 2</li>
+  <li>Text 3</li>
+</ul>
+<p class="foo">Text 4</p>
+
+
+クラス名から<br />
+<script type="text/javascript">
+/* document 全体から .foo を取得 */
+var foo01 = document.getElementsByClassName('foo');
+   document.write(foo01);
+</script>
+
+
+<hr>
+					<div class="block" v-if="news_detail_data['contents']['body'].length"
+						v-for="(body_item,index) in news_detail_data['contents']['body']">
+						<div v-if="body_item['acf_fc_layout'] && body_item['acf_fc_layout'] == 'contents_text'"
+							v-html="body_item['contents_text_wysiwyg']"></div>
+						<div v-if="body_item['acf_fc_layout'] && body_item['acf_fc_layout'] == 'contents_gallery'"
+							class="l-cols auto center">
+							<div v-for="(repeater_gallery_item,index) in body_item['contents_gallery_repeater']"
+								class="col">
+								<img :src="repeater_gallery_item['contents_gallery_repeater_item_image']['url']"
+									:alt="repeater_gallery_item['contents_gallery_repeater_item_caption']">
+								<p v-html="repeater_gallery_item['contents_gallery_repeater_item_caption']"></p>
+							</div>
+						</div>
+					</div>
+				</article>
+			</div>
+
+
+
+
+
+			<div class="sub col">
+				<div class="moarch block">
+					<ul>
+						<li v-for="(archive_data_year,year_index) in archive_data" class="maincat">
+							<a class="btn arrow" :href="'/news/?year=' + year_index"><span>{{ year_index }}</span></a>
+							<!-- <ul>
+								<li v-for="(archive_data_month,index) in archive_data_year">
+									<a :href="'/news/?year=' + year_index + '&month=' + archive_data_month">{{ archive_data_month }}</a>
+								</li>
+							</ul> -->
+						</li>
+					</ul>
+				</div>
+
+				<div class="catarch block">
+					<ul>
+						<li v-for="(item,index) in category_data">
+							<a :href="'/news/?cat=' + item['term_id']" class="btn black xs fs-12">{{ item['name'] }}</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+		<div class="pager">
+			<div v-if="around_pages && around_pages.length && around_pages[0]['before']" class="prev">
+				<a :href="'/news/detail.html?id=' + around_pages[0]['before']['ID']">PREV NEWS</a></div>
+			<div class="pagination">
+				<ul>
+					<li><a href="/news/"><img src="/assets/img/ico/back.png" alt="" width="20" heigth="19"></a></li>
+				</ul>
+			</div>
+			<div v-if="around_pages && around_pages.length && around_pages[0]['after']" class="next">
+				<a :href="'/news/detail.html?id=' + around_pages[0]['after']['ID']">NEXT NEWS</a></div>
+		</div>
+
+	</section>
+	<aside>
+<div class="contact-include"></div>
+<div class="case-include"></div>
+<div class="solution-include"></div>
+</aside>
+
+	<div class="dlbox noPC">
+		<a href="/download/" class="btn orange shadow">
+			3分で分かる「オフィスセキュリティ対策」<br>
+			<em class="dl fs-30"><span class="fw-700">資料ダウンロード</span>はコチラ</em>
+		</a>
+		<strong class="casenum orangeunderline fs-30 fw-500 noSP">導入実績<span class="fc-orange number"><span class="fs-60 fw-700 number">4,000</span>社</span>以上</strong>
+	</div>
+
+
+	<div class="pagetop">
+		<span class="fs-renner">PAGE TOP</span>
+	</div>
+	<footer class="footer-include"></footer>
+	<div class="mask"></div>
+</body>
+</html>

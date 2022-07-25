@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^(.*)$ https://secureinc.co.jp/aioffice/media/workplace/what-is-abw/ [L,R=301] 

@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="ja-JP">
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-157139200-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-157139200-1');
+	</script>
+	<meta charset="UTF-8">
+	<title>導入フロー｜顔認証セキュリティはSECURE |株式会社セキュア</title>
+	<meta name="description" content="監視カメラシステムや入退室システム等のセキュリティソリューションを提供する株式会社セキュアのブランド「SECURE」の導入フローページです。導入までの流れをわかりやすくご説明します。">
+	<meta name="keywords" content="セキュア,SECURE,導入フロー,導入までの流れ">
+	<link rel="shortcut icon" href="/assets/img/fav.ico">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="format-detection" content="telephone=no">
+	<meta property="og:title" content="導入フロー｜顔認証セキュリティはセキュアのSECURE">
+	<meta property="og:type" content="website">
+	<meta property="og:description" content="監視カメラシステムや入退室システム等のセキュリティソリューションを提供する株式会社セキュアのブランド「SECURE」の導入フローページです。導入までの流れをわかりやすくご説明します。">
+	<meta property="og:url" content="https://secureinc.co.jp/">
+	<meta property="og:image" content="/assets/img/share.png">
+	<meta property="og:site_name" content="入退室管理・防犯カメラなど、オフィスセキュリティのことならセキュア">
+	<meta property="og:locale" content="ja_JP">
+	<link rel="stylesheet" href="/assets/css/common.css?v=20021303">
+	<script src="/assets/js/jquery1.8.3.js"></script>
+	<script src="/assets/js/common.min.js"></script>
+	<script src="/assets/js/bundle.js"></script>
+<script src="/assets/js/include.js" type="text/javascript"></script></head>
+
+<body>
+	<header class="header-include"></header>
+	<section class="flow l-inner">
+		<nav class="breadcrumb">
+			<ul>
+				<li><a href="/">TOP</a></li>
+				<li><span>Flow（導入までの流れ）</span></li>
+			</ul>
+		</nav>
+
+		<div class="ttlarea ta-c">
+			<h1 class="fs-rennermedium fs-50">Flow</h1>
+			<h2 class="fs-20">導入までの流れ</h2>
+		</div>
+
+		<article class="block">
+			<div class="ttlarea">
+				<div style="margin-bottom: 20px;">
+					<h2 class="fs-30 blackbelt" style="width:60%">SECURE 導入までの流れ</h2>
+				</div>
+			</div>
+			<!-- <p class="txt">
+				<em class="fs-16 fw-700">ここにリード文が入りますここにリード文が入りますここにリード文が入りますここにリード文が入ります</em><br>
+				SECUREの導入は、まずお客様の要望、環境、各部署との調整、必要機能の確認など、お話を伺うところから始まります。<br>
+				お話を伺ってから、個々に合わせたプランニングを専任スタッフが提案いたします。<br>
+				お客様の本当の問題解決はどこになるのか、セキュリティに特化したスタッフが全面的にサポートしますので、まずはお気軽にご相談ください。
+			</p> -->
+			<div class="l-cols5 flow spflow">
+				<div class="col flowinner">
+					<div class="card frame">
+						<div class="frameinner">
+							<h2 class="ta-c"><span class="label orange small">STEP1</span></h2>
+							<p class="ta-c">お問い合わせ</p>
+							<figure class="card-thumb"><a href="https://secureinc.info/contact/" target="_blank"><img src="/assets/img/flow/flow01.png" alt class="imgfix pc-img-large sp-img-middle"></a></figure>
+						</div>
+					</div>
+				</div>
+				<div class="col flowinner">
+					<div class="card frame">
+						<div class="frameinner">
+							<h2 class="ta-c"><span class="label orange small">STEP2</span></h2>
+							<p class="ta-c">ヒアリング<br>調査</p>
+							<figure class="card-thumb"><img src="/assets/img/flow/flow02.png" alt class="imgfix pc-img-large sp-img-middle"></figure>
+						</div>
+					</div>
+				</div>
+				<div class="col flowinner">
+					<div class="card frame">
+						<div class="frameinner">
+							<h2 class="ta-c"><span class="label orange small">STEP3</span></h2>
+							<p class="ta-c">ご提案<br>お見積もり</p>
+							<figure class="card-thumb"><img src="/assets/img/flow/flow03.png" alt class="imgfix pc-img-large sp-img-middle"></figure>
+						</div>
+					</div>
+				</div>
+				<div class="col flowinner">
+					<div class="card frame">
+						<div class="frameinner">
+							<h2 class="ta-c"><span class="label orange small">STEP4</span></h2>
+							<p class="ta-c">施工・導入</p>
+							<figure class="card-thumb"><img src="/assets/img/flow/flow04.png" alt class="imgfix pc-img-large sp-img-middle"></figure>
+						</div>
+					</div>
+				</div>
+				<div class="col flowinner">
+					<div class="card frame">
+						<div class="frameinner">
+							<h2 class="ta-c"><span class="label orange small">STEP5</span></h2>
+							<p class="ta-c">運用開始</p>
+							<figure class="card-thumb"><img src="/assets/img/flow/flow05.png" alt class="imgfix pc-img-large sp-img-middle"></figure>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="ta-c" style="margin-top: 50px">
+				<em class="fs-30 fw-700">運用開始まで平均30日～60日</em><br>
+				<p class="fs-24 fw-500">※お急ぎの場合も対応できますので、まずはご相談ください。</p>
+			</div>
+		</article>
+		<article class="block">
+			<div class="steparea">
+				<div>
+					<div class="stepleft">
+						<div class="ico-contact stepbelt">
+							<h2 class="fs-30">お問い合わせ</h2>
+						</div>
+						<div class="caption"><a href="https://secureinc.info/contact/" target="_blank">お問い合わせフォーム</a>かお電話でご要望や、お悩み事などお気軽にご相談ください。<br>
+						3営業日以内に専任スタッフから折り返しご連絡します。</div>
+					</div>
+					<div class="stepphoto">
+						<img src="/assets/img/flow/stepphoto01.png" alt="" class="imgfix">
+					</div>
+				</div>
+			</div>
+		</article>
+	</section>
+		<section class="grayarea narrow contact">
+			<div class="wrap">
+				<div class="l-inner">
+					<div class="ttlarea ta-c">
+						<h1 class="fs-rennermedium fs-50">Contact</h1>
+						<p class="fs-20">各種ご相談、料金のお見積りなどお気軽にご相談ください</p>
+					</div>
+					<div class="l-cols2">
+						<div class="col">
+							<p>電話でのお問い合わせ（土日祝日除く9:30～18:00）</p>
+							<p class="fs-55 fs-rennermedium tel"><span class="ico free-dial">0800-919-9500</span></p>
+							<p>携帯・PHSからもご利用可能です。</p>
+						</div>
+						<div class="col">
+							<p>WEBからのお問い合わせ（24時間受付）</p>
+							<div class="btn"><a href="https://lp.secureinc.co.jp/contact.html" class="btn orange middle shadow mail"><span class="fs-24">お問い合わせフォーム</span></a></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+	<section class="flow l-inner">
+		<article class="block">
+			<div class="steparea">
+				<div>
+					<div class="stepleft">
+						<div class="ico-hearing stepbelt">
+							<h2 class="fs-30">ヒアリング・ご相談</h2>
+						</div>
+						<div class="caption">お客さまのところにお伺いし、現状の環境を把握し、今後のご要望や課題をヒアリング。<br>
+						お客さまのご要望に沿ったシステムをご提案します。</div>
+					</div>
+					<div class="stepphoto">
+						<img src="/assets/img/flow/stepphoto02.png" alt="" class="imgfix">
+					</div>
+				</div>
+			</div>
+			<div class="steparea">
+				<div>
+					<div class="stepleft">
+						<div class="ico-doc stepbelt">
+							<h2 class="fs-30">お見積り・ご契約</h2>
+						</div>
+						<div class="caption">お見積りをご確認後、導入をご決定いただきましたら、ご注文書を提出していただき、契約を締結いたします。</div>
+					</div>
+					<div class="stepphoto">
+						<img src="/assets/img/flow/stepphoto03.png" alt="" class="imgfix">
+					</div>
+				</div>
+				<div class="l-col2 eachlst" style="margin-top: 40px">
+					<div class="col">
+						<div class="card blackline">
+							<div class="fs-28 fw-500 affi ta-c">弊社</div>
+							<div class="fs-18 fw-400 eacont">
+								・機材、工事部材の準備<br>
+								・システムの事前設定<br>
+								・施工図面の作成<br>
+								・完成図書の作成
+							</div>
+						</div>
+					</div>
+					<div class="col">
+						<div class="card blackline eachlst">
+							<div class="fs-28 fw-500 affi ta-c">お客様</div>
+							<div class="fs-18 fw-400 eacont">
+								・セキュリティの目的確認<br>
+								・エリアごとの重要度確認<br>
+								・運用人数の決定<br>
+								・認証方法の検討
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="steparea">
+				<div>
+					<div class="stepleft">
+						<div class="ico-tool stepbelt">
+							<h2 class="fs-30">施工・導入</h2>
+						</div>
+						<div class="caption">お客様のご希望の工事日程で、設置工事を行います。<br>
+						工事完了後に、運用方法の説明をご説明します。</div>
+					</div>
+					<div class="stepphoto">
+						<img src="/assets/img/flow/stepphoto04.png" alt="" class="imgfix">
+					</div>
+				</div>
+				<div class="l-col2 eachlst" style="margin-top: 40px">
+					<div class="col">
+						<div class="card blackline">
+							<div class="fs-28 fw-500 affi ta-c">弊社</div>
+							<div class="fs-18 fw-400 eacont">
+								・機材の設置工事<br>
+								・システムの設定作業<br>
+								・お客様への運用方法ご説明
+							</div>
+						</div>
+					</div>
+					<div class="col">
+						<div class="card blackline eachlst">
+							<div class="fs-28 fw-500 affi ta-c">お客様</div>
+							<div class="fs-18 fw-400 eacont">
+								・工事の立会<br>
+								・運用開始の事前準備<br>
+								・ユーザー本登録
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="ta-c" style="margin: 20px auto 120px;">
+				<p class="fs-37 fw-500 orangeunderline">運用開始後も<br class="noPC">保守サポートを完備</p>
+			</div>
+		</article>
+
+		<article class="block">
+			<div class="ttlarea">
+				<div style="margin-bottom: 20px;">
+					<h2 class="fs-30 blackbelt">導入に関する疑問を解決</h2>
+				</div>
+			</div>
+			<div class="card blackline qalst">
+				<div class="q fs-18">入退室管理設備を導入した場合、取引先や委託業者の出入りは どのような運用になりますか？</div>
+				<div class="a fs-18 fw-400">
+					<em class="fw-500">ゲスト用IDカードを作成し、貸与するのが一般的です。</em><br>
+					ゲスト用IDカードを作成し、貸与するのが一般的です。ゲストカードには入室できる場所や時間、回数などを設定することでセキュリティを確保します。<br>
+					どのゲストに、どのIDを貸与したかを別途管理する必要があります。
+				</div>
+			</div>
+			<div class="card blackline qalst">
+				<div class="q fs-18">入退室管理の導入コストが知りたい。</div>
+				<div class="a fs-18 fw-400">
+					<em class="fw-500">ハードウェア、ソフトウェアのほかに設置工事が必要です。</em><br>
+					入退管理システム（出入り管理システム、アクセスコントロールシステム）を導入する場合、認証リーダー、管理パソコンなどのハードウェアのほか、管理ソフトウェア、IDカード、工事費用などが必要となります。<br>
+					運用の目的、設置環境により異なりますので、当社営業担当者へご相談ください。
+				</div>
+			</div>
+			<div class="ta-c">
+				<a href="/security_qa/" class="btn"><span class="more fs-rennermedium"><span>See More</span></span></a>
+			</div>
+	</section>
+
+	<aside>
+<div class="contact-include"></div>
+<div class="case-include"></div>
+<div class="solution-include"></div>
+</aside>
+
+	<div class="dlbox noPC">
+		<a href="/download/" class="btn orange shadow">
+			3分で分かる「オフィスセキュリティ対策」<br>
+			<em class="dl fs-30"><span class="fw-700">資料ダウンロード</span>はコチラ</em>
+		</a>
+		<strong class="casenum orangeunderline fs-30 fw-500 noSP">導入実績<span class="fc-orange number"><span class="fs-60 fw-700 number">4,000</span>社</span>以上</strong>
+	</div>
+
+
+	<div class="pagetop">
+		<span class="fs-renner">PAGE TOP</span>
+	</div>
+	<footer>
+		<div class="footerbelt">
+			<div class="wrap">
+				<div class="l-cols2">
+					<div class="col p-0 left">
+						<ul>
+							<li><a href="/security_blog/" class="btn white"><span class="more"><span>セキュリティブログ</span></span></a></li>
+							<li><a href="/movie/" class="btn white"><span class="more"><span>動画ライブラリー</span></span></a></li>
+							<li><a href="/security_qa/" class="btn white"><span class="more"><span>よくある質問</span></span></a></li>
+						</ul>
+					</div>
+					<div class="col p-0 right">
+						<ul>
+							<li><a href="/showroom/"><span>本社ショールーム</span></a></li>
+							<li><a href="/flow/"><span>導入フロー</span></a></li>
+							<li><a href="../company/index.html"><span>会社情報</span></a></li>
+							<li><a href="/download/"><span>資料ダウンロード</span></a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="under">
+					<div class="l-cols2 wrap">
+						<div class="col order-2">
+							<nav>
+								<ul>
+									<li><a href="/sitepolicy/">サイトポリシー</a></li>
+									<li><a href="/compliance/">コンプライアンスに関する取り組み</a></li>
+									<li><a href="/privacy/">個人情報保護方針</a></li>
+								</ul>
+							</nav>
+						</div>
+						<div class="col order-1">
+							<p class="copy">Copyright(C)2020 SECURE Inc. All Rights Reserved.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<div class="mask"></div>
+</body>
+</html>

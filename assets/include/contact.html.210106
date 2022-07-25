@@ -1,0 +1,21 @@
+<section class="grayarea contact graywing">
+	<div class="wrap">
+		<div class="l-inner">
+			<div class="ttlarea ta-c">
+				<h1 class="fs-rennermedium fs-50">Contact</h1>
+				<p class="fs-20">各種ご相談、料金のお見積りなど<br class="noPC">お気軽にご相談ください</p>
+			</div>
+			<div class="l-cols2">
+				<div class="col">
+					<p>フリーコール<br class="noPC">（土日祝日除く9:30～18:00）</p>
+					<p class="fs-55 fs-rennermedium tel"><span data-telno="08009199500" class="ico free-dial js-telto">0800-919-9500</span></p>
+					<p>携帯・PHSからもご利用可能です。</p>
+				</div>
+				<div class="col">
+					<p>WEBからのお問い合わせ（24時間受付）</p>
+					<div class="btn"><a href="https://lp.secureinc.co.jp/01-SecContact-Page-0210_SecContact-FP02_0325.html" class="btn orange middle shadow mail"><span class="fs-24">お問い合わせフォーム</span></a></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>

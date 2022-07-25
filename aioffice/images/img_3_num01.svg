@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="69.984" height="67.392" viewBox="0 0 69.984 67.392">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.28" x2="1.555" y2="0.266" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#26c4ff"/>
+      <stop offset="1" stop-color="#1dffba"/>
+    </linearGradient>
+  </defs>
+  <path id="交差_1" data-name="交差 1" d="M17.992,79.376V50.384c0-12.288,8.544-19.2,18.528-19.2s18.527,6.912,18.527,19.1V79.472c0,12.192-8.544,19.1-18.527,19.1S17.992,91.664,17.992,79.376Zm5.472-29.088V79.472c0,8.64,5.664,13.92,13.056,13.92,7.3,0,12.96-5.28,12.96-13.92V50.288c0-8.64-5.665-13.92-12.96-13.92C29.128,36.368,23.464,41.648,23.464,50.288ZM82.408,98V38.48L72.9,45.3v-6.24l9.5-7.3h5.568V98Z" transform="translate(-17.992 -31.184)" fill="url(#linear-gradient)"/>
+</svg>

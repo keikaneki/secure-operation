@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="ja-JP">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5873P36');</script>
+<!-- End Google Tag Manager -->
+
+	<meta charset="UTF-8">
+	<title>コミエル|混雑度見える化｜新型コロナ対策|SECURE</title>
+	<meta name="description" content="監視カメラシステムや入退室システム等のセキュリティソリューションを提供する株式会社セキュアのブランド「SECURE」サイトの商品、SECURE analytics（画像解析ソリューション）の混雑見える化ソリューション「comieru」のページです。特長や活用例などをご紹介します。">
+	<meta name="keywords" content="セキュア,SECURE,混雑見える化,混雑状況,新型コロナ,コロナ対策,comieru,SECURE analytics">
+	<link rel="shortcut icon" href="/assets/img/fav.ico">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="format-detection" content="telephone=no">
+	<meta property="og:title" content="コミエル|混雑度見える化｜コロナ対策|SECURE">
+	<meta property="og:type" content="website">
+	<meta property="og:description" content="監視カメラシステムや入退室システム等のセキュリティソリューションを提供する株式会社セキュアのブランド「SECURE」サイトの商品、SECURE analytics（画像解析ソリューション）の混雑見える化ソリューション「comieru」のページです。特長や活用例などをご紹介します。">
+	<meta property="og:url" content="https://secureinc.co.jp/">
+	<meta property="og:image" content="/assets/img/share.png">
+	<meta property="og:site_name" content="入退室管理・防犯カメラなど、オフィスセキュリティのことならセキュア">
+	<meta property="og:locale" content="ja_JP">
+	<link rel="stylesheet" href="/assets/css/common.css?v=20021303">
+	<link rel="stylesheet" href="/assets/css/device_detail.css">
+	<script src="/assets/js/jquery1.8.3.js"></script>
+	<script src="/assets/js/common.min.js"></script>
+	<script src="/assets/js/bundle.js"></script>
+<script src="/assets/js/include.js" type="text/javascript"></script></head>
+
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5873P36"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	<header class="header-include"></header>
+	<section class="sltana deviceintro l-inner block">
+		<nav class="breadcrumb">
+			<ul>
+				<li><a href="/">TOP</a></li>
+				<li><a href="/solution/">Solution（商品から探す）</a></li>
+				<li>comieru</li>
+			</ul>
+		</nav>
+
+		<div class="ttlarea ta-c">
+			<h1 class="fs-rennermedium fs-50">Application</h1>
+			<h2 class="fs-20">SECURE analytics　</h2>
+		</div>
+
+		<div class="device_detail_01">
+			<div class="ttlarea">
+				<div class="mgb-20">
+					<h2 class="fs-30 blackbelt">comieru</h2>
+					<div class="logo_img">
+						<img src="../../assets/img/logo/comieru250x57.png" alt="">
+					</div>
+				</div>
+			</div>
+			<div class="device_detail_flex device_detail_top_area">
+				<div class="device_detail_textarea">
+					<!-- <h3 class="device_detail_title">最先端の顔認証アルゴリズムを搭載した多機能IPターミナル。「顔」を認証に使うことでハンズフリーの生体認証を実現。</h3> -->
+					<p class="device_detail_text">
+						経験値で測っていた施設内の混雑度をステレオカメラによって人数計測し、5段階のアイコン表示で混雑度を見える化するサービスです。混雑度はテキストではなく、分かりやすいアイコンで表示されるため、海外からのお客様にも対応可能です。施設のエントランスのみならず、施設内のエリア毎の設置が可能で、各エリア毎に営業時間の設定が可能です。
+運用開始後は蓄積したデータを分析し混雑予測が可能になります。
+
+					</p>
+				</div>
+				<div class="device_detail_img_area">
+					<img src="../../assets/img/device/img_comieru01.jpg" alt="">
+				</div>
+			</div>
+			<!-- 画像のみ -->
+			<!-- <div class="device_detail_flex device_detail_top_area">
+				<img src="../assets/img/device/img_FaceStation2_01.jpg" alt="">
+			</div> -->
+
+			<!-- <p class="device_detail_price">希望小売価格：250,000円（税抜）</p> -->
+			<ul class="device_detail_flex list_function">
+				<li class="label blackunderline">3Dセンサー</li>
+				<li class="label blackunderline">API連携</li>
+				<li class="label blackunderline">過去データ管理</li>
+        <li class="label blackunderline">混雑度は5段階表示</li>
+        <li class="label blackunderline">混雑度予測</li>
+		<li class="label blackunderline">新型コロナ対策</li>		
+			</ul>
+			<ul class="device_detail_flex list_dropdown">
+				<li>
+					<a href="#device_detail_02" class="btn small gray anchor"><span>商品の特長</span></a>
+				</li>
+				<li>
+					<a href="#device_detail_03" class="btn small gray anchor"><span>活用例</span></a>
+				</li>
+				<li>
+					<a href="#device_detail_04" class="btn small gray anchor"><span>システム構成</span></a>
+				</li>
+				<!-- <li>
+					<a href="#device_detail_05" class="btn small gray anchor"><span>スペック一覧</span></a>
+				</li> -->
+				<li>
+					<a href="#device_detail_06" class="btn small gray anchor"><span>関連データドキュメント</span></a>
+				</li>
+				<li>
+					<a href="#device_detail_07" class="btn small gray anchor"><span>対応デバイス</span></a>
+				</li>
+				<!-- <li>
+					<a href="#device_detail_08" class="btn small gray anchor"><span>関連商品</span></a>
+				</li> -->
+			</ul>
+		</div>
+
+		<div id="device_detail_02" class="device_detail_02">
+			<div class="ttlarea">
+				<div class="mgb-20">
+					<h2 class="fs-30 blackbelt">商品の特長</h2>
+				</div>
+			</div>
+			<div class="mgb-20">
+				<h2 class="fs-30 orangemarker"><em class="marker">3Dセンサーによる高精度測定</em></h2>
+			</div>
+			<div class="device_detail_flex">
+				<div class="device_detail_textarea">
+					<p class="device_detail_text">
+					  混雑度の計測は、最先端のステレオビジョン技術を採用した高精度3Dセンサーを利用します。
+一つのデバイスで様々な計測を高精度で実現します。
+エントランスのEnter/Out だけではなく、指定したエリアのEnter/Outの設定も可能です。<br>
+＊ 計測の精度は環境に依存する場合がございます。
+<br>
+＊ 防犯用途にはご利用できません。</p>
+				</div>
+				<div class="device_detail_img_area">
+					<img src="../../assets/img/device/img_comieru02.jpg" alt="">
+				</div>
+			</div>
+			<div class="mgb-20">
+				<h2 class="fs-30 orangemarker"><em class="marker">APIによるWeb連携</em></h2>
+			</div>
+			<div class="device_detail_flex">
+				<div class="device_detail_textarea">
+					<p class="device_detail_text">「comieru」は、お客様が運用中のWEbサイトとの連携を想定したソリューションのため、APIを利用して
+   お好きなUI上に混雑度を表示することが可能です。 <br>
+＊デフォルトのデザインもご用意しております。
+
+					</p>
+				</div>
+				<div class="device_detail_img_area">
+					<img src="../../assets/img/device/img_comieru03.jpg" alt="">
+				</div>
+			</div>
+			<div class="mgb-20">
+				<h2 class="fs-30 orangemarker"><em class="marker">データの有効利用</em></h2>
+			</div>
+			<div class="device_detail_flex">
+				<div class="device_detail_textarea">
+					<p class="device_detail_text">
+					  運用開始から３ヶ月ほど経過しますと、有効なデータが保存されるため、混雑度の予測が可能になります。
+混雑度予測が可能になりますと、混雑のパターンが見えるため、来館するお客様は施設内の行動を計画しやすくなります。
+comieruは３年間のデータの保存が可能です。昨年の混雑データの比較を参照し、館内のレイアウト改善などの参考にご利用
+いただけます。<br>
+※3年以上のデータ保存を希望される場合は要相談
+
+					</p>
+				</div>
+				<div class="device_detail_img_area">
+					<img src="../../assets/img/device/img_comieru04.jpg" alt="">
+				</div>
+			</div>
+			<div class="mgb-20">
+				<h2 class="fs-30 orangemarker"><em class="marker">管理画面で簡単管理</em></h2>
+			</div>
+			<div class="device_detail_flex">
+				<div class="device_detail_textarea">
+					<p class="device_detail_text">
+						データを運用する管理者の方は、「管理画面」より設定の変更、メンテナンスが可能です。
+混雑度表示の閾値などの細かい設定も可能です。また「管理画面」からは収集したデータをcsv形式にて出力することが
+可能です。
+
+					</p>
+				</div>
+				<div class="device_detail_img_area">
+					<img src="../../assets/img/device/img_comieru05.jpg" alt="">
+				</div>
+      </div>
+		</div>
+
+		<div id="device_detail_03" class="device_detail_02">
+			<div class="ttlarea">
+				<div class="mgb-20">
+					<h2 class="fs-30 blackbelt">活用例</h2>
+				</div>
+			</div>
+      <div class="mgb-20">
+				<h2 class="fs-30 orangemarker"><em class="marker">温泉施設・遊戯施設の混雑見える化</em></h2>
+			</div>
+			<div class="device_detail_flex">
+				<div class="device_detail_textarea">
+					<p class="device_detail_text">
+					 温泉施設をご利用になるお客様は、いつでも、どこからでもWeb上で施設のエリアごとの混雑度をチェックすることができます。例えば、お目当のタイプの温泉が混雑している間にもう一つのお目当のブッフェで食事をするなど、施設内を楽しむ
+プランを考えることができます。Webや館内(サイネージ)にての混雑見える化により、全治的な利用者は増加し、集客力UPに貢献します。
+<br>
+				    <a href="../../case/case06.html">※事例紹介ページリンク</a> </p>
+				</div>
+				<div class="device_detail_img_area">
+					<img src="../../assets/img/device/img_comieru06.jpg" alt="">
+				</div>
+			</div>
+			<div class="mgb-20">
+				<h2 class="fs-30 orangemarker"><em class="marker">社員食堂・カフェなどの混雑見える化</em></h2>
+			</div>
+			<div class="device_detail_flex">
+				<div class="device_detail_textarea">
+					<p class="device_detail_text">
+						オフィスの食堂や大学のカフェはお昼時は特に混雑します。お客様が食堂へ移動する前に、施設内のモニターやサイネージなどに混雑状況をリアルタイムに表示することで、混雑が分散されます。限られた休み時間の有効に使いたいお客様のストレスを軽減することが可能になります。
+					</p>
+				</div>
+				<div class="device_detail_img_area">
+					<img src="../../assets/img/device/img_comieru07.jpg" alt="">
+				</div>
+			</div>
+		</div>
+
+		<div id="device_detail_04" class="device_detail_05">
+			<div class="ttlarea">
+				<div class="mgb-20">
+					<h2 class="fs-30 blackbelt">システム構成</h2>
+				</div>
+			</div>
+			<p class="device_detail_text">
+			  解析した混雑データはクラウドサーバーに保存されるため、ローカル環境のサーバーは不要です。
+                <br>
+                  また、人物検出の解析時に利用する映像は録画保存されていないためプライバシーの保護が考慮さ
+ています。 </p>
+      <div class="device_detail_flex">
+				<img class="half" src="../../assets/img/device/img_comieru_system.jpg" alt="">
+			</div>
+		</div>
+
+		<div id="device_detail_06" class="device_detail_03">
+			<div class="ttlarea">
+				<div class="mgb-20">
+					<h2 class="fs-30 blackbelt">関連データドキュメント</h2>
+				</div>
+			</div>
+			<div class="card frame">
+				<div class="frameinner">
+					<p class="ta-c fw-700">関連データドキュメント</p>
+					<div class="device_detail_flex">
+						<div class="device_detail_pdf">
+							<p class="device_detail_pdf_txt">製品紹介リーフレット</p>
+                            <!--							<!-- <img src="../../assets/img/device/pdf.svg" alt="pdf"> -->
+                            <!--<p class="device_detail_pdf_capacity">（〇〇KB）</p>-->
+<a href="../../download/leaflet/comieru_Brochure.pdf" class="btn orange pdf" target="_blank"><span class="pdf fs-16">詳細を見る</span></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="device_detail_07" class="device_detail_04 device">
+			<div class="ttlarea">
+				<div class="mgb-20">
+					<h2 class="fs-30 blackbelt">対応デバイス</h2>
+				</div>
+			</div>
+			<div class="l-cols2">
+				<div class="col card blackline btn-bottom-fix"><div class="l-spcols2"><div class="card-cell card-ttl"><p class="name-jp">ステレオカメラ</p><p class="name-en">SSC-2300　[生産終了予定]</p></div><div class="col card-cell"><img src="/assets/img/logo/secure.png" alt="secure" class="logo secure"><img src="/assets/img/device/item79.jpg" alt="" class="imgfix"></div></div><div class="col spec"><ul class="listdisc"><li>ピープルカウント</li><li>屋外対応</li><li>PoE給電対応</li><li>リモートメンテナンス</li><li>AC電源対応</li></ul></div><div class="card-btn"><a href="/device/eye/ssc-2300.html" class="btn small orange"><span class="more fs-rennermedium"><span>商品詳細を見る</span></span></a></div></div>
+				<div class="col card blackline btn-bottom-fix"><div class="l-spcols2"><div class="card-cell card-ttl"><p class="name-jp">ステレオカメラ</p><p class="name-en">SSC-2500</p></div><div class="col card-cell"><img src="/assets/img/logo/secure.png" alt="secure" class="logo secure"><img src="/assets/img/device/item80.jpg" alt="" class="imgfix"></div></div><div class="col spec"><ul class="listdisc"><li>ピープルカウント</li><li>屋外対応</li><li>PoE給電対応</li><li>リモートメンテナンス</li><li>AC電源対応</li></ul></div><div class="card-btn"><a href="/device/eye/ssc-2500.html" class="btn small orange"><span class="more fs-rennermedium"><span>商品詳細を見る</span></span></a></div></div>
+
+
+			</div>
+		</div>
+
+		<!-- <div id="device_detail_08" class="device_detail_06 device">
+			<div class="ttlarea">
+				<div class="mgb-20">
+					<h2 class="fs-30 blackbelt">関連商品</h2>
+				</div>
+			</div>
+			<div class="l-cols2">
+				<div class="col card blackline btn-bottom-fix">
+					<div class="l-spcols2">
+						<div class="card-cell card-ttl">
+							<p class="name-jp">IP顔認証デバイス</p>
+							<p class="name-en">FaceStation2</p>
+						</div>
+						<div class="col ta-c card-cell sp-ta-c">
+							<img src="/assets/img/device/item01.jpg" alt="" class="imgfix">
+						</div>
+					</div>
+					<div class="col spec">
+						<ul class="listdisc">
+						<li>認証方式（顔・カード・テンキー）</li><li>0〜25,000lxの動作照度 </li><li>Andoroid 5.0 Lollipopによるセキュリティの強化</li><li>勤怠管理との連携が可能</li><li>スタンドアロンでの運用が可能</li><li>認証方式（顔・カード・テンキー）</li>
+						</ul>
+					</div>
+					<div class="card-btn">
+						<a href="https://secureinc.co.jp/product-service/facestation2.html" class="btn small orange"><span class="more fs-rennermedium"><span>商品詳細を見る</span></span></a>
+					</div>
+				</div>
+
+				<div class="col card blackline btn-bottom-fix">
+					<div class="l-spcols2">
+						<div class="card-cell card-ttl">
+							<p class="name-jp">IP指紋認証デバイス【屋外対応】</p>
+							<p class="name-en">BioStation2</p>
+						</div>
+						<div class="col ta-c card-cell sp-ta-c">
+							<img src="/assets/img/device/item02.jpg" alt="" class="imgfix">
+						</div>
+					</div>
+					<div class="col spec">
+						<ul class="listdisc">
+						<li>認証方式（指紋・カード・テンキー）</li><li>1分以内に最大5,000のユーザーデータを転送</li><li>スタンドアロンでの運用が可能</li><li>勤怠管理との連携が可能</li><li>IP65認定 防塵・防水仕様</li><li>認証方式（指紋・カード・テンキー）</li>
+						</ul>
+					</div>
+					<div class="card-btn">
+						<a href="https://secureinc.co.jp/product-service/biostation2.html" class="btn small orange"><span class="more fs-rennermedium"><span>商品詳細を見る</span></span></a>
+					</div>
+				</div>
+
+				<div class="col card blackline btn-bottom-fix">
+					<div class="l-spcols2">
+						<div class="card-cell card-ttl">
+							<p class="name-jp">IP指紋認証デバイス</p>
+							<p class="name-en">BioStationL2</p>
+						</div>
+						<div class="col ta-c card-cell sp-ta-c">
+							<img src="/assets/img/device/item03.jpg" alt="" class="imgfix">
+						</div>
+					</div>
+					<div class="col spec">
+						<ul class="listdisc">
+						<li>認証方式（指紋・カード・テンキー）</li><li>高度なLFD（ライブ指紋検出）技術</li><li>スタンドアロンでの運用が可能</li><li>勤怠管理との連携が可能</li><li>認証方式（指紋・カード・テンキー）</li>
+						</ul>
+					</div>
+					<div class="card-btn">
+						<a href="https://secureinc.co.jp/product-service/biostationL2.html" class="btn small orange"><span class="more fs-rennermedium"><span>商品詳細を見る</span></span></a>
+					</div>
+				</div>
+
+				<div class="col card blackline btn-bottom-fix">
+					<div class="l-spcols2">
+						<div class="card-cell card-ttl">
+							<p class="name-jp">屋外用IP指紋認証デバイス【屋外対応】</p>
+							<p class="name-en">BioEntryW2</p>
+						</div>
+						<div class="col ta-c card-cell sp-ta-c">
+							<img src="/assets/img/device/item04.jpg" alt="" class="imgfix">
+						</div>
+					</div>
+					<div class="col spec">
+						<ul class="listdisc">
+						<li>認証方式（指紋・カード）</li><li>高度なLFD（ライブ指紋検出）技術</li><li>スタンドアロンでの運用が可能</li><li>IP67準拠の防水／防塵性能</li><li>PoE給電が可能</li><li>認証方式（指紋・カード）</li>
+						</ul>
+					</div>
+					<div class="card-btn">
+						<a href="https://secureinc.co.jp/product-service/bioentryW2.html" class="btn small orange"><span class="more fs-rennermedium"><span>商品詳細を見る</span></span></a>
+					</div>
+				</div>
+			</div>
+
+			<div class="ta-c">
+				<a href="/device/" class="btn"><span class="more fs-rennermedium"><span>See More</span></span></a>
+			</div>
+		</div> -->
+
+	</section>
+
+	<aside>
+<div class="contact-include"></div>
+<div class="case-include"></div>
+<div class="solution-include"></div>
+</aside>
+
+	<div class="dlbox noPC">
+		<a href="/download/" class="btn orange shadow">
+			3分で分かる「オフィスセキュリティ対策」<br>
+			<em class="dl fs-30"><span class="fw-700">資料ダウンロード</span>はコチラ</em>
+		</a>
+		<strong class="casenum orangeunderline fs-30 fw-500 noSP">導入実績<span class="fc-orange number"><span class="fs-60 fw-700 number">4,000</span>社</span>以上</strong>
+	</div>
+
+
+	<div class="pagetop">
+		<span class="fs-renner">PAGE TOP</span>
+	</div>
+	<footer class="footer-include"></footer>
+	<div class="mask"></div>
+	<div class="mask"></div>
+</body>
+</html>

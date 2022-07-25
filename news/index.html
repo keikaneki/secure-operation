@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="ja-JP">
+<head>
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5873P36');</script>
+<!-- End Google Tag Manager -->
+	<meta charset="UTF-8">
+	<title>ニュース｜AI、顔認証セキュリティはSECURE | 株式会社セキュア</title>
+	<meta name="description" content="監視カメラシステムや入退室システム等のセキュリティソリューションを提供する株式会社セキュアのニュース一覧ページです。">
+	<meta name="keywords" content="セキュア,SECURE,ニュース,お知らせ,プレスリリース,セキュリティ">
+	<link rel="shortcut icon" href="/assets/img/fav.ico">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="format-detection" content="telephone=no">
+	<meta property="og:title" content="ニュース｜AI、顔認証セキュリティはSECURE">
+	<meta property="og:type" content="website">
+	<meta property="og:description" content="監視カメラシステムや入退室システム等のセキュリティソリューションを提供する株式会社セキュアのニュース一覧ページです。">
+	<meta property="og:url" content="https://secureinc.co.jp/news/">
+	<meta property="og:image" content="/assets/img/share.png">
+	<meta property="og:site_name" content="入退室管理・防犯カメラなど、オフィスセキュリティのことならセキュア">
+	<meta property="og:locale" content="ja_JP">
+	<link rel="stylesheet" href="/assets/css/common.css?v=20021303">
+	<script src="/assets/js/jquery1.8.3.js"></script>
+	<script src="/assets/js/common.min.js"></script>
+	<script src="/assets/js/bundle.js"></script>
+<script src="/assets/js/include.js" type="text/javascript"></script></head>
+
+<body>
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5873P36"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	<header class="header-include"></header>
+	<section class="news l-inner news_archive_page">
+		<nav class="breadcrumb">
+			<ul>
+				<li><a href="/">TOP</a></li>
+				<li><span>NEWS一覧</span></li>
+			</ul>
+		</nav>
+
+		<div class="ttlarea ta-c">
+			<h1 class="fs-rennermedium fs-50">NEWS</h1>
+			<h2 class="fs-20">ニュース</h2>
+		</div>
+
+		<div class="ttlarea">
+			<div class="ttlarea">
+				<h3 v-if="news_data['page_sort_title']" class="fs-30 blackbelt">{{ news_data['page_sort_title'] }}</h3>
+				<h3 v-else class="fs-30 blackbelt">最新情報一覧</h3>
+			</div>
+		</div>
+
+		<div class="l-cols">
+			<div class="main col">
+				<div class="newslist hblock">
+					<template v-for="(news_data_item,index) in news_data['posts']">
+						<div class="unit">
+							<div class="date" v-if="news_data_item['date']">
+								<span>{{ news_data_item['date']['year'] }}.{{ news_data_item['date']['month'] }}.{{ news_data_item['date']['day'] }}</span>
+							</div>
+							<dl>
+								<dt class="label orange small" v-if="news_data_item['category']">{{ news_data_item['category'][0]['name'] }}</dt>
+								<dd v-if="news_data_item['link_flag']">
+									<a :href="'/news/detail.html?id=' + news_data_item['ID']">{{ news_data_item['post_title'] }}</a>
+								</dd>
+								<dd v-else>{{ news_data_item['post_title'] }}</dd>
+							</dl>
+						</div>
+					</template>
+				</div>
+			</div>
+
+			<div class="sub col">
+				<div class="moarch block">
+					<ul>
+						<li v-for="(archive_data_year,year_index) in archive_data" class="maincat">
+							<a class="js-accordion btn arrow" v-if="archive_data" :href="'/news/?year=' + year_index"><span>{{ year_index }}</span></a>
+							<ul>
+								<li v-for="(archive_data_month,index) in archive_data_year">
+									<a :href="'/news/?year=' + year_index + '&month=' + archive_data_month">{{ archive_data_month }}</a>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+
+				<div class="catarch block">
+					<ul>
+						<li v-for="(item,index) in category_data">
+							<a :href="'/news/?cat=' + item['term_id']" class="btn black xs fs-12">{{ item['name'] }}</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+		<div class="pager pagerpos">
+			<div v-if="news_data['now_pages'] > 1" class="prev">
+				<a :href="news_move_page(parseInt(news_data['now_pages']) - 1)">PREV BLOG</a></div>
+			<div class="pagination pagepadding">
+				<ul>
+					<template v-for="(pages,index) in news_data['max_pages']">
+						<li v-if="(index + 1) != news_data['now_pages']">
+							<a :href="news_move_page(index + 1)">{{ index + 1 }}</a></li>
+						<li v-else-if="(index + 1) == news_data['now_pages']">{{ index + 1 }}</li>
+					</template>
+				</ul>
+			</div>
+			<div v-if="(news_data['max_pages'] - news_data['now_pages']) > 0" class="next">
+				<a :href="news_move_page(parseInt(news_data['now_pages']) + 1)">NEXT BLOG</a>
+			</div>
+		</div>
+
+
+	</section>
+	<aside>
+<div class="contact-include"></div>
+<div class="case-include"></div>
+<div class="solution-include"></div>
+</aside>
+
+	<!--3mitsu download include-->
+	<div class="3mitsu-include"></div>
+	<!--//3mitsu download include-->
+
+
+	<div class="pagetop">
+		<span class="fs-renner">PAGE TOP</span>
+	</div>
+	<footer class="footer-include"></footer>
+	<div class="mask"></div>
+</body>
+</html>

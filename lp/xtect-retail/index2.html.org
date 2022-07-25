@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js"><!-- Head -->
+	<head>
+		<title>「withコロナ時代」の店舗対策を提案｜株式会社セキュア</title>
+		<!-- Meta -->
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="keywords" content="株式会社セキュア,SECURE,withコロナ,ウィズコロナ,afterコロナ,アフターコロナ,対策,店舗,店,3密,混雑,見える化,ソーシャルディスタンス,フィジカルディスタンス,顔認証,体温測定,混雑状況,xtect,エクステクト">
+		<meta name="description" content="withコロナ、afterコロナ時代に突入し、店側は様々な感染予防対策を行っていると思います。お客様・従業員の安全を確保しながら安心して利用していただくために、株式会社セキュアでは３密状態の回避や混雑状況を把握できる様々なソリューション「Secure Xtect for Retail 」を展開しております。">
+		<meta name="author" content="htmlstream.com"><!-- Favicon -->
+		<link rel="shortcut icon" href="/assets/img/fav.ico">
+		<link href="//fonts.googleapis.com/css?family=Playfair+Display:400,700%7COpen+Sans:300,400,600,700" rel="stylesheet"><!-- Bootstrap Styles -->
+		<link rel="stylesheet" type="text/css" href="../assets/vendors/bootstrap/css/bootstrap.css"><!-- Components Vendor Styles -->
+		<link rel="stylesheet" type="text/css" href="../assets/vendors/font-awesome/css/fontawesome-all.min.css">
+		<link rel="stylesheet" type="text/css" href="../assets/vendors/magnific-popup/magnific-popup.css"><!-- Theme Styles -->
+		<link rel="stylesheet" type="text/css" href="../assets/css/styles.css">
+		<link rel="stylesheet" type="text/css" href="../assets/css/add.css">
+		<link rel="stylesheet" type="text/css" href="../assets/css/inq.css">
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-5873P36');</script><!-- End Google Tag Manager -->
+	</head>
+	<!-- End Head -->
+	<body class="retail"><!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5873P36" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+		</noscript>
+		<!-- End Google Tag Manager (noscript) -->
+		<!-- Header -->
+		<header><!-- Navbar -->
+		<!--<nav class="js-navbar-scroll navbar fixed-top navbar-expand-lg navbar-dark">-->
+		<nav class="js-navbar-scroll navbar navbar-dark navbar-expand-lg">
+		<div class="container-fluid"><img src="../assets/img/logo-white.png" alt="Stream UI Kit" style="width: auto;"><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo" aria-controls="navbarTogglerDemo" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+
+			<div class="collapse navbar-collapse" id="navbarTogglerDemo">
+				<ul class="navbar-nav mt-lg-0">
+					<li class="mb-2 mb-sm-0 mb-lg-0 mb-lg-0 ml-lg-2"><img src="../assets/img/logo_secure-xtect.gif" width="175" alt="logo_secure-xtect.gif"></li>
+				</ul>
+				<ul class="navbar-nav ml-auto mt-lg-0">
+					<li class="nav-item1 nav-item mr-2 mb-2 mb-lg-0"><a class="pb-0 nav-link" href="../xtect-office/"><i class="fa fa-caret-right" aria-hidden="true"></i> オフィス向け</a></li>
+					<li class="nav-item2 nav-item mr-2 mb-0 mb-lg-0"><a class="pb-0 nav-link active" href=""><i class="fa fa-caret-down" aria-hidden="true"></i> リテール(店舗)向け</a></li>
+					<li class="nav-item3 nav-item mr-2 mb-2 mb-lg-0"><a class="nav-link active" href="../xtect-fitness/"><i class="fa fa-caret-right" aria-hidden="true"></i> フィットネスジム向け</a></li>
+				</ul>
+				<hr class="sm">
+				<div class="nav-item ml-3 mr-3"><a class="btn btn-white bg-white text-orange" style="padding: 0.1em 0.4em 0.08em;" href="tel:+81-800-919-9500"><strong><img style="margin-top: -3px;" src="../assets/img/pct_freecall.jpg">0800-919-9500</strong></a>
+				</div>
+				<div class="nav-item"><a class="btn btn-white bg-white text-orange" style="padding: 0.1em 0.4em 0.08em;" href="https://lp.secureinc.co.jp/contact.html" target="_blank"><span class="fas fa-envelope mr-1"></span><strong>お問い合わせ</strong></a>
+				</div>
+			</div>
+		</div>
+		</nav>
+		<!-- End Navbar -->
+		<!-- Promo Block -->
+		<section class="u-promo-block u-promo-block-mheight-500 u-overlay text-white" style="background-image: url(../assets/img-temp/1920x1080/mainvisual_retile.jpg);"><!-- Promo Content -->
+		<div class="container u-overlay__inner u-ver-center">
+			<div class="row">
+				<div class="col-xl-8 offset-xl-2 col-lg-8 offset-lg-2 col-md-10 offset-md-1 col-sm-12 offset-sm-0 col-xs-12 offset-xs-0">
+					<div class="text-center">
+						<h1 class="display-sm-4 display-lg-3"><img src="../assets/img/retail/main-text.png" alt="withコロナ時代の新しいオフィスワークソリューション" style="width: 100%;">
+						</h1>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- End Promo Content -->
+		</section>
+		<!-- End Promo Block -->
+		</header>
+		<!-- End Header -->
+		<main role="main"><!-- About Section -->
+		<section class="bg-wakakusa">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 mx-auto text-center t-white">
+					<h2>Withコロナ時代の<br class="md sm">リテールの課題 
+					</h2>
+					<p class="ft1_2rem" style="line-height: 1.4;">スーパーマーケット・ショッピングモールなど<br class="sm">小売業界向けに、<br class="lg md">お客様の3密状態の回避や<br class="sm">従業員の健康把握を支援する<br class="sm">新たなリテールテックモデルを実現</p>
+				</div>
+			</div>
+		</div>
+		</section>
+		<!-- End About Section -->
+		<div class="container">
+			<hr class="my-0">
+		</div>
+		<section class="pd-t15 pd-b0 crowded-3">
+		<div class="container mb-4">
+			<div class="row">
+				<div class="col-md mb-5 mb-lg-0 md-w80">
+					<div class="display-4 t-wakakusa mb-2 text-center"><i class="fa fa-check-circle"></i>
+					</div>
+					<h4 class="text-center t-wakakusa">お客様の健康状態の確認</h4>
+					<p class="ft1_2rem mb-4">感染予防を目的としたお客様の健康確認をどうしたらいいか</p>
+					<p><a href="#ANCHOR01"><img src="../assets/img/retail/bg1-1.jpg" alt="入店時の体温測定" style="width: 100%;"></a></p>
+				</div>
+				<div class="col-md mb-5 mb-lg-0 md-w80">
+					<div class="display-4 t-wakakusa mb-2 text-center"><i class="fa fa-check-circle"></i>
+					</div>
+					<h4 class="text-center t-wakakusa">3密対策</h4>
+					<p class="ft1_2rem mb-4">店舗内の「3密」（密集・密接・密閉）の回避をどうしたらいいか</p>
+					<p><a href="#ANCHOR02"><img src="../assets/img/retail/bg1-2.jpg" alt="マスク着用／体温のチェック" style="width: 100%;"></a></p>
+				</div>
+				<div class="col-md mb-5 mb-lg-0 md-w80">
+					<div class="display-4 t-wakakusa mb-2 text-center"><i class="fa fa-check-circle"></i>
+					</div>
+					<h4 class="text-center t-wakakusa">従業員の健康管理</h4>
+					<p class="ft1_2rem mb-4">パート・アルバイトを含む全従業員の体調管理をどうしたらいいか</p>
+					<p><a href="#ANCHOR03"><img src="../assets/img/retail/bg1-3.jpg" alt="テレワーク時の情報保護" style="width: 100%;"></a></p>
+				</div>
+			</div>
+		</div>
+		</section>
+		<section class="section-pd-top">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-6 mb-5 mb-lg-0">
+					<p class="text-center"><img src="../assets/img/retail/img1-1.gif" alt="ソーシャルディスタンス" style="width: 70%;"></p>
+				</div>
+				<div class="col-lg-6 mb-5 mb-lg-0">
+					<p class="text-center"><img src="../assets/img/retail/img1-2.gif" alt="ヘルスチェック" style="width: 70%;"></p>
+				</div>
+			</div>
+		</div>
+		</section>
+		<section class="bg-orange">
+		<div class="container">
+			<div class="mb-5 text-center t-white">
+				<h2 class="">詳しい問い合わせはこちら！</h2>
+				<p class="ft1_5rem">お客様にぴったりの解決策をご提案いたします。</p>
+			</div>
+			<div class="row">
+				<div class="col-md-4 col-xs-8 offset-xs-2 mb-0 mb-lg-0">
+					<div class="alpha80 text-center"><a href="tel:+81-800-919-9500"><img src="../assets/img/bg2-1.png" alt="電話81-800-919-9500" style="max-width: 100%;;"></a>
+					</div>
+				</div>
+				<div class="col-md-4 col-xs-8 offset-xs-2 mb-0 mb-lg-0">
+					<div class="alpha80 text-center"><a href="https://lp.secureinc.co.jp/contact.html" target="_blank"><img src="../assets/img/bg2-2.png" alt="問合せ" style="max-width: 100%;;"></a>
+					</div>
+				</div>
+				<div class="col-md-4 col-xs-8 offset-xs-2 mb-0 mb-lg-0">
+					<div class="alpha80 text-center"><a href="https://secureinc.co.jp/download/" target="_blank"><img src="../assets/img/bg2-3.png" alt="資料download" style="max-width: 100%;;"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		</section>
+		<section>
+		<div class="container">
+			<div class="mb-9">
+				<h3 class="mb-7 text-center">課題を解決に導く、<br class="md">セキュアの様々な<br class="sm">ソリューション！ 
+				</h3>
+				<p class="col-lg-8 offset-lg-2"><img src="../assets/img/retail/img3-1.gif" alt="ソリューション" style="width: 100%;"></p>
+			</div>
+			<div class="row">
+				<div class="col-md-4 col-xs-10 offset-xs-1 mb-0 mb-lg-0">
+					<p class="alpha80 text-center"><a href="#ANCHOR01"><img src="../assets/img/retail/bg3-1.gif" alt="ウォークスルーによる体温確認" style="max-width: 100%;"></a></p>
+				</div>
+				<div class="col-md-4 col-xs-10 offset-xs-1 mb-0 mb-lg-0">
+					<p class="alpha80 text-center"><a href="#ANCHOR02"><img src="../assets/img/retail/bg3-2.gif" alt="マス店舗・施設 の混雑見える化" style="max-width: 100%;"></a></p>
+				</div>
+				<div class="col-md-4 col-xs-10 offset-xs-1 mb-0 mb-lg-0">
+					<p class="alpha80 text-center"><a href="#ANCHOR03"><img src="../assets/img/retail/bg3-3.gif" alt="従業員の体調管理" style="max-width: 100%;"></a></p>
+				</div>
+			</div>
+		</div>
+		</section>
+		<!--01-->
+		<section id="ANCHOR01" class="bg-yamabuki section-pd-bottom-200">
+		<div class="container">
+			<div class="mb-9 text-center">
+				<p class="alpha80"><img src="../assets/img/retail/bg3-1_small.gif" alt="01---ウォークスルーによる体温確認"></p>
+				<h2 class="t-white">入店時にお客様の<br class="sm">体温をチェック！<br>カメラなので広範囲を<br class="sm">カバーできる！
+
+				</h2>
+			</div>
+		</div>
+		</section>
+		<section style="margin-top: -220px;">
+		<div class="container sm-fullcontainer mb-5">
+			<div class="row">
+				<p class="col-lg-10 offset-lg-1 col-sm-12 offset-sm-0"><img src="../assets/img/retail/img4-1.gif" alt="Xtect体温測定サーマルカメラ" style="width: 100%;"></p>
+			</div>
+		</div>
+		<div class="container">
+			<div class="mb-9">
+				<p class="ft1_5rem mb-1 text-center">来店者体温スクリーニング</p>
+				<h2 class="mb-5 text-center">Xtect体温測定サーマルカメラ</h2>
+				<p class="ft1_5rem mb-1 md-t-left">ウイルス感染の確認可能な要素の一つが「発熱」です。<br>Xtect 体温測定サーマルカメラは、温度測定精度が高く、瞬時に発熱者をスクリーニングすることができます。群衆で移動する場所や、行列で入退室する環境にも最適です。</p>
+			</div>
+			<div class="row">
+				<div class="col-lg-6 offset-lg-3 col-md-12 offset-md-0">
+					<ul class="ft1_2rem qa mb-9">
+						<li>効率性が高く、わずか１秒で温度を測定</li>
+						<li>非接触温度測定をサポート</li>
+						<li>1〜3m離れた場所から体温測定が可能</li>
+						<li>リアルタイム音声アラーム</li>
+						<li>選べる２つのタイプ：カメラタイプとハンディタイプ</li>
+					</ul>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-6 mb-5 mb-lg-0">
+					<p class="text-center"><img src="../assets/img/retail/img4-3.jpg" alt="Xtect体温測定サーマルカメラ" style="width: 70%;"></p>
+				</div>
+				<div class="col-lg-6 mb-5 mb-lg-0">
+					<p class="text-center"><img src="../assets/img/retail/img4-4.jpg" alt="Xtect体温測定サーマルカメラ" style="width: 70%;"></p>
+				</div>
+			</div>
+		</div>
+		</section>
+		<section id="ANCHOR02" class="bg-yomogi section-pd-bottom-200">
+		<!--02-->
+		<div class="container">
+			<div class="mb-9 text-center">
+				<p class="alpha80"><img src="../assets/img/retail/bg3-2_small.gif" alt="02--店舗・施設の混雑見える化"></p>
+				<h2 class="t-white">WEBページでお店の混雑状況を<br class="md">お知らせできる！
+				</h2>
+			</div>
+		</div>
+		</section>
+		<section style="margin-top: -220px;">
+		<div class="container sm-fullcontainer mb-5">
+			<div class="row">
+				<p class="col-lg-10 offset-lg-1 col-sm-12 offset-sm-0"><img src="../assets/img/retail/img5-1.gif" alt="ヘルスチェック" style="width: 100%;"></p>
+			</div>
+		</div>
+		<div class="container">
+			<div class="mb-9">
+				<p class="ft1_5rem mb-1 md-t-left">店舗や施設のリアルタイムの混雑状況をWEB上で公開する事によって、<br class="lg">買い物客や施設利用者は、出かける前にWEBで混雑状況を確認する事が可能です。<br class="lg">
+					よって、混雑ピーク時を回避して出かけることが可能になります。<br class="lg">WEBにて公開のため、“いつでも” “どこから”でも店舗・施設の混雑状況の確認が可能です。</p>
+			</div>
+			<div class="row">
+				<div class="col-lg-8 offset-lg-2 col-md-12 offset-md-0">
+					<ul class="ft1_2rem qa mb-9">
+						<li>WEBページから店舗・施設内のリアルタイムの混雑状況を把握</li>
+						<li>混雑度は５段階の分かりやすいアイコン表示で、ひと目で混雑状況を把握できる</li>
+						<li>自宅から、外出先から、どこからでも店舗・施設の混雑状況を把握できる</li>
+						<li>蓄積されたデータから、混雑予測を表示することが可能</li>
+						<li>買い物客が混雑ピーク時を回避して買い物に出かけることが可能</li>
+
+					</ul>
+				</div>
+			</div>
+			<p class="col-lg-10 offset-lg-1 mb-5"><img src="../assets/img/retail/img4-2.gif" alt="混雑度レベル" style="width: 100%;"></p>
+			<div class="row">
+				<div class="col-lg-6 mb-5 mb-lg-0">
+					<p class="text-center"><img src="../assets/img/img4-3.jpg" alt="API" style="width: 70%;"></p>
+				</div>
+				<div class="col-lg-6 mb-5 mb-lg-0">
+					<p class="text-center"><img src="../assets/img/img4-4.gif" alt="混雑時間と傾向の予測" style="width: 70%;"></p>
+				</div>
+			</div>
+		</div>
+		</section>
+		<section id="ANCHOR03" class="bg-marin section-pd-bottom-200">
+		<!--03-->
+		<div class="container">
+			<div class="mb-9 text-center">
+				<p class="alpha80"><img src="../assets/img/retail/bg3-3_small.gif" alt="03--従業員の体調管理"></p>
+				<h2 class="t-white  letter-spacing0">スタッフの出勤時に<br class="sm">マスクの着用<span class="spacer">/</span>体温をチェック！
+				</h2>
+			</div>
+		</div>
+		</section>
+		<section style="margin-top: -220px;">
+		<div class="container sm-fullcontainer mb-5">
+			<div class="row">
+				<p class="col-lg-10 offset-lg-1 col-sm-12 offset-sm-0"><img src="../assets/img/img5-1.jpg" alt="ヘルスチェック" style="width: 100%;"></p>
+			</div>
+		</div>	
+		<div class="container">
+			<div class="mb-9">
+				<p class="ft1_5rem mb-1 text-center">体温測定顔認証リーダー</p>
+				<h2 class="mb-5 text-center">OET-213H-BTS1 </h2>
+				<p class="ft1_5rem mb-1 md-t-left">引き続きウイルスから守る対策の積極的な実施が重要となり、<br class="lg">従業員の体温測定や自覚症状の確認が求められます。<br>
+「 体温・マスク検知 スマート入退室管理」は<br class="lg">非接触の顔認証によって本人認証、マスク着用確認を行い、<br class="lg">非接触の手首による体温測定が可能です。 </p>
+			</div>
+			<div class="row">
+				<div class="col-lg-6 offset-lg-3 col-md-12 offset-md-0">
+					<ul class="ft1_2rem qa mb-9">
+						<li>AI搭載の高感度顔認証技術により入退室を管理</li>
+						<li>非接触温度センサーにより体温を検出</li>
+						<li>スナップショットと体温情報を同時に画面表示</li>
+						<li>高温時には音声アラームにてお知らせ</li>
+						<li>マスク着用者の顔認証をサポート</li>
+						<li>マスク未着用者へ音声にて注意</li>
+						<li>体温の測定は手首で計測（非接触センサー）</li>
+					</ul>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-6 mb-5 mb-lg-0">
+					<p class="text-center"><img src="../assets/img/img5-2.jpg" alt="API" style="width: 70%;"></p>
+				</div>
+				<div class="col-lg-6 mb-5 mb-lg-0">
+					<p class="text-center"><img src="../assets/img/img5-3.jpg" alt="混雑時間と傾向の予測" style="width: 70%;"></p>
+				</div>
+			</div>
+		</div>
+		</section>
+		<section class="bg-daidai section-pd ">
+		<div class="container">
+			<div class="mb-5 text-center t-white">
+				<h2 class="">詳しい問い合わせはこちら！ </h2>
+				<p class="ft1_5rem">お客様にぴったりの解決策を<br class="sm">ご提案いたします。</p>
+			</div>
+			<div class="row">
+				<div class="col-md-4 col-xs-8 offset-xs-2 mb-0 mb-lg-0">
+					<div class="alpha80 text-center"><a href="tel:+81-800-919-9500"><img src="../assets/img/bg2-1.png" alt="電話81-800-919-9500" style="max-width: 100%;;"></a>
+					</div>
+				</div>
+				<div class="col-md-4 col-xs-8 offset-xs-2 mb-0 mb-lg-0">
+					<div class="alpha80 text-center"><a href="https://lp.secureinc.co.jp/contact.html" target="_blank"><img src="../assets/img/bg2-2.png" alt="問合せ" style="max-width: 100%;;"></a>
+					</div>
+				</div>
+				<div class="col-md-4 col-xs-8 offset-xs-2 mb-0 mb-lg-0">
+					<div class="alpha80 text-center"><a href="https://secureinc.co.jp/download/" target="_blank"><img src="../assets/img/bg2-3.png" alt="資料download" style="max-width: 100%;;"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		</section>
+		<section class="section-pd ">
+		<div class="container">
+			<div class="text-center">
+				<p class="mb-2"><img src="../assets/img/logo_secure_gradation.gif" alt="セキュア" style="width: auto;"></p>
+				<p class="ft1_2rem mb-4">株式会社セキュア</p>
+				<ul class="list-unstyled row justify-content-center mb-2">
+					<li class=""><a href="//secureinc.co.jp" target="_blank">製品情報サイト</a></li>
+					<li>｜</li>
+					<li class=""><a href="//secureinc.co.jp/company/index.html" target="_blank">会社概要</a></li>
+					<li>｜</li>
+					<li class=""><a href="//secureinc.co.jp/sitepolicy/" target="_blank">サイトポリシー</a></li>
+					<li>｜</li>
+					<li class=""><a href="//secureinc.co.jp/compliance/" target="_blank">コンプライアンスに関する取り組み</a></li>
+					<li>｜</li>
+					<li class=""><a href="//secureinc.co.jp/privacy/" target="_blank">個人情報保護方針</a></li>
+				</ul>
+			</div>
+		</div>
+		</section>
+		</main>
+		<!-- Footer -->
+		<footer class="py-3">
+		<div class="container">
+			<div class="text-center"><small class="text-white">Copyright &copy;2020 SECURE Inc. All Rights Reserved.</small>
+			</div>
+		</div>
+		</footer>
+		<!-- End Footer -->
+		<div id="page-top">
+			<div id="to-top" class="alpha80 text-center"><a href="#top"><i class="fa fa-angle-up"></i></a>
+			</div>
+		</div>
+		<div class="side_contact ">
+			<div class="side_con_box clearfix">
+				<div class="animate-toggle-title"><img src="../assets/img/10spacer.png" alt="問合せ">
+				</div>
+				<div class="animate-toggle-block" style="display: block;">
+					<span class="bt01"><a href="tel:+81-800-919-9500"><span class=""><img src="../assets/img/pct_inq_but2.png" alt="電話81-800-919-9500"></span></a></span>
+					<p class="bt02"><a href="https://lp.secureinc.co.jp/contact.html" target="_blank"><span class=""><img src="../assets/img/pct_inq_but3.png" alt="問合せ"></span></a></p>
+				</div>
+			</div>
+		</div>
+		<!-- Global Vendor -->
+		<script src="../assets/vendors/jquery.min.js"></script><script src="../assets/vendors/jquery.migrate.min.js"> </script><script src="../assets/vendors/popper.min.js"></script><script src="../assets/vendors/bootstrap/js/bootstrap.min.js"></script><!-- Components Vendor  -->
+		<script src="../assets/vendors/jquery.parallax.js"></script><script src="../assets/vendors/magnific-popup/jquery.magnific-popup.min.js"> </script><script src="../assets/vendors/shuffle/jquery.shuffle.min.js"></script><!-- Theme Settings and Calls -->
+		<script src="../assets/js/global.js"></script><!-- Theme Components and Settings -->
+		<script src="../assets/js/vendors/parallax.js"></script><script src="../assets/js/vendors/magnific-popup.js"></script><script src="../assets/js/vendors/shuffle.js"></script><script src="../assets/js/vendors/jquery.smooth-scroll.min.js"></script>
+		<script src="../assets/js/add.js"></script>
+	</body>
+	<!-- End Body -->
+</html>

@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^company(.*)$ https://corp.secureinc.co.jp/ [L,R=301]

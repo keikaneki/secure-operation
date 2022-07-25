@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="ja-JP">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5873P36');</script>
+<!-- End Google Tag Manager -->
+	<meta charset="UTF-8">
+	<title>入退室管理｜SECURE AC｜顔認証セキュリティはSECURE　株式会社セキュア</title>
+	<meta name="description" content="監視カメラシステムや入退室システム等のセキュリティソリューションを提供する株式会社セキュアのブランド「SECURE」サイトの商品、SECURE AC（入退室管理システム）のページです。顔認証、指紋認証などの生体認証や、カード認証やテンキー認証などの入退室管理システムをご紹介します。">
+	<meta name="keywords" content="セキュア,SECURE,セキュリティ,AI,顔認証,指紋認証,生体認証,カード認証,テンキー認証,入退室管理,入退出管理,出入り管理,物理セキュリテ,勤怠管理,SECURE AC">
+	<link rel="shortcut icon" href="/assets/img/fav.ico">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="format-detection" content="telephone=no">
+	<meta property="og:title" content="商品から探す｜SECURE AC（入退室管理）｜顔認証セキュリティはセキュアのSECURE">
+	<meta property="og:type" content="website">
+	<meta property="og:description" content="監視カメラシステムや入退室システム等のセキュリティソリューションを提供する株式会社セキュアのブランド「SECURE」サイトの商品、SECURE AC（入退室管理システム）のページです。顔認証、指紋認証などの生体認証や、カード認証やテンキー認証などの入退室管理システムをご紹介します。">
+	<meta property="og:url" content="https://secureinc.co.jp/">
+	<meta property="og:image" content="/assets/img/share.png">
+	<meta property="og:site_name" content="入退室管理・防犯カメラなど、オフィスセキュリティのことならセキュア">
+	<meta property="og:locale" content="ja_JP">
+	<link rel="stylesheet" href="/assets/css/common.css?v=20021303">
+	<script src="/assets/js/jquery1.8.3.js"></script>
+	<script src="/assets/js/common.min.js"></script>
+	<script src="/assets/js/bundle.js"></script>
+<script src="/assets/js/include.js" type="text/javascript"></script>
+</head>
+
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5873P36"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	<header class="header-include"></header>
+	<section class="sltpass l-inner">
+		<nav class="breadcrumb">
+			<ul>
+				<li><a href="/">TOP</a></li>
+				<li><a href="/solution/">Solution（商品から探す）</a></li>
+				<li>
+				  <h1><span>SECURE AC（入退室管理）とは？</span></h1>
+				</li>
+			</ul>
+		</nav>
+
+		<div class="ttlarea ta-c">
+			<h2 class="fs-rennermedium fs-50">SECURE AC</h2>
+			<h1 class="fs-20">入退室管理とは？</h1>
+		</div>
+	</section>
+
+	<section class="sltpass">
+		<div class="klphoto">
+			<div class="ttlarea">
+				<div style="margin-bottom: 20px;">
+					<h2 class="fs-rennermedium fs-40 blackbelt">SECURE AC(Access Control)</h2>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="sltpass l-inner">
+		<article class="block">
+			<h1 class="txt">
+				<em class="fs-22 fw-700">SECUREが考える「入退室管理システム」</em><br>
+				カード認証、指紋認証、顔認証などを用いた、各種入退管理システムを利用したソリューションサービスです。<br>
+				例えば、別々の入退管理システムと勤怠管理システムを組み合わせることで、総務の管理業務だけでなく従業員様の打刻手間も減らし、従業員の満足度までも改善するといったシステムをご提案します。
+			</h1>
+			<div class="l-cols3 candolst">
+				<div class="col">
+					<h1 class="label black ta-c fs-20">入退室管理</h1>
+					<div>
+					  <figure class="card-thumb"><img src="/assets/img/solution/cando01.png" alt="" width="192" class="imgfix"></figure>
+						<ul>
+							<li>扉ごとに入退室管理ができる</li>
+							<li>扉ごとにセキュリティレベルを設定</li>
+							<li>ご要望に合わせて、扉ごとに認証方式が選べる</li>
+							<li>屋外でも生体認証での入退室可能</li>
+						</ul>
+					</div>
+				</div>
+				<div class="col">
+					<h3 class="label black ta-c fs-20">労務管理・勤怠管理</h3>
+					<div>
+						<figure class="card-thumb"><img src="/assets/img/solution/cando02.png" alt="" width="192" class="imgfix"></figure>
+						<ul>
+							<li>入退室記録を出退勤記録に設定した場合、拠点数が複数あってもデータを一元管理ができる</li>
+							<li>オフィスにいる人を時間単位ごとに確認ができる</li>
+						</ul>
+					</div>
+				</div>
+				<div class="col">
+					<h3 class="label black ta-c fs-20">オフィス管理・ビル管理</h3>
+					<div>
+						<figure class="card-thumb"><img src="/assets/img/solution/cando03.png" alt="" width="192" class="imgfix"></figure>
+						<ul>
+							<li>収集した勤怠ログから勤怠システムに連携するので、毎日の勤怠管理の業務効率化を実現</li>
+							<li>自動ドアや電動シャッター、各種システムとの連動が可能</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</article>
+	</section>
+
+	<section class="sltpass">
+		<article class="graybelt">
+			<div class="l-inner">
+				<div class="ttlarea ta-c">
+					<div style="margin-bottom: 20px;">
+						<h2 class="fs-rennermedium fs-30 blackframe"><span>こういう方にオススメ</span></h2>
+					</div>
+				</div>
+			</div>
+			<div class="labels l-cols2 l-inner recommend">
+				<div class="col">
+					<p class="label small blackunderline">部屋ごとに入室できる権限を設定したい</p>
+				</div>
+				<div class="col">
+					<p class="label small blackunderline">月次ではなくリアルタイムで勤怠管理をおこないたい</p>
+				</div>
+				<div class="col">
+					<p class="label small blackunderline">なりすまし入室を防止したい</p>
+				</div>
+				<div class="col">
+					<p class="label small blackunderline">毎月の総務のタイムカード集計をもっと効率化させたい</p>
+				</div>
+				<div class="col">
+					<p class="label small blackunderline">エリア・区画ごとにセキュリティレベルを設定したい</p>
+				</div>
+			</div>
+		</article>
+	</section>
+
+	<section class="sltpass l-inner">
+		<div class="anchors">
+			<a href="#feature" class="btn small gray anchor"><span>特長</span></a>
+			<a href="#function" class="btn small gray anchor"><span>機能一覧</span></a>
+			<a href="#device" class="btn small gray anchor"><span>対応デバイス</span></a>
+			<a href="#flow" class="btn small gray anchor"><span>導入までの流れ</span></a>
+		</div>
+		<article class="block">
+			<div class="ttlarea" id="feature">
+				<div style="margin-bottom: 20px;">
+					<h2 class="fs-rennermedium fs-30 blackbelt">SECURE ACの特長</h2>
+				</div>
+			</div>
+			<div class="l-cols3 featurelst">
+				<div class="col flowinner">
+					<div class="card frame framewrap">
+						<div class="frameinner">
+							<h2 class="ta-c"><span class="label orange small fw-700">POINT1</span></h2>
+							<p class="ta-c fw-700 card-vac h2em">組み合わせは自由</p>
+							<div>
+								<figure class="card-thumb"><img src="/assets/img/solution/feature01.png" alt="" class="imgfix" width="198"></figure>
+								<p>お客様の設置環境や、コストなどのご要望に合わせて、生体認証（顔認証・指紋認証）、カード認証、番号認証の、認証方式を自由に組み合わせることが可能です。</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col flowinner">
+					<div class="card frame framewrap">
+						<div class="frameinner">
+							<h2 class="ta-c"><span class="label orange small fw-700">POINT2</span></h2>
+							<p class="ta-c fw-700 card-vac h2em">シームレスに拡張可能</p>
+							<div>
+								<figure class="card-thumb"><img src="/assets/img/solution/feature02.png" alt="" class="imgfix" width="198"></figure>
+								<p>企業の成長や社員の増加に合わせて、既存システムはそのままでシームレスに拡張できます。数人規模から数千人規模まで対応できますので、スタートアップ企業や中小企業には最適です。</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col flowinner">
+					<div class="card frame framewrap">
+						<div class="frameinner">
+							<h2 class="ta-c"><span class="label orange small fw-700">POINT3</span></h2>
+							<p class="ta-c fw-700 card-vac h2em">さまざまなシステムとの<br>連動が可能</p>
+							<div>
+								<figure class="card-thumb"><img src="/assets/img/solution/feature03.png" alt="" class="imgfix" width="198"></figure>
+								<p>自動ドアや電動シャッター等の出入り口、火災報知器や警備システムなどのセキュリティシステム、会員管理システムなどのさまざまなシステムと入退室管理システムが連携させることができます。</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="fs-20 ta-c">
+				<span class="blackunderline">セキュリティ対策はまず「機会を与えないこと」<br class="noSP">
+				物理的なセキュリティシステムの導入・強化はセキュリティ対策の第一歩です。</span>
+			</div>
+		</article>
+		<article class="block">
+			<div class="ttlarea" id="function">
+				<div style="margin-bottom: 20px;">
+					<h2 class="fs-rennermedium fs-30 blackbelt">機能一覧</h2>
+				</div>
+			</div>
+			<div class="labels l-cols5 l-spcols2 function fs-14">
+				<div class="col">
+					<p class="label small blackunderline">顔認証</p>
+				</div>
+				<div class="col">
+					<p class="label small blackunderline">指紋認証</p>
+				</div>
+				<div class="col">
+					<p class="label small blackunderline">カード認証</p>
+				</div>
+				<div class="col">
+					<p class="label small blackunderline">屋外対応</p>
+				</div>
+				<div class="col">
+					<p class="label small blackunderline">スマホ対応</p>
+				</div>
+				<div class="col">
+					<p class="label small blackunderline">曜日・時間別<br>アクセス制御可能</p>
+				</div>
+				<div class="col">
+					<p class="label small blackunderline">認証タイプの統合</p>
+				</div>
+				<div class="col">
+					<p class="label small blackunderline">屋外対応</p>
+				</div>
+				<div class="col">
+					<p class="label small blackunderline">スマホ対応</p>
+				</div>
+				<div class="col">
+					<p class="label small blackunderline">扉ごとの入退室</p>
+				</div>
+				<div class="col">
+					<p class="label small blackunderline">スタンドアローン</p>
+				</div>
+				<div class="col">
+					<p class="label small blackunderline">データ一元管理</p>
+				</div>
+				<div class="col">
+					<p class="label small blackunderline">拡張性</p>
+				</div>
+				<div class="col">
+					<p class="label small blackunderline">他社システム連携</p>
+				</div>
+				<div class="col">
+					<p class="label small blackunderline">自動ドア連携</p>
+				</div>
+				<div class="col">
+					<p class="label small blackunderline">電動シャッター連携</p>
+				</div>
+				<div class="col">
+					<p class="label small blackunderline">火災報知器連動</p>
+				</div>
+				<div class="col">
+					<p class="label small blackunderline">警備連動</p>
+				</div>
+				<div class="col">
+					<p class="label small blackunderline">会員管理連携</p>
+				</div>
+				<div class="col">
+					<p class="label small blackunderline">勤怠システム連動</p>
+				</div>
+			</div>
+		</article>
+		<article class="block">
+			<div class="ttlarea" id="device">
+				<div style="margin-bottom: 20px;">
+					<h2 class="fs-rennermedium fs-30 blackbelt">対応デバイス(一例)</h2>
+				</div>
+			</div>
+			<div class="l-cols2 device">
+				<div class="col card blackline btn-bottom-fix"><div class="l-spcols2"><div class="card-cell card-ttl"><p class="name-jp">IP顔認証デバイス</p><p class="name-en">SA-FS2</p></div><div class="col card-cell"><img src="/assets/img/logo/suprema.png" alt="suprema" class="logo suprema"><a href="../device/pass/SA-FS2.html"><img src="/assets/img/device/item01.jpg" alt="" class="imgfix"></a></div></div><div class="col spec"><ul class="listdisc"><li>ハンズフリーの生体認証</li>
+					<li>スピーディな顔認証</li>
+					<li>最先端の顔認証アルゴリズムを搭載</li>
+<li>多機能IPターミナル</li>
+<li>勤怠管理との連携可能</li>
+</ul></div><div class="card-btn"><a href="/device/pass/SA-FS2.html" class="btn small orange"><span class="more fs-rennermedium"><span>商品詳細を見る</span></span></a></div></div>
+				<div class="col card blackline btn-bottom-fix"><div class="l-spcols2"><div class="card-cell card-ttl"><p class="name-jp">IP指紋認証デバイス</p><p class="name-en">BioStationL2</p></div><div class="col card-cell"><img src="/assets/img/logo/suprema.png" alt="suprema" class="logo suprema"><img src="/assets/img/device/item04.jpg" alt="" class="imgfix"></div></div><div class="col spec"><ul class="listdisc"><li>コンパクトでスタイリッシュなモデル</li>
+<li>様々な用途・環境でフィットする指紋認証ターミナル</li>
+<li>スピーディな指紋認証</li>
+<li>カード認証、テンキー入力機能も可能
+</li></ul></div><div class="card-btn"><a href="/device/pass/biostationl2.html" class="btn small orange"><span class="more fs-rennermedium"><span>商品詳細を見る</span></span></a></div></div>
+			</div>
+			<div class="ta-c">
+				<a href="/device/index.html" class="btn"><span class="more fs-rennermedium"><span>さらに商品を見る</span></span></a>
+			</div>
+		</article>
+		<article id="flow" class="flow block">
+			<div class="ttlarea ta-c">
+				<h1 class="fs-rennermedium fs-50">Flow</h1>
+				<h2 class="fs-20">導入フロー</h2>
+			</div>
+			<div class="l-cols5 flow noSPFlow">
+				<div class="col flowinner js-view js-fadeup-card">
+					<div class="card frame">
+						<div class="frameinner ta-c">
+							<h2 class="ta-c"><span class="label orange small">STEP1</span></h2>
+							<p class="ta-c fs-20 fw-500">お問い合わせ</p>
+							<figure class="noSP card-thumb"><a href="https://lp.secureinc.co.jp/contact.html?pass"><img src="/assets/img/flow/flow01.png" alt="" width="80"></a></figure>
+						</div>
+					</div>
+				</div>
+				<div class="col flowinner js-view js-fadeup-card">
+					<div class="card frame">
+						<div class="frameinner ta-c">
+							<h2 class="ta-c"><span class="label orange small">STEP2</span></h2>
+							<p class="ta-c fs-20 fw-500">ヒアリング<br class="noSP">調査</p>
+							<figure class="noSP card-thumb"><img src="/assets/img/flow/flow02.png" alt="" width="80"></figure>
+						</div>
+					</div>
+				</div>
+				<div class="col flowinner js-view js-fadeup-card">
+					<div class="card frame">
+						<div class="frameinner ta-c">
+							<h2 class="ta-c"><span class="label orange small">STEP3</span></h2>
+							<p class="ta-c fs-20 fw-500">ご提案<br class="noSP">お見積もり</p>
+							<figure class="noSP card-thumb"><img src="/assets/img/flow/flow03.png" alt="" width="80"></figure>
+						</div>
+					</div>
+				</div>
+				<div class="col flowinner js-view js-fadeup-card">
+					<div class="card frame">
+						<div class="frameinner ta-c">
+							<h2 class="ta-c"><span class="label orange small">STEP4</span></h2>
+							<p class="ta-c fs-20 fw-500">施工・導入</p>
+							<figure class="noSP card-thumb"><img src="/assets/img/flow/flow04.png" alt="" width="80"></figure>
+						</div>
+					</div>
+				</div>
+				<div class="col flowinner js-view js-fadeup-card">
+					<div class="card frame">
+						<div class="frameinner ta-c">
+							<h2 class="ta-c"><span class="label orange small">STEP5</span></h2>
+							<p class="ta-c fs-20 fw-500">運用開始</p>
+							<figure class="noSP card-thumb"><img src="/assets/img/flow/flow05.png" alt="" width="80"></figure>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="ta-c">
+				<a href="/flow/" class="btn"><span class="more fs-rennermedium"><span>See More</span></span></a>
+			</div>
+		</article>
+	</section>
+
+	<aside>
+		<div class="contact-include"></div>
+<div class="case-include"></div>
+<div class="solution-include"></div>
+	</aside>
+
+	<div class="dlbox noPC">
+		<a href="/download/" class="btn orange shadow">
+			3分で分かる「オフィスセキュリティ対策」<br>
+			<em class="dl fs-30"><span class="fw-700">資料ダウンロード</span>はコチラ</em>
+		</a>
+		<strong class="casenum orangeunderline fs-30 fw-500 noSP">導入実績<span class="fc-orange number"><span class="fs-60 fw-700 number">4,000</span>社</span>以上</strong>
+	</div>
+
+
+	<div class="pagetop">
+		<span class="fs-renner">PAGE TOP</span>
+	</div>
+	<footer class="footer-include"></footer>
+	<div class="mask"></div>
+</body>
+</html>

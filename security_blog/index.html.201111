@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ja-JP">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5873P36');</script>
+<!-- End Google Tag Manager -->
+	<meta charset="UTF-8">
+	<title>セキュリティブログ｜顔認証セキュリティはSECURE |株式会社セキュア</title>
+	<meta name="description" content="監視カメラシステムや入退室システム等のセキュリティソリューションを提供する株式会社セキュアのセキュリティブログのページです。フィジカルセキュリティ（物理セキュリティ）に関しての素朴な疑問やお役立ち情報などをわかりやすくご紹介します。">
+	<meta name="keywords" content="セキュア,SECURE,セキュリティブログ、ブログ,特集,セキュリティ">
+	<link rel="shortcut icon" href="/assets/img/fav.ico">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="format-detection" content="telephone=no">
+	<meta property="og:title" content="セキュリティブログ｜顔認証セキュリティはセキュアのSECURE">
+	<meta property="og:type" content="website">
+	<meta property="og:description" content="監視カメラシステムや入退室システム等のセキュリティソリューションを提供する株式会社セキュアのセキュリティブログのページです。フィジカルセキュリティ（物理セキュリティ）に関しての素朴な疑問やお役立ち情報などをわかりやすくご紹介します。">
+	<meta property="og:url" content="https://secureinc.co.jp/">
+	<meta property="og:image" content="/assets/img/share.png">
+	<meta property="og:site_name" content="入退室管理・防犯カメラなど、オフィスセキュリティのことならセキュア">
+	<meta property="og:locale" content="ja_JP">
+	<link rel="stylesheet" href="/assets/css/common.css?v=20021303">
+	<script src="/assets/js/jquery1.8.3.js"></script>
+	<script src="/assets/js/common.min.js"></script>
+	<script src="/assets/js/bundle.js"></script>
+<script src="/assets/js/include.js" type="text/javascript"></script></head>
+
+<body>
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5873P36"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	<header class="header-include"></header>
+	<section class="news l-inner security_blog_archive_page ofxh">
+		<nav class="breadcrumb">
+			<ul>
+				<li><a href="/">TOP</a></li>
+				<li><span>SECURITY BLOG一覧</span></li>
+			</ul>
+		</nav>
+
+		<div class="ttlarea ta-c">
+			<h1 class="fs-rennermedium fs-50">SECURITY BLOG</h1>
+			<h2 class="fs-20">セキュリティブログ</h2>
+		</div>
+
+		<div class="ttlarea ta-c">
+			<h3 v-if="security_blog_data['page_sort_title']" class="blackbelt">{{ security_blog_data['page_sort_title'] }}</h3>
+			<h3 v-else class="blackbelt">最新記事一覧</h3>
+		</div>
+
+		<div class="l-cols"><div class="main col"><div class="newslist hblock"><div class="unit"><div class="date"><span>2020.7.9</span></div> <dl><dd><a href="https://secureinc.co.jp/security_blog/detail.html?id=586">withコロナ（コロナ時代）でオフィスが変わる？</a></dd></dl></div><div class="unit"><div class="date"><span>2020.5.28</span></div> <dl> <dd><a href="https://secureinc.co.jp/security_blog/detail.html?id=516">３密対策で、店舗の営業を続ける。</a></dd></dl></div><div class="unit"><div class="date"><span>2019.11.14</span></div> <dl> <dd><a href="https://secureinc.co.jp/security_blog/detail.html?id=94">入退室管理／出入管理ってなんだろう？</a></dd></dl></div><div class="unit"><div class="date"><span>2019.1.4</span></div> <dl> <dd><a href="https://secureinc.co.jp/security_blog/detail.html?id=95">共連れ対策　共連れを防止するには</a></dd></dl></div>
+		</div></div> <div class="sub col"><div class="moarch block"><ul>
+<!--			<li class="maincat"><a href="/news/?year=2018" class="js-accordion btn arrow"><span>2018</span></a> <ul><li><a href="/news/?year=2018&amp;month=3">3</a></li><li><a href="/news/?year=2018&amp;month=6">6</a></li><li><a href="/news/?year=2018&amp;month=7">7</a></li><li><a href="/news/?year=2018&amp;month=10">10</a></li><li><a href="/news/?year=2018&amp;month=11">11</a></li><li><a href="/news/?year=2018&amp;month=12">12</a></li></ul></li>-->
+<!--			<li class="maincat"><a href="/news/?year=2019" class="js-accordion btn arrow"><span>2019</span></a> <ul><li><a href="/news/?year=2019&amp;month=2">2</a></li><li><a href="/news/?year=2019&amp;month=6">6</a></li><li><a href="/news/?year=2019&amp;month=8">8</a></li></ul></li>-->
+			
+<!--			<li class="maincat"><a href="/news/?year=2020" class="js-accordion btn arrow"><span>2020</span></a> <ul><li><a href="/news/?year=2020&amp;month=1">1</a></li><li><a href="/news/?year=2020&amp;month=4">4</a></li><li><a href="/news/?year=2020&amp;month=5">5</a></li><li><a href="/news/?year=2020&amp;month=6">6</a></li><li><a href="/news/?year=2020&amp;month=7">7</a></li></ul></li>-->
+			
+			</ul></div> 
+			
+<!--			<div class="catarch block"><ul><li><a href="/news/?cat=246" class="btn black xs fs-12">AI STORE LAB</a></li><li><a href="/news/?cat=245" class="btn black xs fs-12">メディア掲載</a></li><li><a href="/news/?cat=225" class="btn black xs fs-12">レポート</a></li><li><a href="/news/?cat=56" class="btn black xs fs-12">ニュースリリース</a></li><li><a href="/news/?cat=20" class="btn black xs fs-12">プレスリリース</a></li><li><a href="/news/?cat=17" class="btn black xs fs-12">お知らせ</a></li></ul></div></div></div>-->
+
+<!--
+		<div class="pager pagerpos">
+			<div v-if="security_blog_data['now_pages'] > 1" class="prev">
+				<a :href="security_blog_move_page(parseInt(security_blog_data['now_pages']) - 1)">PREV BLOG</a></div>
+			<div class="pagination pagepadding">
+				<ul>
+					<template v-for="(pages,index) in security_blog_data['max_pages']">
+						<li v-if="(index + 1) != security_blog_data['now_pages']">
+							<a :href="security_blog_move_page(index + 1)">{{ index + 1 }}</a></li>
+						<li v-else-if="(index + 1) == security_blog_data['now_pages']">{{ index + 1 }}</li>
+					</template>
+				</ul>
+			</div>
+			<div v-if="(security_blog_data['max_pages'] - security_blog_data['now_pages']) > 0" class="next">
+				<a :href="security_blog_move_page(parseInt(security_blog_data['now_pages']) + 1)">NEXT BLOG</a>
+			</div>
+		</div>
+-->
+	</section>
+	<aside>
+<div class="contact-include"></div>
+<div class="case-include"></div>
+<div class="solution-include"></div>
+</aside>
+
+	<div class="dlbox noPC">
+		<a href="/download/" class="btn orange shadow">
+			3分で分かる「オフィスセキュリティ対策」<br>
+			<em class="dl fs-30"><span class="fw-700">資料ダウンロード</span>はコチラ</em>
+		</a>
+		<strong class="casenum orangeunderline fs-30 fw-500 noSP">導入実績<span class="fc-orange number"><span class="fs-60 fw-700 number">4,000</span>社</span>以上</strong>
+	</div>
+
+
+	<div class="pagetop">
+		<span class="fs-renner">PAGE TOP</span>
+	</div>
+	<footer class="footer-include"></footer>
+	<div class="mask"></div>
+</body>
+</html>

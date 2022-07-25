@@ -1,0 +1,180 @@
+@charset "UTF-8";
+/* */
+.l-cols a { color:#222;  text-decoration: underline;
+   -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all  0.3s ease;}
+.l-cols a:hover {color:#555; text-decoration: none;}
+
+.aio_media em {font-style:oblique; margin-right:.25rem;}
+.aio_media .note {font-size:80%; color:#666; word-break: break-all;}
+.aio_media .inner_box01 {border:1px solid #ccc; padding:1rem; font-size:90%; margin-bottom:20px;}
+
+table th {
+  background: #f5ebe2;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 3px;
+  vertical-align: middle;
+}
+
+ul.def_list {padding:0 0 1rem 0; list-style:none;}
+ul.def_list li { font-size:.9rem; padding:0; margin:0 0 0 2.5rem; list-style-type: disc; padding:.2rem 0;}
+ul.def_list li ul li { margin:0 0 0 1.5rem; list-style-type: circle; padding:.1rem 0;}
+
+ul.def_list02 {padding:0; list-style:none;}
+ul.def_list02 li { font-size:.9rem; margin:0 0 0 1.5rem; list-style-type: disc; padding:.2rem 0;}
+
+ol {padding:0.5em 0 1.5rem 2.5rem; color:#666;} 
+ol li {list-style-type: decimal;} 
+
+ol.no {
+    counter-reset:number; /*数字をリセット*/
+    padding:0 0 1.5rem 1rem;
+    margin-right:.5rem;
+    color:#666;
+  }
+ol.no li {
+position: relative;
+list-style-type: none!important; /*数字を一旦消す*/
+padding-left: 30px;
+line-height: 1.5em;
+padding: 0.3em 0.5em 0.3em 35px;
+}
+
+ol.no li:before{
+/* 以下数字をつける */
+position: absolute;
+counter-increment: number;
+content: counter(number);
+/*以下数字のデザイン変える*/
+display:inline-block;
+border:1px solid #ff7b00;
+color: #ff7b00;
+font-family: 'Avenir','Arial Black','Arial',sans-serif;
+font-weight:bold;
+font-size: 14px;
+border-radius: 50%;
+left: 0;
+width: 22px;
+height: 22px;
+line-height: 23px;
+text-align: center;
+/*以下 上下中央寄せのため*/
+top: 50%;
+-webkit-transform: translateY(-50%);
+transform: translateY(-50%);
+}
+
+ol.no_def {
+  padding:0 0 1.5rem 2rem;
+  margin-right:.5rem;
+  color:#ff7b00;
+}
+ol.no_def li {
+  margin: 0 0 0 0rem;
+  list-style-type: decimal;
+  padding-left: 0px;
+  line-height: 1.5em;
+  padding: .2rem 0;
+}
+ol.no_def li span {color:#666;}
+
+
+ul.p_list {padding-left:0rem; list-style:none;}
+ul.p_list li { font-size:1.2rem; font-weight:bold; padding:0; margin:0; padding-top:.8rem;}
+ul.p_list li:before {content:"▶ "}
+
+ul.p_list li ul {padding-left:2rem; }
+ul.p_list li ul li{list-style-type: disc; font-size:1rem; font-weight:normal; padding-top:.5rem;}
+ul.p_list li ul li:before {content:""}
+ul.p_list li ul li ul {padding-left:1rem; }
+ul.p_list li ul li ul li {list-style:none;  font-size:.9rem; padding-top:.2rem;}
+ul.p_list li ul li ul li:before {content:"- "}
+h3 {background:#eee; margin-bottom:.8rem;}
+h4 {border-bottom:1px solid #ff7b00; margin-bottom:.5rem;}
+
+table {width:100%; font-size:.9rem; border-left:1px solid #ddd; margin-bottom:10px;}
+table th {background:#f5ebe2; border-right:1px solid #ddd; border-bottom:1px solid #ddd; padding:3px;}
+table td {border-right:1px solid #ddd; border-bottom:1px solid #ddd; padding:3px; vertical-align:top; color:#444;}
+
+.l-cols .btn {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    font-size:1.2rem;
+    padding:0 1.5rem;
+    color: #fff;
+    border-radius: 30px;
+    background: linear-gradient(90deg, #F56753, #FFBD66);
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
+    text-decoration: none;
+  }
+  .l-cols .btn a {text-decoration: none; color: #fff;}
+  .l-cols .btn img {
+    margin-right: 20px;
+  }
+  .l-cols .btn span {
+    transform: translateY(1px);
+  }
+  .l-cols .btn:hover {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+    filter: brightness(110%);
+    color: #fff;
+  }
+  
+.block_inner {max-width: 900px; margin: 0 25px 40px;}
+
+.l-cols .img_left {margin-top:15px; width:50%; float:left;}
+
+@media screen and (max-width: 1219px) {
+
+}
+
+@media screen and (max-width: 1100px) {
+  
+}
+
+@media screen and (min-width: 961px) {
+  
+}
+
+@media screen and (max-width: 960px) {
+  
+}
+
+@media screen and (max-width: 640px) {
+  .block_inner {max-width: 900px; margin: 0 10px 40px;}
+}
+
+@media screen and (max-width: 480px) {
+  .breadcrumb {
+    margin-left: 5px;
+}
+
+  .l-cols p {font-size: .9rem;}
+  ul.p_list li { font-size:1rem;}
+  ul.p_list li ul li{ font-size:.9rem; }
+
+  .fs-20 {
+    font-size: 1.1rem;
+    }
+
+  .l-cols .btn {
+    font-size: 1rem;
+    line-height:1.4
+    }
+  ol {
+    font-size: .9rem;
+    }
+  table td {
+    font-size: .8rem;
+    }
+  table td:first-child {
+    width:35%;
+    }
+    .l-cols .img_left {margin-top:15px; width:100%; float:none;}
+
+}

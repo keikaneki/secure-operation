@@ -1,0 +1,130 @@
+/*------------------------------------
+  Add Styles
+------------------------------------*/
+@media (min-width: 751px) {
+/*	
+	#to-top{
+		position: fixed;
+		bottom:0;
+		right:0;
+		width: 250px;
+		height: 170px;
+		background: url("../img/top_bg.png") top left;
+		box-shadow: 1px 5px 4px #ccc; 
+		-moz-box-shadow: 1px 5px 4px #ccc; 
+		-webkit-box-shadow: 0px 0px 4px #ccc; 
+		}
+
+	#to-top .tel{
+		position: absolute;
+		top:52px;
+		left:16px;
+	}
+	#to-top .inq{
+		position: absolute;
+		top:118px;
+		left:16px;
+	}
+	#to-top #page-top{
+		position: absolute;
+		top:-4px;
+		left:0px;
+	}
+	#to-top-750{
+		display: none;
+	}
+	*/
+}
+
+
+/*	#to-top-750{
+		position: fixed;
+		bottom:0;
+		right:0;
+		width: 100%px;
+		height: 100px;
+		background: url("../img/top_bg-750px.png") top left;
+		box-shadow: 1px 5px 4px #ccc; 
+		-moz-box-shadow: 1px 5px 4px #ccc;
+		-webkit-box-shadow: 0px 0px 4px #ccc; 
+		}
+	
+	#to-top-750 .tel{
+		position: absolute;
+		top:52px;
+		left:16px;
+	}
+	#to-top-750 .inq{
+		position: absolute;
+		top:118px;
+		left:16px;
+	}
+	#to-top-750 #page-top{
+		position: absolute;
+		top:-4px;
+		left:0px;
+	}
+	*/
+
+.side_contact {
+	position:fixed;
+	top:50%;
+	right:-280px;
+	background: url("../img/bg_inq.png") no-repeat top left;
+	height:102px;
+}
+.side_con_box {
+	width:280px;
+	z-index:1000;
+	position:relative;
+}
+
+.animate-toggle-title {
+	background: url("../img/pct_inq_but1.png") top left;
+	left:1px;
+	top:-1px;
+	width:23px;
+	height:96px;
+	position:absolute;
+	cursor:pointer;
+}
+.animate-toggle-title.off {
+	background: url("../img/pct_inq_but1_off.png") top left;
+}
+.animate-toggle-block {
+	margin-left:27px;
+	margin-top:5px;
+	height: 100px;
+}
+.side_contact {
+	margin-right:27px;
+}
+.side_contact.clicked {
+	margin-right:260px;
+}
+
+.animate-toggle-block .bt01 {
+	margin-bottom: 0px;
+}
+
+
+
+/*
+.side_contact{
+	background: url("../img/bg_inq.png") top left;
+	width: 275px;
+	height: 100px;
+	position: fixed;
+	top:50%;
+	right:-250px;
+}
+.side_contact .animate-toggle-title {
+	position: absolute;
+	left:0;
+}
+.side_contact .animate-toggle-block {
+	position: absolute;
+	left:29px;
+	top:4px;
+}
+*/

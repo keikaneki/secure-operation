@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="ja-JP">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5873P36');</script>
+<!-- End Google Tag Manager -->
+	<meta charset="UTF-8">
+	<title>SECURE FR（顔認証システム）｜顔認証セキュリティはセキュア|SECURE</title>
+	<meta name="description" content="監視カメラシステムや入退室システム等のセキュリティソリューションを提供する株式会社セキュアのブランド「SECURE」サイトの商品、SECURE eye（監視カメラシステム）のページです。お客様のニーズに合わせた監視カメラシステムをご紹介します。">
+	<meta name="keywords" content="セキュア,SECURE,セキュリティ,物理セキュリティ,監視カメラ,防犯カメラ,セキュリティ対策,監視システム,SECURE eye">
+	<link rel="shortcut icon" href="/assets/img/fav.ico">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="format-detection" content="telephone=no">
+	<meta property="og:title" content="SECURE FR（顔認証システム）｜顔認証セキュリティはセキュア|SECURE">
+	<meta property="og:type" content="website">
+	<meta property="og:description" content="監視カメラシステムや入退室システム等のセキュリティソリューションを提供する株式会社セキュアのブランド「SECURE」サイトの商品、SECURE eye（監視カメラシステム）のページです。お客様のニーズに合わせた監視カメラシステムをご紹介します。">
+	<meta property="og:url" content="https://secureinc.co.jp/">
+	<meta property="og:image" content="/assets/img/share.png">
+	<meta property="og:site_name" content="入退室管理・防犯カメラなど、オフィスセキュリティのことならセキュア">
+	<meta property="og:locale" content="ja_JP">
+	<link rel="stylesheet" href="/assets/css/common.css?v=20021303">
+	<script src="/assets/js/jquery1.8.3.js"></script>
+	<script src="/assets/js/common.min.js"></script>
+	<script src="/assets/js/bundle.js"></script>
+<script src="/assets/js/include.js" type="text/javascript"></script></head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5873P36"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	<header class="header-include"></header>
+	<section class="sltface l-inner">
+		<nav class="breadcrumb">
+			<ul>
+				<li><a href="/">TOP</a></li>
+				<li><a href="/solution/">Solution</a></li>
+				<li><span>SECURE FR(顔認証システム)とは？</span></li>
+			</ul>
+		</nav>
+
+		<div class="ttlarea ta-c">
+			<h2 class="fs-rennermedium fs-50">SECURE FR</h2>
+			<h1 class="fs-20">顔認証システムとは？</h1>
+		</div>
+	</section>
+
+	<section class="sltface">
+		<div class="klphoto">
+			<div class="ttlarea">
+				<div style="margin-bottom: 20px;">
+				<h2 class="fs-rennermedium fs-40 blackbelt">SECURE FR(Face Recognition)</h2>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="sltface l-inner">
+<!-- 		<div class="anchors">
+			<a href="#aboutface" class="btn small gray anchor"><span>SECURE FRとは？</span></a>
+			<a href="#service" class="btn small gray anchor"><span>SECURE FRの豊富なサービス</span></a>
+		</div> -->
+		<article class="block">
+			<p class="txt">⼊退室管理のデータと監視カメラシステムのデータを連携させ、顔認証とディープランニングによる高度なAI(人工知能）技術を用いてお客様に最適なソリューションをご提案いたします。</p>
+		</article>
+		<article class="block" id="aboutface">
+			<h1 class="fs-rennermedium orangemarker"><em class="marker fs-30 fw-900">顔認証とは？</em></h1>
+			<p class="txt">顔認証とは、生体認証の⼀種になります。画像や映像から顔を検出し、顔の目、鼻、口などの特徴点の位置や顔領域の位置や大きさをもとに照合を行い、認証します。なりすましが困難で、セキュリティ性が高いのが特徴です。</p>
+			<div class="box frame">
+				<div class="frameinner">
+					<div class="face-flow">
+						<ol>
+							<li class="step01 ta-c">
+								<h3 class="label orange small">顔の検出</h3>
+								<p class="fw-700">画像のどこに<br class="noSP">人間の顔があるかどうか判別します</p>
+							</li>
+							<li><img src="/assets/img/solution/face01.png" alt=""><p>カメラ</p></li>
+							<li><img src="/assets/img/solution/face02.png" alt=""><p>画像</p></li>
+							<li><img src="/assets/img/solution/face03.png" alt=""><p>顔を検出</p></li>
+							<li><img src="/assets/img/solution/face04.png" alt=""><p>画像を調整</p></li>
+							<li><img src="/assets/img/solution/face05.png" alt=""><p>顔の分析</p></li>
+							<li><img src="/assets/img/solution/face06.png" alt=""><p>判別</p></li>
+							<li class="step02 ta-c">
+								<h3 class="label orange small">顔の認識</h3>
+								<p class="fw-700">顔画像であった場合<br class="noSP">その人物が誰であるかを知らせる</p>
+							</li>
+							<li><img src="/assets/img/solution/face07.png" alt=""><p>顔データ<br class="noPC">ベース</p></li>
+						</ol>
+					</div>
+				</div>
+			</div>
+		</article>
+		<article class="block">
+			<h2 class="fs-rennermedium orangemarker"><em class="marker fs-30 fw-900">顔認識の方式</em></h2>
+			<p class="txt">弊社で取り扱っている顔認証のソリューションは、<br class="noSP">ビジュアルベース（2D認証）と、IRベース（3D認証）の2つの方式を採用しています。</p>
+				<h3 class="fs-rennermedium fs-28 fw-700">ビジュアルベース（2D認証）</h3>
+				<p class="txt">撮影した画像から、「輪郭」や「⽬・⿐・⼝」といったパーツの位置関係を計測。<br class="noSP">計測した顔をテンプレート化して、それを基に登録されている特定の個⼈かどうかを特定する方式。</p>
+				<div class="box frame">
+					<div class="frameinner">
+						<div class="face-2d-flow">
+							<ol class="l-cols5">
+								<li><img src="/assets/img/solution/face08.png" alt=""><p>カラー写真</p></li>
+								<li><img src="/assets/img/solution/face09.png" alt=""><p>データ化</p></li>
+								<li><img src="/assets/img/solution/face10.png" alt=""><p>パーツの検知</p></li>
+								<li><img src="/assets/img/solution/face11.png" alt=""><p>位置関係計測</p></li>
+								<li><img src="/assets/img/solution/face12.png" alt=""><p>テンプレ化</p></li>
+							</ol>
+						</div>
+					</div>
+				</div>
+				<div class="l-cols2">
+					<div class="col card blackline blackborder">
+						<h2 class="card-cell card-head ta-c">メリット</h2>
+						<ul class="card-cell list-disc">
+							<li>平面的に認証、識別する技術でセンサーなどは必要ない。</li>
+							<li>一般的なIPカメラで導入可能</li>
+						</ul>
+					</div>
+					<div class="col card blackline blackborder">
+						<h2 class="card-cell card-head ta-c">デメリット</h2>
+						<ul class="card-cell list-disc">
+							<li>平面のみで識別を行うため写真でも識別可能になる場合がある。化粧などの変化で精度が低くなる場合がある</li>
+							<li>照明の明るさに影響されてしまう。</li>
+						</ul>
+					</div>
+				</div>
+				<h3 class="fs-rennermedium fs-28 fw-700">IRベース（3D認証）</h3>
+				<p class="txt">ビジュアルベースに加え、赤外線カメラによって顔の凹凸など奥行き情報をデータ化して、<br class="noSP">登録されている特定の人物かどうかを特定する方式。<font size="-2"> ※FaceStation2はビジュアルベース方式ではございません。</font></p>
+				<div class="box frame">
+					<div class="frameinner">
+						<div class="face-3d-flow">
+							<ol class="l-cols5">
+								<li class="l-cols2 l-spcols2">
+									<div>
+										<img src="/assets/img/solution/face08.png" alt=""><p>カラー写真</p>
+									</div>
+									<div>
+										<img src="/assets/img/solution/face09.png" alt=""><p>データ化</p>
+									</div>
+								</li>
+								<li><img src="/assets/img/solution/face12.png" alt=""><p>ビジュアルベースの<br>テンプレ情報</p></li>
+								<li><img src="/assets/img/solution/face13.png" alt=""><p>奥行き+<br>コントラストイメージ</p></li>
+							</ol>
+						</div>
+					</div>
+				</div>
+				<div class="l-cols2">
+					<div class="col card blackline blackborder">
+						<h2 class="card-cell card-head ta-c">メリット</h2>
+						<ul class="card-cell list-disc">
+					<!--		<li>非接触で認証が可能になる。</li>-->
+							<li>化粧や大幅な髪型の変更にも影響を受けない。</li>
+							<li>照明に影響されない。特に暗い環境下においても精度を維持できる。</li>
+							<li>マネキンや写真などの偽顔も判別できる。</li>
+						</ul>
+					</div>
+					<div class="col card blackline blackborder">
+						<h2 class="card-cell card-head ta-c">デメリット</h2>
+						<ul class="card-cell list-disc">
+							<li>赤外線カメラも内蔵して奥行きも計測するため本体のサイズの小型化に限界がある。</li>
+							<li>専用カメラの導入が必要。</li>
+						</ul>
+					</div>
+				</div>
+				
+				<!--ai office banner-->
+				<div class="bn_aioffice">
+					<picture>
+						<source media="(min-width:768px)" srcset="/assets/img/solution/bn_aioffice_w.jpg 2000w">
+						<source media="(max-width:640px)" srcset="/assets/img/solution/bn_aioffice_w_sp.jpg 870w">
+							<a href="/aioffice/?utm_source=face"><img srcset="/assets/img/solution/bn_aioffice_w_sp.jpg 870w, /assets/img/solution/bn_aioffice_w.jpg 2000w" alt="やっぱりオフィスは必要だと気づいてしまった方へ　社員を守り、事業も継続！オフィスはクラウドで管理する　AI Office Base詳細はこちら　バナー"></a>
+					</picture>
+				</div>
+				<!--//ai office banner-->
+
+		</article>
+	</section>
+
+	<section class="js-tab-body js-cr sltface l-inner eyecloud sp-mb-80" id="service">
+		<div class="ttlarea">
+			<div style="margin-bottom: 20px;">
+				<h2 class="fs-30 blackbelt">SECURE FR の豊富なサービス</h2>
+			</div>
+		</div>
+		<div class="l-cols2 device">
+			<div class="col card blackline btn-bottom-fix">
+				<div class="l-spcols2">
+					<div class="card-cell card-ttl"><p class="name-jp">顔認証ターミナル</p><p class="name-en">SA-FRT13<span class="label red">NEW</span></p></div>
+					<div class="col card-cell"><img src="/assets/img/logo/secure.png" alt="secure" class="logo secure"><img src="/assets/img/device/item_sa-frt13.jpg" alt="顔認証ターミナル" class="imgfix"></div>
+				</div>
+				<div class="col spec">
+					<ul class="listdisc">
+						<li>世界最高レベルの顔認証技術</li>
+						<li>顔認証 1:1 または 1:N</li>
+						<li>顔登録データ可能数:300顔</li>
+						<li>イベントログ保存数:150,000</li>
+					</ul>
+				</div>
+				
+				<div class="card-btn"><a href="/device/pass/sa-frt13.html" class="btn small orange"><span class="more fs-rennermedium"><span>商品詳細を見る</span></span></a></div>
+			</div>
+
+			<div class="col card blackline btn-bottom-fix">
+				<div class="l-spcols2">
+					<div class="card-cell card-ttl"><p class="name-jp">顔認証側温ターミナル＜屋外対応＞</p><p class="name-en">SA-FRT150WC<span class="label red">NEW</span></p></div>
+					<div class="col card-cell"><img src="/assets/img/logo/secure.png" alt="secure" class="logo secure"><img src="/assets/img/device/item_sa-frt150wc.jpg" alt="顔認証側温ターミナル＜屋外対応＞" class="imgfix"></div>
+				</div>
+				<div class="col spec">
+					<ul class="listdisc">
+						<li>世界最高レベルの顔認証技術</li>
+						<li>顔認証 1:1 または 1:N</li>
+						<li>顔登録データ可能数:5,000顔</li>
+						<li>イベントログ保存数:50,000</li>
+						<li>プロテクションレベル:IP65</li>
+					</ul>
+				</div>
+				<div class="card-btn"><a href="/device/pass/sa-frt150wc.html" class="btn small orange"><span class="more fs-rennermedium"><span>商品詳細を見る</span></span></a></div>
+			</div>
+
+			<div class="col card blackline btn-bottom-fix">
+				<div class="l-spcols2">
+					<div class="card-cell card-ttl"><p class="name-jp">顔認証側温ターミナル</p><p class="name-en">SA-FRT1500SC<span class="label red">NEW</span></p></div>
+					<div class="col card-cell"><img src="/assets/img/logo/secure.png" alt="secure" class="logo secure"><img src="/assets/img/device/item_sa-frt1500sc.jpg" alt="顔認証側温ターミナル" class="imgfix"></div>
+				</div>
+				<div class="col spec">
+					<ul class="listdisc">
+						<li>世界最高レベルの顔認証技術</li>
+						<li>顔認証 1:1 または 1:N</li>
+						<li>顔登録データ可能数:50,000顔</li>
+						<li>側温距離:0.3m〜2m</li>
+						<li>顔認証検知距離:0.3m〜3m</li>
+					</ul>
+				</div>
+				<div class="card-btn"><a href="/device/pass/sa-frt1500sc.html" class="btn small orange"><span class="more fs-rennermedium"><span>商品詳細を見る</span></span></a></div>
+			</div>
+
+
+
+			<div class="col card blackline btn-bottom-fix">
+				<div class="l-spcols2">
+					<div class="card-cell card-ttl"><p class="name-jp">IP顔認証デバイス</p><p class="name-en">SA-FS2</p>
+					</div>
+					<div class="col card-cell"><img src="/assets/img/logo/suprema.png" alt="suprema" class="logo suprema"><img src="/assets/img/device/item01.jpg" alt="" class="imgfix">
+					</div>
+				</div>
+				<div class="col spec">
+					<ul class="listdisc">
+						<li>ハンズフリーの生体認証</li>
+						<li>スピーディな顔認証</li>
+						<li>最先端の顔認証アルゴリズムを搭載</li>
+						<li>多機能IPターミナル</li>
+						<li>勤怠管理との連携可能</li>
+						</ul>
+					</div>
+					<div class="card-btn"><a href="/device/pass/facestation2.html" class="btn small orange"><span class="more fs-rennermedium"><span>商品詳細を見る</span></span></a>
+					</div>
+				</div>
+
+				<div class="col card blackline btn-bottom-fix">
+					<div class="l-spcols2">
+						<div class="card-cell card-ttl"><p class="name-jp">顔認証システム</p><p class="name-en">FaceTracker</p>
+						</div>
+						<div class="col card-cell"><img src="/assets/img/logo/secure.png" alt="secure" class="logo secure"><img src="/assets/img/device/item83.jpg" alt="" class="imgfix">
+						</div>
+					</div>
+					<div class="col spec">
+						<ul class="listdisc">
+							<li>ウォークスルー認証</li>
+							<li>複数人を同時認証</li>
+							<li>レコーダー連携</li>
+							<li>拠点のFaceTrackerの管理(FaceTracker Master)</li>
+							<li>モバイルデバイスへの通知(FaceTracker Terminal)</li>
+							<li>リアルタイム通知</li>
+						</ul>
+					</div>
+					<div class="card-btn"><a href="/solution/face/facetracker.html" class="btn small orange"><span class="more fs-rennermedium"><span>商品詳細を見る</span></span></a>
+					</div>
+				</div>
+
+				<div class="col card blackline btn-bottom-fix">
+					<div class="l-spcols2">
+						<div class="card-cell card-ttl"><p class="name-jp">パソコンののぞき見防止ソフト</p><p class="name-en">顔認証のぞき見ブロッカー</p>
+						</div>
+						<div class="col card-cell"><img src="/assets/img/logo/secure.png" alt="secure" class="logo secure"><img src="/assets/img/device/img_block01.jpg" alt="" class="imgfix">
+						</div>
+					</div>
+					<div class="col spec">
+						<ul class="listdisc">
+							<li>高性能顔認証</li>
+							<li>情報保護機能</li>
+							<li>異常時画面ロック</li>
+							<li>ログ保存</li>
+							<li>のぞき見許可モード</li>
+						</ul>
+					</div>
+					<div class="card-btn"><a href="/solution/face/nozokimiblocker.html" class="btn small orange"><span class="more fs-rennermedium"><span>商品詳細を見る</span></span></a>
+					</div>
+				</div>
+
+			</div>
+		<!--<h3 class="ta-c"><span class="blackunderline fs-28">今後も新しいアプリケーションをリリースしていきます。</span></h3>-->
+
+		<div class="ta-c">
+			<a href="/solution/product/fr.html" class="btn"><span class="more fs-rennermedium"><span>さらに商品を見る</span></span></a>
+		</div>
+
+	</section>
+
+	<section class="js-tab-body js-cr sltface l-inner eyecloud">
+			<div id="flow" class="ttlarea ta-c">
+				<h1 class="fs-rennermedium fs-50">Flow</h1>
+				<h2 class="fs-20">導入フロー</h2>
+			</div>
+		<div class="l-cols5 flow noSPFlow">
+			<div class="col flowinner js-view js-show js-fadeup-card">
+				<div class="card frame">
+					<div class="frameinner ta-c">
+						<h2 class="ta-c"><span class="label orange small">STEP1</span></h2>
+						<p class="ta-c fs-20 fw-500">お問い合わせ</p>
+						<figure class="card-thumb"><img src="/assets/img/ico/flow01.png" alt="" class="pc-img-large sp-img-middle"></figure>
+					</div>
+				</div>
+			</div>
+			<div class="col flowinner js-view js-show js-fadeup-card">
+				<div class="card frame">
+					<div class="frameinner ta-c">
+						<h2 class="ta-c"><span class="label orange small">STEP2</span></h2>
+						<p class="ta-c fs-20 fw-500">ヒアリング<br>調査</p>
+						<figure class="card-thumb"><img src="/assets/img/ico/flow02.png" alt="" class="pc-img-large sp-img-middle"></figure>
+					</div>
+				</div>
+			</div>
+			<div class="col flowinner js-view js-show js-fadeup-card">
+				<div class="card frame">
+					<div class="frameinner ta-c">
+						<h2 class="ta-c"><span class="label orange small">STEP3</span></h2>
+						<p class="ta-c fs-20 fw-500">ご提案<br>お見積もり</p>
+						<figure class="card-thumb"><img src="/assets/img/ico/flow03.png" alt="" class="pc-img-large sp-img-middle"></figure>
+					</div>
+				</div>
+			</div>
+			<div class="col flowinner js-view js-show js-fadeup-card">
+				<div class="card frame">
+					<div class="frameinner ta-c">
+						<h2 class="ta-c"><span class="label orange small">STEP4</span></h2>
+						<p class="ta-c fs-20 fw-500">施工・導入</p>
+						<figure class="card-thumb"><img src="/assets/img/ico/flow04.png" alt="" class="pc-img-large sp-img-middle"></figure>
+					</div>
+				</div>
+			</div>
+			<div class="col flowinner js-view js-show js-fadeup-card">
+				<div class="card frame">
+					<div class="frameinner ta-c">
+						<h2 class="ta-c"><span class="label orange small">STEP5</span></h2>
+						<p class="ta-c fs-20 fw-500">運用開始</p>
+						<figure class="card-thumb"><img src="/assets/img/ico/flow05.png" alt="" class="pc-img-large sp-img-middle"></figure>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="card-cell ta-c">
+			<a href="/flow/" class="btn"><span class="more fs-rennermedium"><span>See More</span></span></a>
+		</div>
+	</section>
+
+	<aside>
+<div class="contact-include"></div>
+<div class="case-include"></div>
+<div class="solution-include"></div>
+</aside>
+
+	<div class="dlbox noPC">
+		<a href="/download/" class="btn orange shadow">
+			3分で分かる「オフィスセキュリティ対策」<br>
+			<em class="dl fs-30"><span class="fw-700">資料ダウンロード</span>はコチラ</em>
+		</a>
+		<strong class="casenum orangeunderline fs-30 fw-500 noSP">導入実績<span class="fc-orange number"><span class="fs-60 fw-700 number">4,000</span>社</span>以上</strong>
+	</div>
+
+
+	<div class="pagetop">
+		<span class="fs-renner">PAGE TOP</span>
+	</div>
+	<footer class="footer-include"></footer>
+	<div class="mask"></div>
+<script>
+	$(function(){
+		$('.tab a').click(function(){
+			$('.tab a').removeClass('is-cr');
+			$(this).addClass('is-cr');
+			var target = $(this).attr('data-target');
+			$('.js-tab-body').fadeOut();
+			$('.' + target).fadeIn();
+		});
+	});
+</script>
+</body>
+</html>

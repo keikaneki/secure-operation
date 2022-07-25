@@ -1,0 +1,160 @@
+
+<!DOCTYPE html>
+<html lang="ja-JP">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5873P36');</script>
+<!-- End Google Tag Manager -->
+
+	<meta charset="UTF-8">
+	<title>株式会社セキュア 会社情報｜顔認証セキュリティはSECURE</title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<link rel="shortcut icon" href="/assets/img/fav.ico">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="format-detection" content="telephone=no">
+	<meta property="og:title" content="会社情報｜顔認証セキュリティはSECURE|株式会社セキュア">
+	<meta property="og:type" content="website">
+	<meta property="og:description" content="">
+	<meta property="og:url" content="https://secureinc.co.jp/">
+	<meta property="og:image" content="https://secureinc.co.jp/assets/img/ogt/company.png">
+	<meta property="og:site_name" content="入退室管理・防犯カメラなど、オフィスセキュリティのことならSECURE">
+	<meta property="og:locale" content="ja_JP">
+	<link rel="stylesheet" href="/assets/css/common.css?v=20021303">
+	<script src="/assets/js/jquery1.8.3.js"></script>
+	<script src="/assets/js/include.js" type="text/javascript"></script>
+	<script src="/assets/js/common.min.js"></script>
+	<script src="/assets/js/bundle.js"></script>
+
+</head>
+
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5873P36"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	<header class="header-include"></header>
+	<section class="case case_article_page l-inner">
+		<nav class="breadcrumb">
+			<ul>
+				<li><a href="/">TOP</a></li>
+				<li><span>Company（会社情報）</span></li>
+			</ul>
+		</nav>
+
+		<div class="ttlarea ta-c">
+			<h1 class="fs-rennermedium fs-50">Company</h1>
+			<h2 class="fs-20">会社情報</h2>
+		</div>
+		<ul class="p-company__nav">
+			<li><a href="/company/aboutus/" title="代表ご挨拶">代表ご挨拶</a></li>
+			<li><a href="/company/idea/" title="企業理念">企業理念</a></li>
+			<li><a href="/company/info/" title="会社概要・沿革">会社概要・沿革</a></li>
+			<li><a href="/company/officer/" title="役員紹介">役員紹介</a></li>
+			<li><a href="/company/access/" title="アクセス">アクセス</a></li>
+			<li><a href="../recruit/index.html" target="_blank" title="採用情報">採用情報</a></li>
+			
+		  <!-- <li><a href="/company/labor/" title="ラボ">ラボ</a></li> -->
+		</ul>
+
+		<article>
+			<img src="/assets/img/company/mv.jpg" alt="" class="imgfix">
+
+			<div class="case-list l-cols3 left p-company__top">
+				<div class="col card blackline js-view js-fadeup-card">
+					<a href="/company/aboutus/" class="card-hvact" title="代表ご挨拶">
+						<div class="ta-c card-cell card-separate">
+							<h2>代表ご挨拶</h2>
+						</div>
+						<figure class="card-fl card-thumb">
+							<img src="/assets/img/company/img_01.jpg" alt="代表ご挨拶" class="imgfix">
+							<p class="more"><span class="fs-renner">See More</span></p>
+						</figure>
+					</a>
+				</div>
+				<div class="col card blackline js-view js-fadeup-card">
+					<a href="/company/idea/" class="card-hvact" title="企業理念">
+						<div class="ta-c card-cell card-separate">
+							<h2>企業理念</h2>
+						</div>
+						<figure class="card-fl card-thumb">
+							<img src="/assets/img/company/img_02.jpg" alt="企業理念" class="imgfix">
+							<p class="more"><span class="fs-renner">See More</span></p>
+						</figure>
+					</a>
+				</div>
+				<div class="col card blackline js-view js-fadeup-card">
+					<a href="/company/info/" class="card-hvact" title="会社概要・沿革">
+						<div class="ta-c card-cell card-separate">
+							<h2>会社概要・沿革</h2>
+						</div>
+						<figure class="card-fl card-thumb">
+							<img src="/assets/img/company/img_03.jpg" alt="会社概要・沿革" class="imgfix">
+							<p class="more"><span class="fs-renner">See More</span></p>
+						</figure>
+					</a>
+				</div>
+				<div class="col card blackline js-view js-fadeup-card" title="アクセス">
+					<a href="/company/access/" class="card-hvact">
+						<div class="ta-c card-cell card-separate">
+							<h2>アクセス</h2>
+						</div>
+						<figure class="card-fl card-thumb">
+							<img src="/assets/img/company/img_04.jpg" alt="アクセス" class="imgfix">
+							<p class="more"><span class="fs-renner">See More</span></p>
+						</figure>
+					</a>
+				</div>
+				<div class="col card blackline js-view js-fadeup-card">
+					<a href="../recruit/index.html" class="card-hvact" title="採用情報" target="_blank">
+						<div class="ta-c card-cell card-separate">
+							<h2>採用情報</h2>
+						</div>
+						<figure class="card-fl card-thumb">
+							<img src="/assets/img/company/img_05.jpg" alt="採用情報" class="imgfix">
+							<p class="more"><span class="fs-renner">See More</span></p>
+						</figure>
+					</a>
+				</div>
+				<div class="col card blackline js-view js-fadeup-card">
+					<a href="/company/officer/" class="card-hvact" title="役員紹介">
+						<div class="ta-c card-cell card-separate">
+							<h2>役員紹介</h2>
+						</div>
+						<figure class="card-fl card-thumb">
+							<img src="/assets/img/company/bordmenber_v1.png" alt="役員紹介" class="imgfix">
+							<p class="more"><span class="fs-renner">See More</span></p>
+						</figure>
+					</a>
+				</div>
+
+
+			</div>
+		</article>
+	</section>
+
+	<aside>
+		<div class="contact-include"></div>
+		<div class="solution-include"></div>
+	</aside>
+
+	<div class="dlbox noPC">
+		<a href="/download/" class="btn orange shadow">
+			3分で分かる「オフィスセキュリティ対策」<br>
+			<em class="dl fs-30"><span class="fw-700">資料ダウンロード</span>はコチラ</em>
+		</a>
+		<strong class="casenum orangeunderline fs-30 fw-500 noSP">導入実績<span class="fc-orange number"><span class="fs-60 fw-700 number">4,000</span>社</span>以上</strong>
+	</div>
+
+
+	<div class="pagetop">
+		<span class="fs-renner">PAGE TOP</span>
+	</div>
+	<footer class="footer-include"></footer>
+	<div class="mask"></div>
+</body>
+</html>

@@ -1,0 +1,346 @@
+
+
+<!DOCTYPE html>
+<html lang="ja-JP">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5873P36');</script>
+<!-- End Google Tag Manager -->
+
+	<meta charset="UTF-8">
+	<title>BioEntryW2|指紋認証|SUPREMA｜顔認証セキュリティはセキュア|SECURE</title>
+	<meta name="description" content="監視カメラシステムや入退室システム等のセキュリティソリューションを提供する株式会社セキュアのブランド「SECURE」のデバイス「BioEntryW2」ページです。特長やスペックをご紹介します。">
+	<meta name="keywords" content="セキュア,SECURE,BioEntryW2,指紋認証,生体認証,カード認証,入退室管理,入退出管理">
+	<link rel="shortcut icon" href="/assets/img/fav.ico">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="format-detection" content="telephone=no">
+	<meta property="og:title" content="商品から探す｜BioEntryW2｜顔認証セキュリティはセキュアのSECURE">
+	<meta property="og:type" content="website">
+	<meta property="og:description" content="監視カメラシステムや入退室システム等のセキュリティソリューションを提供する株式会社セキュアのブランド「SECURE」のデバイス「BioEntryW2」ページです。特長やスペックをご紹介します。">
+	<meta property="og:url" content="https://secureinc.co.jp/">
+	<meta property="og:image" content="/assets/img/share.png">
+	<meta property="og:site_name" content="入退室管理・防犯カメラなど、オフィスセキュリティのことならセキュア">
+	<meta property="og:locale" content="ja_JP">
+	<link rel="stylesheet" href="/assets/css/common.css?v=20021303">
+	<link rel="stylesheet" href="/assets/css/device_detail.css">
+	<script src="/assets/js/jquery1.8.3.js"></script>
+	<script src="/assets/js/common.min.js"></script>
+	<script src="/assets/js/bundle.js"></script>
+<script src="/assets/js/include.js" type="text/javascript"></script></head>
+
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5873P36"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	<header class="header-include"></header>
+	<section class="sltana deviceintro l-inner block">
+		<nav class="breadcrumb">
+			<ul>
+				<li><a href="/">TOP</a></li>
+				<li><a href="/solution/">Solution（商品から探す）</a></li>
+				<li><a href="/device/">Device（デバイスから探す）</a></li>
+				<li>BioEntryW2／屋外用IP指紋認証デバイス【屋外対応】</li>
+			</ul>
+		</nav>
+		<div class="ttlarea ta-c">
+			<h1 class="fs-rennermedium fs-50">Device</h1>
+			<h2 class="fs-20">suprema</h2>
+		</div>
+
+		<div class="device_detail_01">
+			<div class="ttlarea">
+				<div class="mgb-20">
+          <h1 class="fs-30 blackbelt">BioEntryW2／屋外用IP指紋認証デバイス【屋外対応】</h1>
+          <div class="logo_img">
+						<img src="../../assets/img/logo/suprema.png" alt="">
+					</div>
+				</div>
+			</div>
+			<div class="device_detail_flex device_detail_top_area">
+				<div class="device_detail_textarea">
+					<h3 class="device_detail_title">IP67/IK09準拠の堅牢な金属製の頑丈な筐体を採用、厳しい環境や屋外設置に最適なアクセスコントロールデバイス。</h3>
+					<p class="device_detail_text">
+            BioEntryW2は、Suprema社の次世代バイオメトリック技術とセキュリティプラットフォームを搭載した、堅牢な指紋認証のデバイスです。強力なクアッドコアCPUとLFD（生体指紋検知）技術により、結合されたSupremaの最新のアルゴリズムを搭載。<br>また、このデバイスは、二重周波数RFID技術を用いたマルチカード読取が特長で、システム設計における拡張性に優れています。
+					</p>
+				</div>
+				<div class="device_detail_img_area">
+					<img src="../../assets/img/device/img_BioEntryW2_01.jpg" alt="">
+				</div>
+			</div>
+			<ul class="device_detail_flex list_function">
+				<li class="label blackunderline">指紋認証</li>
+				<li class="label blackunderline">カード認証</li>
+				<li class="label blackunderline">PoE給電</li>
+				<li class="label blackunderline">スタンドアロン運用</li>
+        <li class="label blackunderline">防塵防水仕様</li>
+        <li class="label blackunderline">勤怠管理対応</li>
+			</ul>
+			<ul class="device_detail_flex list_dropdown">
+				<li>
+					<a href="#device_detail_02" class="btn small gray anchor"><span>商品の特長</span></a>
+				</li>
+				<li>
+					<a href="#device_detail_03" class="btn small gray anchor"><span>スペック一覧</span></a>
+				</li>
+				<li>
+					<a href="#device_detail_04" class="btn small gray anchor"><span>関連商品</span></a>
+				</li>
+				<li>
+					<a href="#device_detail_05" class="btn small gray anchor"><span>関連データドキュメント</span></a>
+				</li>
+			</ul>
+		</div>
+
+		<div id="device_detail_02" class="device_detail_02">
+			<div class="ttlarea">
+				<div class="mgb-20">
+					<h2 class="fs-30 blackbelt">商品の特長</h2>
+				</div>
+			</div>
+			<div class="mgb-20">
+				<h2 class="fs-30 orangemarker"><em class="marker">トップレベルのパフォーマンス </em></h2>
+			</div>
+			<div class="device_detail_flex">
+				<div class="device_detail_textarea">
+					<p class="device_detail_text">BioEntry W2はトップレベルの1.2GHzクアッドコアCPUを搭載しており、世界最高水準の認証速度を提供します。また、デバイスの正確な制御の実現によりユーザーエクスペリエンスを向上させます。
+            </p>
+            <p class="device_detail_text">
+              ●最新のSuprema社のアルゴリズム<br>●1.2GHzクアッドコアCPU<br>
+            </p>
+				</div>
+				<div class="device_detail_img_area">
+					<img src="../../assets/img/device/img_BioEntryW2_02.jpg" alt="">
+				</div>
+			</div>
+			<div class="mgb-20">
+				<h2 class="fs-30 orangemarker"><em class="marker">堅牢な筐体設計</em></h2>
+			</div>
+			<div class="device_detail_flex">
+				<div class="device_detail_textarea">
+					<p class="device_detail_text">IP67/IK08準拠の堅牢な金属製の頑丈な筐体を採用し、厳しい環境や屋外設置に最適なアクセスコントロールデバイスです。湿気、ほこり、さらには液体に対しても保護します。
+            </p>
+            <p class="device_detail_text">
+              ●IK08準拠の耐衝撃保護　IP67準拠の防水／防塵性能<br>●屋外への設置に最適<br>
+            </p>
+				</div>
+				<div class="device_detail_img_area">
+					<img src="../../assets/img/device/img_BioEntryW2_03.jpg" alt="">
+				</div>
+			</div>
+			<div class="mgb-20">
+				<h2 class="fs-30 orangemarker"><em class="marker">マルチカード対応（様々な信号方式のカードに対応）</em></h2>
+			</div>
+			<div class="device_detail_flex">
+				<div class="device_detail_textarea">
+					<p class="device_detail_text"> 指紋認証情報に加えて、BioEntry W2は、EM、 MIFARE、 DESFire、 FeliCa、 およびNFCなどの単一のデバイスでほとんどのタイプのRFIDカード標準をサポートしています。
+            </p>
+            <p class="device_detail_text">
+              ●HF（13,56MHz）デュアルバンド<br>●EM / MIFARE / DESFire / FeliCa/ NFCが利用可能
+            </p>
+				</div>
+				<div class="device_detail_img_area">
+					<img src="../../assets/img/device/img_BioEntryW2_04.jpg" alt="">
+				</div>
+      </div>
+      <div class="mgb-20">
+				<h2 class="fs-30 orangemarker"><em class="marker">本物だけを見分ける技術</em></h2>
+			</div>
+			<div class="device_detail_flex">
+				<div class="device_detail_textarea">
+					<p class="device_detail_text">BioEntry W2は、Supremaの新しいLive Finger Detection技術が搭載されています。これまでの生体検出技術では、生体および新しい指の動的にはんかするパターン、活性度および不自然さの特性を分析していました。新技術では、既存のアルゴリズムの改良に加えて、デュアル光源イメージングを使用し活性度を特定するエンジンを搭載しています。赤外線と白色光を使用し粘土、ゴム、シリコン、接着剤、紙、フィルムなどの素材で作られた偽の指紋をブロックします。
+            </p>
+            <p class="device_detail_text">
+              ●新しい高度な生体指紋検知（LFD）技術<br>●高精度OP5光学センサー<br>●Live Finger Detection 技術
+            </p>
+				</div>
+				<div class="device_detail_img_area">
+					<img src="../../assets/img/device/img_BioEntryW2_05.jpg" alt="">
+				</div>
+      </div>
+      <div class="mgb-20">
+				<h2 class="fs-30 orangemarker"><em class="marker">拡張容量</em></h2>
+			</div>
+			<div class="device_detail_flex">
+				<div class="device_detail_textarea">
+					<p class="device_detail_text">BioEntry W2 は大容量メモリを備えています。このデバイスでは、最大 50万ユーザーの管理が可能です。また、すべての記録を安全に保護するため、BioEntry W2 バックアップ用に最大 100 万のテキストログを
+保持できます。
+            </p>
+            <p class="device_detail_text">
+              ●最大50万人のユーザー/100万のテキストログ<br>●大容量メモリ：2GBフラッシュ + 256MB RAM
+            </p>
+				</div>
+				<div class="device_detail_img_area">
+					<img src="../../assets/img/device/img_BioEntryW2_06.jpg" alt="">
+				</div>
+      </div>
+		</div>
+
+		<div id="device_detail_03" class="device_detail_03">
+			<div class="ttlarea">
+				<div class="mgb-20">
+					<h2 class="fs-30 blackbelt">スペック一覧</h2>
+				</div>
+			</div>
+			<table>
+				<tbody>
+					<tr>
+						<th rowspan="2">規格</th>
+						<td class="even">認証方式</td>
+						<td class="odd">指紋 / カード </td>
+					</tr>
+					<tr>
+						<td class="even">対応 IC カード</td>
+						<td class="odd">13.56MHz ： MIFARE ， DESFire(EV1) ， FeliCa ， NFC ， ISO15693</td>
+					</tr>
+					<tr>
+						<th rowspan="3">容量</th>
+						<td class="even">最大テンプレート数</td>
+						<td class="odd">1,000,000（1：1 認証設定時） / 200,000（1：N 認証設定時）</td>
+					</tr>
+					<tr>
+						<td class="even">テンプレート単位</td>
+						<td class="odd">1 指＋1 カード = 2 テンプレート</td>
+					</tr>
+					<tr>
+						<td class="even">最大ログ件数</td>
+						<td class="odd">1,000,000</td>
+					</tr>
+					<tr>
+						<th rowspan="15">一般</th>
+						<td class="even">CPU</td>
+						<td class="odd">1.2GHｚ クアッドコア </td>
+					</tr>
+					<tr>
+						<td class="even">メモリ</td>
+						<td class="odd">2GB フラッシュ + 256MB RAM </td>
+          </tr>
+          <tr>
+						<td class="even">表示</td>
+						<td class="odd">マルチカラーLED </td>
+          </tr>
+          <tr>
+						<td class="even">サウンド</td>
+						<td class="odd">マルチトーンブザー</td>
+          </tr>
+          <tr>
+						<td class="even">指紋センサー</td>
+						<td class="odd">OP5 センサー </td>
+          </tr>
+          <tr>
+						<td class="even">生体指紋検知（LFD） </td>
+						<td class="odd">サポート</td>
+          </tr>
+          <tr>
+						<td class="even">防水性能</td>
+						<td class="odd">IP67</td>
+          </tr>
+          <tr>
+						<td class="even">耐衝撃性能</td>
+						<td class="odd">IK09</td>
+          </tr>
+          <tr>
+						<td class="even">動作温度</td>
+						<td class="odd">-20℃ ～ 50℃</td>
+          </tr>
+          <tr>
+						<td class="even">動作湿度</td>
+						<td class="odd">0％ ～ 80％（結露なし） </td>
+          </tr>
+          <tr>
+						<td class="even">インターフェース</td>
+						<td class="odd">イーサネット （10/100Mbps auto MDI/MDI-X PoE 対応）<br>RS-485 x 1 ，Wiegand x 1 ，TTL 入力 x 2 ，リレー出力 x 1 ，タンパー </td>
+          </tr>
+          <tr>
+						<td class="even">寸法</td>
+						<td class="odd">W142 × H144 × D45mm</td>
+          </tr>
+          <tr>
+						<td class="even">重量</td>
+						<td class="odd">251 g （本体），43 g （ブラケット） </td>
+          </tr>
+          <tr>
+						<td class="even">工業規格</td>
+						<td class="odd">CE, FCC, KC, RoHS, REACH, WEEE, UL 294</td>
+          </tr>
+          <tr>
+						<td class="even">電源</td>
+						<td class="odd">電圧 DC 12 V，最大消費電流 600mA </td>
+					</tr>
+				</tbody>
+			</table>
+			<p class="device_detail_attention">※ICカードは、株式会社セキュアが販売する製品のみ動作を確認しています。本サイト表記で対応可能な規格であっても<br>正常に読み取りができない場合がございます。<br>※FeliCaは、ソニー株式会社の登録商標です。<br>※Mifareは、NXPセミコンダクター社の登録商標です。</p>
+
+			<div id="device_detail_05" class="card frame">
+				<div class="frameinner">
+					<p class="ta-c fw-700">関連データドキュメント</p>
+					<div class="device_detail_flex">
+						<div class="device_detail_pdf">
+							<p class="device_detail_pdf_txt">製品紹介リーフレット</p>
+							<!-- <img src="../../assets/img/device/pdf.svg" alt="pdf"> -->
+							<!--<p class="device_detail_pdf_capacity">（〇〇KB）</p>-->
+							<a href="../download/leaflet/BioEntryW2_2017_01.pdf" class="btn orange pdf" target="_blank"><span class="pdf fs-16">詳細を見る</span></a>
+						</div>
+						<div class="device_detail_pdf">
+							<p class="device_detail_pdf_txt">寸法図＆スペックシート</p>
+							<!-- <img src="../../assets/img/device/pdf.svg" alt="pdf"> -->
+							<!--<p class="device_detail_pdf_capacity">（〇〇KB）</p>-->
+							<a href="../download/spec/BioEntryW2_SA-BEW2_official.pdf" class="btn orange pdf" target="_blank"><span class="pdf fs-16">詳細を見る</span></a>
+						</div>
+						<div class="device_detail_pdf">
+							<p class="device_detail_pdf_txt">総合カタログ</p>
+							<!-- <img src="../../assets/img/device/pdf.svg" alt="pdf"> -->
+							<!--<p class="device_detail_pdf_capacity">（〇〇KB）</p>-->
+							<a href="../download/catalog/SupremaCatalog_201712s.pdf" class="btn orange pdf" target="_blank"><span class="pdf fs-16">詳細を見る</span></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="device_detail_04" class="device_detail_04 device">
+			<div class="ttlarea">
+				<div class="mgb-20">
+					<h2 class="fs-30 blackbelt">関連商品</h2>
+				</div>
+			</div>
+			<div class="l-cols2">
+				<div class="col card blackline btn-bottom-fix"><div class="l-spcols2"><div class="card-cell card-ttl"><p class="name-jp">IP指紋認証デバイス</p><p class="name-en">BioStationL2</p></div><div class="col card-cell"><img src="/assets/img/logo/suprema.png" alt="suprema" class="logo suprema"><a href="/device/pass/biostationl2.html"><img src="/assets/img/device/item04.jpg" alt="" class="imgfix"></a></div></div><div class="col spec"><ul class="listdisc"><li>コンパクトでスタイリッシュなモデル</li><li>様々な用途・環境でフィットする指紋認証ターミナル</li><li>スピーディな指紋認証</li><li>カード認証、テンキー入力機能も可能</li></ul></div><div class="card-btn"><a href="/device/pass/biostationl2.html" class="btn small orange"><span class="more fs-rennermedium"><span>商品詳細を見る</span></span></a></div></div>
+				<div class="col card blackline btn-bottom-fix"><div class="l-spcols2"><div class="card-cell card-ttl"><p class="name-jp">屋外用IP指紋認証デバイス【屋外対応】</p><p class="name-en">BioLite N2</p></div><div class="col card-cell"><img src="/assets/img/logo/suprema.png" alt="suprema" class="logo suprema"><a href="/device/pass/bioliten2.html"><img src="/assets/img/device/item06.jpg" alt="" class="imgfix"></a></div></div><div class="col spec"><ul class="listdisc"><li> 防水防塵仕様で屋外設に最適</li><li>コンパクトでスタイリッシュなモデル</li><li> 勤怠管理機能搭載</li><li>指紋、暗証番号、ICカード認証機能搭載</li><li> TCP/IP、RS485のネットワークインターフェース</li></ul></div><div class="card-btn"><a href="/device/pass/bioliten2.html" class="btn small orange"><span class="more fs-rennermedium"><span>商品詳細を見る</span></span></a></div></div>
+
+			</div>
+
+			<div class="ta-c">
+				<a href="/device/" class="btn"><span class="more fs-rennermedium"><span>See More</span></span></a>
+			</div>
+		</div>
+
+	</section>
+
+	<aside>
+<div class="contact-include"></div>
+<div class="case-include"></div>
+<div class="solution-include"></div>
+</aside>
+
+	<div class="dlbox noPC">
+		<a href="/download/" class="btn orange shadow">
+			3分で分かる「オフィスセキュリティ対策」<br>
+			<em class="dl fs-30"><span class="fw-700">資料ダウンロード</span>はコチラ</em>
+		</a>
+		<strong class="casenum orangeunderline fs-30 fw-500 noSP">導入実績<span class="fc-orange number"><span class="fs-60 fw-700 number">4,000</span>社</span>以上</strong>
+	</div>
+
+
+	<div class="pagetop">
+		<span class="fs-renner">PAGE TOP</span>
+	</div>
+	<footer class="footer-include"></footer>
+	<div class="mask"></div>
+	<div class="mask"></div>
+</body>
+</html>

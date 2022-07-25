@@ -1,0 +1,331 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*----------------------------------------
+共通
+----------------------------------------*/
+.device_detail_03 {
+	padding-bottom: 100px;
+}
+
+a.link_bd,.faq_wrap a{
+	text-decoration: underline;
+}
+
+@media screen and (max-width: 639px) {
+	.device_detail_03 {
+		padding-bottom: 60px;
+	}
+}
+
+@media screen and (min-width: 640px) {
+	.ir .newsbox .darkgrayframe {
+		padding: 20px 60px;
+	}
+	.ir .newsbox .darkgrayframe .newslist {
+		margin-bottom: 20px;
+	}
+	.ir .newsbox .darkgrayframe .newslist a:hover {
+		text-decoration: underline;
+	}
+}
+
+/* 第4階層メニュー */
+.p-ir__nav {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.p-ir__nav li:not(:first-child):before {
+	content: '|';
+	display: inline-block;
+	margin: 0 0.5em;
+}
+.p-ir__nav + article{
+	margin-top: 40px !important;
+}
+
+/* adb_dl_box */
+.adb_dl_box{
+  background: #e2e2e3;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+	margin-top: 50px;
+}
+.adb_dl_box img{
+  max-width: 158px;
+}
+.adb_dl_box p{
+  margin-left: 1rem;
+	font-size: .9rem;
+}
+
+@media only screen and ( max-width : 639px ) {
+	.adb_dl_box{
+    flex-flow: column;
+    justify-content: center;
+  }
+  .adb_dl_box p{
+    margin-top: 1rem;
+    margin-left: 0;
+  }
+}
+
+/*----------------------------------------
+IRトップ
+----------------------------------------*/
+.ir-content__box-wrap{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.ir-content__box{
+  width: calc((100% - 15px)/ 2);
+  border: 2px solid #000000;
+  margin-bottom: 15px;
+}
+.ir-content__box-title{
+  padding: .5rem;
+	color: #fff;
+  background: #000000;
+}
+.ir-content__box ul,
+.ir-content__box.single-box p{
+	list-style: none;
+	margin: 0;
+	padding: 1rem;
+}
+.ir-content__box ul a:hover{
+	text-decoration: underline;
+}
+.ir-content__box:nth-of-type(3) ul{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.ir-content__box:nth-of-type(3) li{
+	width: 49%;
+}
+
+/* single content */
+.ir-content__box.single-box{border: none;}
+.single-box .ir-content__box-title a{
+  display: block;
+	color: #fff;
+  padding: .5rem;
+	margin: -.5rem;
+}
+.single-box .ir-content__box-title:hover{
+	opacity: .7;
+}
+
+@media screen and (max-width: 639px){
+	.ir-content__box{
+		width: 100%;
+	}
+}
+@media screen and (max-width: 480px){
+	.ir-content__box:nth-of-type(3) li{
+		width: 100%;
+	}
+}
+
+
+/*----------------------------------------
+経営情報
+----------------------------------------*/
+.message_wrap .img_area{
+	float: right;
+	margin-left: 1.5rem;
+	margin-bottom: 1.5rem;
+}
+.img_area img{
+	width: 100%;
+	max-width: 300px;
+}
+.img_area{
+	overflow: hidden;
+}
+.img_area p{
+	text-align: center;
+}
+.txt_area h3{
+	font-weight: bold;
+	margin-bottom: 1rem;
+}
+.txt_area p{
+	margin-bottom: 1rem;
+}
+.sign_wrap{
+	float: right;
+}
+.sign_wrap .date{
+	margin-bottom: .5rem;
+}
+.sign_wrap .sign span{
+	font-size: 1.8rem;
+margin-top: .5rem;
+display: block;
+}
+
+.p-ir__table {
+  width: 100%;
+  margin-bottom: 25px;
+	border-collapse: collapse;
+}
+.p-ir__table td,
+.p-ir__table th {
+  padding: 15px 25px;
+  border: 1px solid #595959;
+	text-align: left;
+}
+.p-ir__table td {
+  vertical-align: middle;
+}
+.p-ir__table th {
+  background: #d2d2d2;
+  vertical-align: top;
+  width: 200px;
+}
+
+.dl-list{
+	display: flex;
+	flex-wrap: wrap;
+	margin-bottom: 1rem;
+}
+.dl-list dt{
+	width: 10em;
+	font-weight: normal;
+}
+.dl-list dd{
+	width: calc(100% - 10em);
+}
+.p-ir__table .dl-list dt{
+	width: 20em;
+}
+.p-ir__table .dl-list dd{
+	width: calc(100% - 20em);
+}
+
+
+.executive_box{
+	margin-bottom: 100px;
+}
+.executive_box .side_name{
+	color: #EC6700;
+	border-bottom: 1px solid #707070;
+	margin-bottom: 1rem;
+}
+.executive_box .side_name span{
+	display: block;
+	color: #333;
+	font-size: 1.75rem;
+}
+
+@media screen and (max-width: 1000px) {
+  .device_detail_03 table {
+    overflow-x: scroll;
+  }
+}
+
+@media screen and (max-width: 639px){
+	.message_wrap .img_area{
+		float: none;
+		margin-left: 0;
+		text-align: center;
+	}
+	
+	.p-ir__table th,
+  .p-ir__table td {
+		display: block;
+		width: 100%;
+    padding: 5px 10px;
+    font-size: 20px !important;
+		box-sizing: border-box;
+		border-bottom: none;
+  }
+	.p-ir__table tr:last-of-type td{
+		border-bottom: 1px solid #595959;
+	}
+	
+	.p-ir__table .dl-list dt,
+	.p-ir__table .dl-list dd{
+		width: 100%;
+	}
+	.p-ir__table .dl-list dt{
+		font-weight: bold;
+	}
+	.p-ir__table .dl-list dd:not(:last-of-type){
+		margin-bottom: .5rem;
+	}
+	
+	.executive_box{
+		margin-bottom: 40px;
+	}
+	.executive_box .side_name span{
+		font-size: 1.5rem;
+	}
+}
+
+/*----------------------------------------
+IRライブラリ
+----------------------------------------*/
+.library-box:not(:last-of-type){
+	margin-bottom: 50px;
+}
+
+/*----------------------------------------
+その他IR情報
+----------------------------------------*/
+.img-ircal__sp{
+	display: none;
+}
+
+.faq_wrap dl{
+	padding: 1.5rem;
+	margin-bottom: 50px;
+}
+.faq_wrap dt{
+	font-size: 1.5rem;
+	color: #EC6700;
+	border-bottom: 1px solid #707070;
+	margin-bottom: .5rem;
+}
+
+.policy-item{
+	margin-bottom: 50px;
+}
+.policy-head{
+	font-size: 1.75rem;
+	color: #EC6700;
+	margin-bottom: .5rem;
+}
+
+#disclaimer .txt{
+	margin-bottom: 50px;
+}
+
+.contact .submitbtn input[type="submit"], .contact .graybtn{
+	width: 45% !important;border: none;
+	margin: 50px 10px 0 10px;
+}
+
+@media screen and (max-width: 639px){
+	.img-ircal__pc{
+		display: none;
+	}
+	.img-ircal__sp{
+		display: block;
+		margin: 0 auto;
+	}
+	
+	.faq_wrap dt{
+		font-size: 1.25rem;
+	}
+	
+	.policy-head{
+		font-size: 1.5rem;
+	}
+}

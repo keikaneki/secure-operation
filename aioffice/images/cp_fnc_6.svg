@@ -1,0 +1,18 @@
+<svg id="コンポーネント_5_3" data-name="コンポーネント 5 – 3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_876" data-name="長方形 876" width="49" height="31" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="長方形_883" data-name="長方形 883" width="50" height="50" fill="none"/>
+  <g id="グループ_9676" data-name="グループ 9676" transform="translate(1 10)">
+    <g id="グループ_9675" data-name="グループ 9675" clip-path="url(#clip-path)">
+      <path id="パス_14669" data-name="パス 14669" d="M9.51,18.5H5.893a5.5,5.5,0,0,1,0-11H10.5" fill="none" stroke="#070203" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="パス_14670" data-name="パス 14670" d="M24.5,30.5c4.425,0,12.392-2.2,18.5-10.34,0,0-.9-12.8-1.353-14.9C36.638,3.155,29.972.5,24.5.5S12.362,3.155,7.353,5.26C6.9,7.364,6,20.16,6,20.16,12.108,28.3,20.075,30.5,24.5,30.5Z" fill="none" stroke="#070203" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="パス_14671" data-name="パス 14671" d="M39.491,18.5H43.1a5.5,5.5,0,0,0,0-11H38.5" fill="none" stroke="#070203" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="パス_14672" data-name="パス 14672" d="M36.246,10.373A55.408,55.408,0,0,0,24.5,8.45a55.4,55.4,0,0,0-11.746,1.923" fill="none" stroke="#070203" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="パス_14673" data-name="パス 14673" d="M36.746,20.45A42.006,42.006,0,0,1,24.5,22.873,41.993,41.993,0,0,1,12.254,20.45" fill="none" stroke="#070203" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="パス_14674" data-name="パス 14674" d="M36.746,15.873A104.987,104.987,0,0,0,24.5,14.95a104.954,104.954,0,0,0-12.246.923" fill="none" stroke="#070203" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

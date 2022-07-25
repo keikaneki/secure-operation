@@ -1,0 +1,180 @@
+.needs_detail_area1 {
+  padding-bottom: 25px;
+  position: relative; }
+  .needs_detail_area1::before {
+    content: '';
+    display: block;
+    position: absolute;
+    left: -21px;
+    height: 1px;
+    width: 99vw;
+    bottom: 0;
+    background: #b4b4b4;
+    z-index: 1; }
+    @media screen and (max-width: 639px) {
+      .needs_detail_area1::before {
+        left: -11px; } }
+    @media screen and (min-width: 1000px) {
+      .needs_detail_area1::before {
+        left: calc( (958px - 100vw)/2); } }
+
+.needs_detail_area2 {
+  padding: 50px 0 90px;
+}
+
+.needs_detail_flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap; }
+.needs_detail_flex.bottom {
+  align-items: flex-end;
+}
+.needs_detail_textarea_only {
+  padding-bottom: 40px; }
+  @media screen and (max-width: 639px) {
+    .needs_detail_textarea_only {
+      padding-bottom: 20px; } }
+
+.needs_detail_textarea {
+  width: 46.14%;
+  max-width: 442px;
+  padding-bottom: 40px; }
+  @media screen and (max-width: 639px) {
+    .needs_detail_textarea {
+      width: 100%;
+      max-width: inherit;
+      padding-bottom: 20px; } }
+
+.needs_detail_title {
+  font-weight: bold;
+  font-size: 20px; }
+
+.needs_detail_text {
+  font-size: 14px;
+  line-height: 39px; }
+
+.needs_detail_img {
+  width: 47.81%;
+  max-width: 458px;
+  margin-bottom: 40px; }
+  @media screen and (max-width: 639px) {
+    .needs_detail_img {
+      width: 100%;
+      max-width: inherit;
+      margin-bottom: 30px; } }
+
+.needs_detail_link {
+  width: 48%;
+  max-width: 460px;
+  margin-bottom: 35px; }
+  @media screen and (max-width: 639px) {
+    .needs_detail_link {
+      width: 100%;
+      max-width: inherit;
+      margin-bottom: 20px; } }
+  .needs_detail_link h2 {
+    font-size: 18px;
+    /*line-height: 1.7;*/
+    min-height: 3.5em;
+    display: flex;
+    align-items: flex-end;
+  }
+  .needs_detail_link h2 .orangemarker {
+    line-height: 1.7;
+  }
+  .needs_detail_link a {
+    font-size: 12px;
+    line-height: 21px;
+    border: 1px solid #000000;
+    border-top: 10px solid #000000;
+    display: block;
+    padding: 20px 30px;
+    margin-top: 20px; }
+    .needs_detail_link a span {
+      display: block;
+      position: relative;
+      padding-right: 15px; }
+      .needs_detail_link a span::before {
+        content: '';
+        display: block;
+        position: absolute;
+        top: 15px;
+        right: 0;
+        width: 15px;
+        height: 15px;
+        border-top: 1px solid #7f7f80;
+        border-right: 1px solid #7f7f80;
+        -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+        -webkit-transition: all 0.3s;
+        -o-transition: all 0.3s;
+        transition: all 0.3s; }
+    .needs_detail_link a:hover span::before {
+      right: -5px; }
+
+.needs_detail_faq {
+  padding-top: 10px; }
+  .needs_detail_faq ul {
+    padding: 20px 0 50px; }
+    .needs_detail_faq ul li {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: start;
+      -ms-flex-pack: start;
+      justify-content: flex-start;
+      position: relative;
+      -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+      padding-left: 80px; }
+    .needs_detail_faq ul .needs_detail_a_title {
+      position: absolute;
+      left: 0;
+      top: 5px; }
+    .needs_detail_faq ul .label.small {
+      margin: 0 0 15px 10px; }
+
+.btn.belt.needs_detail_q {
+  font-size: 20px;
+  background: #e2e2e3;
+  display: block;
+  padding: 0 30px 0 60px;
+  min-height: 60px; }
+  .btn.belt.needs_detail_q .q {
+    font-size: 40px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 60px;
+    height: 100%;
+    background: #1d1e20;
+    color: #ffffff;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    left: 0; }
+  .btn.belt.needs_detail_q .q_text {
+    display: inline-block;
+    padding: 13px 20px; }
+
+.needs_detail_a {
+  padding: 0 0 25px 80px;
+  border-bottom: 1px solid #b4b4b4; }
+
+
+  aside {
+    z-index: 50;
+    position: relative;
+  }

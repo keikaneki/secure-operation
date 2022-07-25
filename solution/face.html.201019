@@ -1,0 +1,892 @@
+<!DOCTYPE html>
+<html lang="ja-JP">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5873P36');</script>
+<!-- End Google Tag Manager -->
+	<meta charset="UTF-8">
+	<title>商品から探す｜SECURE eye（監視カメラシステム）｜顔認証セキュリティはセキュアのSECURE | SECURE</title>
+	<meta name="description" content="監視カメラシステムや入退室システム等のセキュリティソリューションを提供する株式会社セキュアのブランド「SECURE」サイトの商品、SECURE eye（監視カメラシステム）のページです。お客様のニーズに合わせた監視カメラシステムをご紹介します。">
+	<meta name="keywords" content="セキュア,SECURE,セキュリティ,物理セキュリティ,監視カメラ,防犯カメラ,セキュリティ対策,監視システム,SECURE eye">
+	<link rel="shortcut icon" href="/assets/img/fav.ico">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="format-detection" content="telephone=no">
+	<meta property="og:title" content="商品から探す｜SECURE eye（監視カメラシステム）｜顔認証セキュリティはセキュアのSECURE">
+	<meta property="og:type" content="website">
+	<meta property="og:description" content="監視カメラシステムや入退室システム等のセキュリティソリューションを提供する株式会社セキュアのブランド「SECURE」サイトの商品、SECURE eye（監視カメラシステム）のページです。お客様のニーズに合わせた監視カメラシステムをご紹介します。">
+	<meta property="og:url" content="https://secureinc.co.jp/">
+	<meta property="og:image" content="/assets/img/share.png">
+	<meta property="og:site_name" content="入退室管理・防犯カメラなど、オフィスセキュリティのことならセキュア">
+	<meta property="og:locale" content="ja_JP">
+	<link rel="stylesheet" href="/assets/css/common.css?v=20021303">
+	<script src="/assets/js/jquery1.8.3.js"></script>
+	<script src="/assets/js/common.min.js"></script>
+	<script src="/assets/js/bundle.js"></script>
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5873P36"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	<header>
+		<div class="l-inner">
+			<h1><a href="/">
+				<img src="/assets/img/logo/secure_w.png" alt="" class="white noSP">
+				<img src="/assets/img/logo/secure_k.png" alt="" class="black noSP">
+				<img src="/assets/img/logo/secure_sp_w.png" alt="" class="white noPC">
+				<img src="/assets/img/logo/secure_sp_k.png" alt="" class="black noPC">
+			</a></h1>
+			<div class="above">
+				<nav>
+					<ul>
+						<li><a href="/news/">ニュース</a></li>
+						<li><a href="https://corp.secureinc.co.jp/aboutus/company/">会社情報</a></li>
+						<li><a href="/security_qa/">よくある質問</a></li>
+					</ul>
+				</nav>
+				<div class="info">
+					<div class="tel">
+						<p class="time">
+							フリーコール<br>
+							(土日祝日除く9:30～18:00)
+						</p>
+						<span data-telno="08009199500" class="free-dial fs-rennermedium fs-25 js-telto">0800-919-9500</span>
+					</div>
+					<div class="contact">
+						<a href="https://lp.secureinc.co.jp/01-SecContact-Page-0210_SecContact-FP02_0325.html" class="form"><span>お問い合わせフォーム</span></a>
+					</div>
+				</div>
+			</div>
+			<div class="below">
+				<nav>
+					<ul>
+						<li class="gnav">
+							<a href="/about/" data-nav="about-snav">
+								<span>SECUREとは</span>
+							</a>
+							<div class="snavabout about-snav">
+								<nav>
+									<ul class="l-cols2">
+										<li class="col">
+											<a href="/about/">
+												<p class="ico arrow"><em class="fs-rennermedium fs-30">What's SECURE?</em></p>
+												<span>SECUREとは？</span>
+											</a>
+										</li>
+										<li class="col">
+											<a href="/advantage/">
+												<p class="ico arrow"><em class="fs-rennermedium fs-30">Advantage</em></p>
+												<span>SECUREの強み</span>
+											</a>
+										</li>
+									</ul>
+								</nav>
+							</div>
+						</li>
+						<li class="gnav">
+							<a href="/case/" data-nav="case-snav">
+								<span>導入事例から探す</span>
+							</a>
+							<div class="snav case-snav">
+								<nav class="l-cols3">
+									<div class="col head">
+										<a href="/case/" class="ico arrow">
+											<em class="fs-30 fs-rennermedium">Case</em>
+											<span>導入事例から探す</span>
+										</a>
+									</div>
+									<div class="col">
+										<ul>
+											<li>
+												<a href="/case/case01.html">
+													株式会社メルカリ
+												</a>
+											</li>
+											<li>
+												<a href="/case/case02.html">
+													株式会社 GA technologies
+												</a>
+											</li>
+											<li>
+												<a href="/case/case03.html">
+													スマートニュース株式会社
+												</a>
+											</li>
+											<li>
+												<a href="/case/case04.html">
+													株式会社アダストリア
+												</a>
+											</li>
+											<li>
+												<a href="/case/case05.html">
+													ラクスル株式会社
+												</a>
+											</li>
+											<li>
+												<a href="/case/case06.html">
+													杉戸天然温泉 雅楽の湯
+												</a>
+											</li>
+										</ul>
+									</div>
+									<div class="col">
+										<a href="/case/" class="btn"><span class="more"><span class="fs-rennermedium">See More</span></span></a>
+									</div>
+								</nav>
+							</div>
+						</li>
+						<li class="gnav">
+							<a href="/solution/" data-nav="solution-snav">
+								<span>商品から探す</span>
+							</a>
+							<div class="snav solution-snav">
+								<nav class="l-cols3">
+									<div class="col head">
+										<a href="/solution/" class="ico arrow">
+											<em class="fs-30 fs-rennermedium">Solution</em>
+											<span>商品から探す</span>
+										</a>
+									</div>
+									<div class="col">
+										<ul>
+											<li>
+												<a href="/solution/pass.html">
+													SECURE AC（入退室管理）
+												</a>
+											</li>
+											<li>
+												<a href="/solution/eye.html">
+													SECURE eye（監視カメラシステム）
+												</a>
+											</li>
+											<li>
+												<a href="/solution/analytics.html">
+													SECURE analytics（画像解析ソリューション）
+												</a>
+											</li>
+
+											<li>
+												<a href="/solution/face.html">
+													SECURE face（顔認証ソリューション）
+												</a>
+											</li>
+											<li>
+												<a href="/device/">
+													デバイス一覧
+												</a>
+											</li>
+										</ul>
+									</div>
+									<div class="col">
+										<a href="/solution/" class="btn"><span class="more"><span class="fs-rennermedium">See More</span></span></a>
+									</div>
+								</nav>
+							</div>
+						</li>
+						<li class="gnav">
+							<a href="/needs/" data-nav="needs-snav">
+								<span>目的から探す</span>
+							</a>
+							<div class="snav needs-snav">
+								<nav class="l-cols3">
+									<div class="col head">
+										<a href="/needs/" class="ico arrow">
+											<em class="fs-30 fs-rennermedium">Needs</em>
+											<span>目的から探す</span>
+										</a>
+									</div>
+									<div class="col">
+										<ul>
+											<li>
+												<a href="/needs/introduce_04.html">
+													Pマーク・ISOを取得したい
+												</a>
+											</li>
+											<li>
+												<a href="/needs/introduce_01.html">
+													入退室を管理したい
+												</a>
+											</li>
+											<li>
+												<a href="/needs/introduce_06.html">
+													生体認証を導入したい
+												</a>
+											</li>
+											<li>
+												<a href="/needs/introduce_02.html">
+													監視カメラをつけたい
+												</a>
+											</li>
+										</ul>
+									</div>
+									<div class="col">
+										<a href="/needs/" class="btn"><span class="more"><span class="fs-rennermedium">See More</span></span></a>
+									</div>
+								</nav>
+							</div>
+						</li>
+						<li class="gnav">
+							<a href="/facility/" data-nav="facility-snav">
+								<span>設置場所から探す</span>
+							</a>
+							<div class="snav facility-snav">
+								<nav class="l-cols3">
+									<div class="col head">
+										<a href="/facility/" class="ico arrow">
+											<em class="fs-30 fs-rennermedium">Place</em>
+											<span>設置場所から探す</span>
+										</a>
+									</div>
+									<div class="col">
+										<ul>
+											<li>
+												<a href="/facility/office01.html">
+													オフィス・事務所でのセキュリティ対策
+												</a>
+											</li>
+											<li>
+												<a href="/facility/store01.html">
+													店舗でのセキュリティ対策
+												</a>
+											</li>
+											<li>
+												<a href="/facility/factory01.html">
+													工場でのセキュリティ対策
+												</a>
+											</li>
+											<li>
+												<a href="/facility/gym01.html">
+													フィットネスジムのセキュリティ対策
+												</a>
+											</li>
+											<li>
+												<a href="/facility/preschool01.html">
+													学校・病院のセキュリティ対策
+												</a>
+											</li>
+										</ul>
+									</div>
+									<div class="col">
+										<a href="/facility/" class="btn"><span class="more"><span class="fs-rennermedium">See More</span></span></a>
+									</div>
+								</nav>
+							</div>
+						</li>
+					</ul>
+				</nav>
+			</div>
+			<div class="menu">
+				<div class="menubtn">
+					<span></span>
+					<p class="fs-renner">MENU</p>
+				</div>
+			</div>
+			<div class="openmenu">
+				<div class="above">
+					<div class="col top">
+						<a href="/" class="ico arrow"><span>TOP</span></a>
+					</div>
+					<div class="col about">
+						<dl>
+							<dt class="ico arrow"><a href="/about/"><span>SECUREとは</span></a></dt>
+							<dd>
+								<ul>
+									<li><a href="/about/"><span>What's SECURE</span></a></li>
+									<li><a href="/advantage/"><span>Advantage</span></a></li>
+								</ul>
+							</dd>
+						</dl>
+					</div>
+					<div class="col case">
+						<dl>
+							<dt class="ico arrow"><a href="/case/"><span>導入事例から探す</span></a></dt>
+							<dd>
+								<ul>
+									<li><a href="/case/case01.html"><span>株式会社メルカリ</span></a></li>
+									<li><a href="/case/case02.html"><span>株式会社 GA technologies</span></a></li>
+									<li><a href="/case/case03.html"><span>スマートニュース株式会社</span></a></li>
+									<li><a href="/case/case04.html"><span>株式会社アダストリア</span></a></li>
+									<li><a href="/case/case05.html"><span>ラクスル株式会社</span></a></li>
+									<li><a href="/case/case06.html"><span>杉戸天然温泉 雅楽の湯</span></a></li>
+								</ul>
+							</dd>
+						</dl>
+					</div>
+					<div class="col solution">
+						<dl>
+							<dt class="ico arrow"><a href="/solution/"><span>商品から探す</span></a></dt>
+							<dd>
+								<ul>
+									<li><a href="/solution/pass.html"><span>SECURE AC（入退室管理）</span></a></li>
+									<li><a href="/solution/eye.html"><span>SECURE eye（監視カメラシステム）</span></a></li>
+									<li><a href="/solution/analytics.html"><span>SECURE analytics（画像解析ソリューション）</span></a></li>
+									<li><a href="/solution/face.html"><span>SECURE face（顔認証システム）</span></a></li>
+									<li><a href="/device/"><span>デバイス一覧</span></a></li>
+								</ul>
+							</dd>
+						</dl>
+					</div>
+					<div class="col needs">
+						<dl>
+							<dt class="ico arrow"><a href="/needs/"><span>目的から探す</span></a></dt>
+							<dd>
+								<ul>
+									<li><a href="/needs/introduce_04.html"><span>Pマーク・ISOを取得したい</span></a></li>
+									<li><a href="/needs/introduce_01.html"><span>入退室を管理したい</span></a></li>
+									<li><a href="/needs/introduce_06.html">生体認証を導入したい</a></li>
+									<li><a href="/needs/introduce_02.html"><span>監視カメラをつけたい</span></a></li>
+								</ul>
+							</dd>
+						</dl>
+					</div>
+					<div class="col facility">
+						<dl>
+							<dt class="ico arrow"><a href="/facility/"><span>設置場所から探す</span></a></dt>
+							<dd>
+								<ul>
+									<li><a href="/facility/office01.html"><span>オフィス・事務所でのセキュリティ対策</span></a></li>
+									<li><a href="/facility/store01.html"><span>店舗でのセキュリティ対策</span></a></li>
+									<li><a href="/facility/factory01.html"><span>工場でのセキュリティ対策</span></a></li>
+									<li><a href="/facility/gym01.html"><span>フィットネスジムのセキュリティ対策</span></a></li>
+									<li><a href="/facility/preschool01.html"><span>学校・病院のセキュリティ対策</span></a></li>
+								</ul>
+							</dd>
+						</dl>
+					</div>
+					<div class="col info">
+						<div class="tel">
+							<span>フリーコール<br>(土日祝日除く9:30～18:00)</span>
+							<span class="fs-rennermedium fs-25 js-telto" data-telno="08009199500">0800-919-9500</span>
+						</div>
+						<div class="mail">
+							<a href="https://lp.secureinc.co.jp/01-SecContact-Page-0210_SecContact-FP02_0325.html" class="ico mail"><span>お問い合わせフォーム</span></a>
+						</div>
+					</div>
+				</div>
+				<div class="below">
+					<ul>
+						<li><a href="/security_blog/">セキュリティブログ</a></li>
+						<li><a href="/movie/">動画ライブラリー</a></li>
+						<li><a href="/news/">ニュース</a></li>
+						<li><a href="/security_qa/">よくある質問</a></li>
+						<li><a href="/flow/">導入フロー</a></li>
+						<li><a href="/showroom/">本社ショールーム</a></li>
+						<li><a href="https://corp.secureinc.co.jp/aboutus/company/">会社情報</a></li>
+						<li><a href="/download/">資料ダウンロード</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</header>
+	<section class="sltface l-inner">
+		<nav class="breadcrumb">
+			<ul>
+				<li><a href="/">TOP</a></li>
+				<li><a href="/solution/">Solution（商品から探す）</a></li>
+				<li><span>SECURE face（顔認証システム）とは？</span></li>
+			</ul>
+		</nav>
+
+		<div class="ttlarea ta-c">
+			<h1 class="fs-rennermedium fs-50">Solution</h1>
+			<h2 class="fs-20">SECURE face（顔認証システム）とは？</h2>
+		</div>
+	</section>
+
+	<section class="sltface">
+		<div class="klphoto">
+			<div class="ttlarea">
+				<div style="margin-bottom: 20px;">
+				<h2 class="fs-rennermedium fs-40 blackbelt">SECURE face</h2>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="sltface l-inner">
+<!-- 		<div class="anchors">
+			<a href="#aboutface" class="btn small gray anchor"><span>SECURE faceとは？</span></a>
+			<a href="#service" class="btn small gray anchor"><span>SECURE faceの豊富なサービス</span></a>
+		</div> -->
+		<article class="block">
+			<p class="txt">⼊退室管理のデータと監視カメラシステムのデータを連携させ、顔認証とディープランニングによる高度なAI(人工知能）技術を用いてお客様に最適なソリューションをご提案いたします。</p>
+		</article>
+		<article class="block" id="aboutface">
+			<h2 class="fs-rennermedium orangemarker"><em class="marker fs-30 fw-900">顔認証とは？</em></h2>
+			<p class="txt">顔認証とは、生体認証の⼀種になります。画像や映像から顔を検出し、顔の目、鼻、口などの特徴点の位置や顔領域の位置や大きさをもとに照合を行い、認証します。なりすましが困難で、セキュリティ性が高いのが特徴です。</p>
+			<div class="box frame">
+				<div class="frameinner">
+					<div class="face-flow">
+						<ol>
+							<li class="step01 ta-c">
+								<h3 class="label orange small">顔の検出</h3>
+								<p class="fw-700">画像のどこに<br class="noSP">人間の顔があるかどうか判別します</p>
+							</li>
+							<li><img src="/assets/img/solution/face01.png" alt=""><p>カメラ</p></li>
+							<li><img src="/assets/img/solution/face02.png" alt=""><p>画像</p></li>
+							<li><img src="/assets/img/solution/face03.png" alt=""><p>顔を検出</p></li>
+							<li><img src="/assets/img/solution/face04.png" alt=""><p>画像を調整</p></li>
+							<li><img src="/assets/img/solution/face05.png" alt=""><p>顔の分析</p></li>
+							<li><img src="/assets/img/solution/face06.png" alt=""><p>判別</p></li>
+							<li class="step02 ta-c">
+								<h3 class="label orange small">顔の認識</h3>
+								<p class="fw-700">顔画像であった場合<br class="noSP">その人物が誰であるかを知らせる</p>
+							</li>
+							<li><img src="/assets/img/solution/face07.png" alt=""><p>顔データ<br class="noPC">ベース</p></li>
+						</ol>
+					</div>
+				</div>
+			</div>
+		</article>
+		<article class="block">
+			<h2 class="fs-rennermedium orangemarker"><em class="marker fs-30 fw-900">顔認識の方式</em></h2>
+			<p class="txt">弊社で取り扱っている顔認証のソリューションは、<br class="noSP">ビジュアルベース（2D認証）と、IRベース（3D認証）の2つの方式を採用しています。</p>
+				<h3 class="fs-rennermedium fs-28 fw-700">ビジュアルベース（2D認証）</h3>
+				<p class="txt">撮影した画像から、「輪郭」や「⽬・⿐・⼝」といったパーツの位置関係を計測。<br class="noSP">計測した顔をテンプレート化して、それを基に登録されている特定の個⼈かどうかを特定する方式。</p>
+				<div class="box frame">
+					<div class="frameinner">
+						<div class="face-2d-flow">
+							<ol class="l-cols5">
+								<li><img src="/assets/img/solution/face08.png" alt=""><p>カラー写真</p></li>
+								<li><img src="/assets/img/solution/face09.png" alt=""><p>データ化</p></li>
+								<li><img src="/assets/img/solution/face10.png" alt=""><p>パーツの検知</p></li>
+								<li><img src="/assets/img/solution/face11.png" alt=""><p>位置関係計測</p></li>
+								<li><img src="/assets/img/solution/face12.png" alt=""><p>テンプレ化</p></li>
+							</ol>
+						</div>
+					</div>
+				</div>
+				<div class="l-cols2">
+					<div class="col card blackline blackborder">
+						<h2 class="card-cell card-head ta-c">メリット</h2>
+						<ul class="card-cell list-disc">
+							<li>平面的に認証、識別する技術でセンサーなどは必要ない。</li>
+							<li>一般的なIPカメラで導入可能</li>
+						</ul>
+					</div>
+					<div class="col card blackline blackborder">
+						<h2 class="card-cell card-head ta-c">デメリット</h2>
+						<ul class="card-cell list-disc">
+							<li>平面のみで識別を行うため写真でも識別可能になる場合がある。化粧などの変化で精度が低くなる場合がある</li>
+							<li>照明の明るさに影響されてしまう。</li>
+						</ul>
+					</div>
+				</div>
+				<h3 class="fs-rennermedium fs-28 fw-700">IRベース（3D認証）</h3>
+				<p class="txt">ビジュアルベースに加え、赤外線カメラによって顔の凹凸など奥行き情報をデータ化して、<br class="noSP">登録されている特定の人物かどうかを特定する方式。<font size="-2"> ※FaceStation2はビジュアルベース方式ではございません。</font></p>
+				<div class="box frame">
+					<div class="frameinner">
+						<div class="face-3d-flow">
+							<ol class="l-cols5">
+								<li class="l-cols2 l-spcols2">
+									<div>
+										<img src="/assets/img/solution/face08.png" alt=""><p>カラー写真</p>
+									</div>
+									<div>
+										<img src="/assets/img/solution/face09.png" alt=""><p>データ化</p>
+									</div>
+								</li>
+								<li><img src="/assets/img/solution/face12.png" alt=""><p>ビジュアルベースの<br>テンプレ情報</p></li>
+								<li><img src="/assets/img/solution/face13.png" alt=""><p>奥行き+<br>コントラストイメージ</p></li>
+							</ol>
+						</div>
+					</div>
+				</div>
+				<div class="l-cols2">
+					<div class="col card blackline blackborder">
+						<h2 class="card-cell card-head ta-c">メリット</h2>
+						<ul class="card-cell list-disc">
+					<!--		<li>非接触で認証が可能になる。</li>-->
+							<li>化粧や大幅な髪型の変更にも影響を受けない。</li>
+							<li>照明に影響されない。特に暗い環境下においても精度を維持できる。</li>
+							<li>マネキンや写真などの偽顔も判別できる。</li>
+						</ul>
+					</div>
+					<div class="col card blackline blackborder">
+						<h2 class="card-cell card-head ta-c">デメリット</h2>
+						<ul class="card-cell list-disc">
+							<li>赤外線カメラも内蔵して奥行きも計測するため本体のサイズの小型化に限界がある。</li>
+							<li>専用カメラの導入が必要。</li>
+						</ul>
+					</div>
+				</div>
+		</article>
+	</section>
+
+	<section class="js-tab-body js-cr sltface l-inner eyecloud sp-mb-80" id="service">
+		<div class="ttlarea">
+			<div style="margin-bottom: 20px;">
+				<h2 class="fs-30 blackbelt">SECURE face の豊富なサービス</h2>
+			</div>
+		</div>
+		<div class="l-cols2 device">
+				<div class="col card blackline btn-bottom-fix"><div class="l-spcols2"><div class="card-cell card-ttl"><p class="name-jp">IP顔認証デバイス</p><p class="name-en">FaceStation2</p></div><div class="col card-cell"><img src="/assets/img/logo/suprema.png" alt="suprema" class="logo suprema"><img src="/assets/img/device/item01.jpg" alt="" class="imgfix"></div></div><div class="col spec"><ul class="listdisc"><li>認証方式（顔・カード・テンキー）</li><li>0〜25,000lxの動作照度 </li><li>Andoroid 5.0 Lollipopによるセキュリティの強化</li><li>勤怠管理との連携可能</li><li>スタンドアロンでの運用が可能</li></ul></div><div class="card-btn"><a href="/device/pass/facestation2.html" class="btn small orange"><span class="more fs-rennermedium"><span>商品詳細を見る</span></span></a></div></div>
+<!--				<div class="col card blackline btn-bottom-fix"><div class="l-spcols2"><div class="card-cell card-ttl"><p class="name-jp">IP顔認証デバイス</p><p class="name-en">FaceLite</p></div><div class="col card-cell"><img src="/assets/img/logo/suprema.png" alt="suprema" class="logo suprema"><img src="/assets/img/device/item02.jpg" alt="" class="imgfix"></div></div><div class="col spec"><ul class="listdisc"><li>認証方式（顔・カード・テンキー）</li><li>0〜25,000lxの動作照度 </li><li>スマートフォンでアクセス可能</li><li>勤怠管理との連携可能</li><li>スタンドアロンでの運用が可能</li></ul></div><div class="card-btn"><a href="/device/pass/facelite.html" class="btn small orange"><span class="more fs-rennermedium"><span>商品詳細を見る</span></span></a></div></div>-->
+				<div class="col card blackline btn-bottom-fix"><div class="l-spcols2"><div class="card-cell card-ttl"><p class="name-jp">顔認証システム</p><p class="name-en">FaceTracker</p></div><div class="col card-cell"><img src="/assets/img/logo/secure.png" alt="secure" class="logo secure"><img src="/assets/img/device/item83.jpg" alt="" class="imgfix"></div></div><div class="col spec"><ul class="listdisc"><li>ウォークスルー認証</li><li>複数人を同時認証</li><li>監視カメラ連携</li><li>リアルタイム通知</li></ul></div><div class="card-btn"><a href="/solution/face/facetracker.html" class="btn small orange"><span class="more fs-rennermedium"><span>商品詳細を見る</span></span></a></div></div>
+				<div class="col card blackline btn-bottom-fix"><div class="l-spcols2"><div class="card-cell card-ttl"><p class="name-jp">パソコンののぞき見防止ソフト</p><p class="name-en">顔認証のぞき見ブロッカー</p></div><div class="col card-cell"><img src="/assets/img/logo/secure.png" alt="secure" class="logo secure"><img src="/assets/img/device/item84.jpg" alt="" class="imgfix"></div></div><div class="col spec"><ul class="listdisc"><li>高性能顔認証</li><li>情報保護機能</li><li>異常時画面ロック</li><li>ログ保存</li><li>のぞき見許可モード</li></ul></div><div class="card-btn"><a href="/solution/face/nozokimiblocker.html" class="btn small orange"><span class="more fs-rennermedium"><span>商品詳細を見る</span></span></a></div></div>
+		</div>
+		<h3 class="ta-c"><span class="blackunderline fs-28">今後も、新しいデバイスのリリースをしていきます。</span></h3>
+	</section>
+
+	<section class="js-tab-body js-cr sltface l-inner eyecloud">
+			<div id="flow" class="ttlarea ta-c">
+				<h1 class="fs-rennermedium fs-50">Flow</h1>
+				<h2 class="fs-20">導入フロー</h2>
+			</div>
+		<div class="l-cols5 flow noSPFlow">
+			<div class="col flowinner js-view js-show js-fadeup-card">
+				<div class="card frame">
+					<div class="frameinner ta-c">
+						<h2 class="ta-c"><span class="label orange small">STEP1</span></h2>
+						<p class="ta-c fs-20 fw-500">お問い合わせ</p>
+						<figure class="card-thumb"><img src="/assets/img/ico/flow01.png" alt="" class="pc-img-large sp-img-middle"></figure>
+					</div>
+				</div>
+			</div>
+			<div class="col flowinner js-view js-show js-fadeup-card">
+				<div class="card frame">
+					<div class="frameinner ta-c">
+						<h2 class="ta-c"><span class="label orange small">STEP2</span></h2>
+						<p class="ta-c fs-20 fw-500">ヒアリング<br>調査</p>
+						<figure class="card-thumb"><img src="/assets/img/ico/flow02.png" alt="" class="pc-img-large sp-img-middle"></figure>
+					</div>
+				</div>
+			</div>
+			<div class="col flowinner js-view js-show js-fadeup-card">
+				<div class="card frame">
+					<div class="frameinner ta-c">
+						<h2 class="ta-c"><span class="label orange small">STEP3</span></h2>
+						<p class="ta-c fs-20 fw-500">ご提案<br>お見積もり</p>
+						<figure class="card-thumb"><img src="/assets/img/ico/flow03.png" alt="" class="pc-img-large sp-img-middle"></figure>
+					</div>
+				</div>
+			</div>
+			<div class="col flowinner js-view js-show js-fadeup-card">
+				<div class="card frame">
+					<div class="frameinner ta-c">
+						<h2 class="ta-c"><span class="label orange small">STEP4</span></h2>
+						<p class="ta-c fs-20 fw-500">施工・導入</p>
+						<figure class="card-thumb"><img src="/assets/img/ico/flow04.png" alt="" class="pc-img-large sp-img-middle"></figure>
+					</div>
+				</div>
+			</div>
+			<div class="col flowinner js-view js-show js-fadeup-card">
+				<div class="card frame">
+					<div class="frameinner ta-c">
+						<h2 class="ta-c"><span class="label orange small">STEP5</span></h2>
+						<p class="ta-c fs-20 fw-500">運用開始</p>
+						<figure class="card-thumb"><img src="/assets/img/ico/flow05.png" alt="" class="pc-img-large sp-img-middle"></figure>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="card-cell ta-c">
+			<a href="/flow/" class="btn"><span class="more fs-rennermedium"><span>See More</span></span></a>
+		</div>
+	</section>
+
+	<aside>
+		<section class="grayarea contact graywing">
+			<div class="wrap">
+				<div class="l-inner">
+					<div class="ttlarea ta-c">
+						<h1 class="fs-rennermedium fs-50">Contact</h1>
+						<p class="fs-20">各種ご相談、料金のお見積りなど<br class="noPC">お気軽にご相談ください</p>
+					</div>
+					<div class="l-cols2">
+						<div class="col">
+							<p>フリーコール<br class="noPC">（土日祝日除く9:30～18:00）</p>
+							<p class="fs-55 fs-rennermedium tel"><span data-telno="08009199500" class="ico free-dial js-telto">0800-919-9500</span></p>
+							<p>携帯・PHSからもご利用可能です。</p>
+						</div>
+						<div class="col">
+							<p>WEBからのお問い合わせ（24時間受付）</p>
+							<div class="btn"><a href="https://lp.secureinc.co.jp/01-SecContact-Page-0210_SecContact-FP02_0325.html" class="btn orange middle shadow mail"><span class="fs-24">お問い合わせフォーム</span></a></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		
+		<section class="case l-inner js-block">
+			<div class="ttlarea ta-c">
+				<h1 class="fs-rennermedium fs-50">Case</h1>
+				<h2 class="fs-20">導入事例から探す</h2>
+			</div>
+
+
+			<div class="l-cols3">
+				<div class="col card blackline js-view js-fadeup-card">
+					<a href="/case/case01.html" class="card-hvact">
+						<div class="ta-c card-cell card-separate">
+							<img src="/assets/img/logo/mercari.png" alt="" class="card-logo">
+							<h2>株式会社メルカリ</h2>
+						</div>
+						<figure class="card-fl card-thumb">
+							<img src="/assets/img/thumb/case01.jpg" alt="株式会社メルカリ" class="imgfix">
+							<p class="more"><span class="fs-renner">See More</span></p>
+						</figure>
+						<div class="card-fr card-txt card-cell">
+							<p>社員とサービスのエンドユーザーを守るSECURE AC</p>
+						</div>
+						<!-- <ul class="cf order-4 tag card-separate">
+							<li>店舗</li>
+							<li>働き方改革</li>
+							<li>見える化</li>
+						</ul> -->
+					</a>
+				</div>
+
+				<div class="col card blackline js-view js-fadeup-card">
+					<a href="/case/case02.html" class="card-hvact">
+						<div class="ta-c card-cell card-separate">
+							<img src="/assets/img/logo/gatechnologies.png" alt="" class="card-logo">
+							<h2>株式会社 GA technologies</h2>
+						</div>
+						<figure class="card-fl card-thumb">
+							<img src="/assets/img/thumb/case02.jpg" alt="株式会社 GA technologies" class="imgfix">
+							<p class="more"><span class="fs-renner">See More</span></p>
+						</figure>
+						<div class="card-fr card-txt card-cell">
+							<p>企業成長に合わせて複雑化した勤怠管理と入退室管理を連携させる</p>
+						</div>
+						<!-- <ul class="cf order-4 tag card-separate">
+							<li>店舗</li>
+							<li>働き方改革</li>
+							<li>見える化</li>
+						</ul> -->
+					</a>
+				</div>
+
+				<div class="col card blackline js-view js-fadeup-card">
+					<a href="/case/case03.html" class="card-hvact">
+						<div class="ta-c card-cell card-separate">
+							<img src="/assets/img/logo/smartnews.png" alt="" class="card-logo">
+							<h2>スマートニュース株式会社</h2>
+						</div>
+						<figure class="card-fl card-thumb">
+							<img src="/assets/img/thumb/case03.jpg" alt="スマートニュース株式会社" class="imgfix">
+							<p class="more"><span class="fs-renner">See More</span></p>
+						</figure>
+						<div class="card-fr card-txt card-cell">
+							<p>顔認証で最先端と利便性を感じられるセキュリティシステム</p>
+						</div>
+						<!-- <ul class="cf order-4 tag card-separate">
+							<li>店舗</li>
+							<li>働き方改革</li>
+							<li>見える化</li>
+						</ul> -->
+					</a>
+				</div>
+
+				
+				<div class="col card blackline">
+					<a href="/case/case04.html" class="card-hvact">
+						<div class="ta-c card-cell card-separate">
+							<img src="/assets/img/logo/adastria.png" alt="" class="card-logo">
+							<h2>株式会社アダストリア</h2>
+						</div>
+						<figure class="card-fl card-thumb">
+							<img src="/assets/img/thumb/case04.jpg" alt="株式会社アダストリア" class="imgfix">
+							<p class="more"><span class="fs-renner">See More</span></p>
+						</figure>
+						<div class="card-fr card-txt card-cell">
+							<p>店舗の従業員が安全に働けるためのカメラシステム</p>
+						</div>
+						<!-- <ul class="cf order-4 tag card-separate">
+							<li>店舗</li>
+							<li>働き方改革</li>
+							<li>見える化</li>
+						</ul> -->
+					</a>
+				</div>
+
+				<div class="col card blackline">
+					<a href="/case/case05.html" class="card-hvact">
+						<div class="ta-c card-cell card-separate">
+							<img src="/assets/img/logo/raksul.png" alt="" class="card-logo">
+							<h2>ラクスル株式会社</h2>
+						</div>
+						<figure class="card-fl card-thumb">
+							<img src="/assets/img/thumb/case05.jpg" alt="ラクスル株式会社" class="imgfix">
+							<p class="more"><span class="fs-renner">See More</span></p>
+						</figure>
+						<div class="card-fr card-txt card-cell">
+							<p>セキュリティレベルが高い指紋認証を導入して、管理はより簡単に</p>
+						</div>
+						<!-- <ul class="cf order-4 tag card-separate">
+							<li>店舗</li>
+							<li>働き方改革</li>
+							<li>見える化</li>
+						</ul> -->
+					</a>
+				</div>
+				<div class="col card blackline">
+					<a href="/case/case06.html" class="card-hvact">
+						<div class="ta-c card-cell card-separate">
+							<img src="/assets/img/logo/utanoyu.png" alt="" class="card-logo">
+							<h2>杉戸天然泉　雅楽の湯</h2>
+						</div>
+						<figure class="card-fl card-thumb">
+							<img src="/assets/img/thumb/case06.jpg" alt="杉戸天然泉　雅楽の湯" class="imgfix">
+							<p class="more"><span class="fs-renner">See More</span></p>
+						</figure>
+						<div class="card-fr card-txt card-cell">
+							<p>「AI」を利用して誰もが納得する「混雑具合」の見える化を実現</p>
+						</div>
+						<!-- <ul class="cf order-4 tag card-separate">
+							<li>店舗</li>
+							<li>働き方改革</li>
+							<li>見える化</li>
+						</ul> -->
+					</a>
+				</div>
+				
+
+			</div>
+			<div class="ta-c">
+				<a href="/case/" class="btn"><span class="more fs-rennermedium"><span>See More</span></span></a>
+			</div>
+		</section>
+		
+
+		<section class="solution l-inner js-block">
+			<div class="ttlarea ta-c">
+				<h1 class="fs-rennermedium fs-50">Solution</h1>
+				<h2 class="fs-20">商品から探す</h2>
+			</div>
+			
+			<div class="l-cols4">
+				<div class="col card blackline js-view js-fadeup-card">
+					<a href="/solution/pass.html" class="card-hvact">
+						<h2 class="card-cell ta-c">入退室管理</h2>
+						<figure class="card-thumb">
+							<img src="/assets/img/thumb/pass.jpg" alt="" class="imgfix">
+							<p class="more"><span class="fs-renner">See More</span></p>
+						</figure>
+						<h3 class="card-cell card-separate ta-c">SECURE AC</h3>
+						<div class="card-txt card-cell">
+							<p>部外者が勝手に入室することを防いだり特定の部屋への出入りを厳密に記録</p>
+						</div>
+					</a>
+				</div>
+				
+				<div class="col card blackline js-view js-fadeup-card">
+					<a href="/solution/eye.html" class="card-hvact">
+						<h2 class="card-cell ta-c">監視カメラシステム</h2>
+						<figure class="card-thumb">
+							<img src="/assets/img/thumb/eye.jpg" alt="" class="imgfix">
+							<p class="more"><span class="fs-renner">See More</span></p>
+						</figure>
+						<h3 class="card-cell card-separate ta-c">SECURE eye</h3>
+						<div class="card-txt card-cell">
+							<p>高品質な監視カメラ関連製品を万全のサポート体制でご提供</p>
+						</div>
+					</a>
+				</div>
+
+				<div class="col card blackline js-view js-fadeup-card">
+					<a href="/solution/analytics.html" class="card-hvact">
+						<h2 class="card-cell ta-c">画像解析ソリューション</h2>
+						<figure class="card-thumb">
+							<img src="/assets/img/thumb/analytics.jpg" alt="" class="imgfix">
+							<p class="more"><span class="fs-renner">See More</span></p>
+						</figure>
+						<h3 class="card-cell card-separate ta-c">SECURE analytics</h3>
+						<div class="card-txt card-cell">
+							<p>人数・行列の長さや密度・滞在時間・移動などに関する測定結果や分析結果をリアルタイムで把握</p>
+						</div>
+					</a>
+				</div>
+
+				<div class="col card blackline js-view js-show js-fadeup-card">
+					<a href="/solution/face.html" class="card-hvact">
+						<h2 class="card-cell ta-c">顔認証ソリューション</h2>
+						<figure class="card-thumb">
+							<img src="/assets/img/thumb/face.jpg" alt="SECURE face" class="imgfix">
+							<p class="more"><span class="fs-renner">See More</span></p>
+						</figure>
+						<h3 class="card-cell card-separate ta-c">SECURE face</h3>
+						<div class="card-txt card-cell">
+							<p>顔認証セキュリティー以外に、覗き見防止機能による社外のテレワーク支援、ユーザ判断による顧客向けサービス等を提供</p>
+						</div>
+					</a>
+				</div>
+			</div>
+
+			<div class="ta-c noPC">
+				<a href="/solution/" class="btn"><span class="more fs-rennermedium"><span>See More</span></span></a>
+			</div>
+		</section>
+	</aside>
+
+	<div class="dlbox noPC">
+		<a href="/download/" class="btn orange shadow">
+			3分で分かる「オフィスセキュリティ対策」<br>
+			<em class="dl fs-30"><span class="fw-700">資料ダウンロード</span>はコチラ</em>
+		</a>
+		<strong class="casenum orangeunderline fs-30 fw-500 noSP">導入実績<span class="fc-orange number"><span class="fs-60 fw-700 number">4,000</span>社</span>以上</strong>
+	</div>
+
+
+	<div class="pagetop">
+		<span class="fs-renner">PAGE TOP</span>
+	</div>
+	<footer>
+		<div class="footerbelt">
+			<div class="wrap">
+				<div class="l-cols2">
+					<div class="col p-0 left">
+						<ul>
+							<li><a href="/security_blog/" class="btn white"><span class="more"><span>セキュリティブログ</span></span></a></li>
+							<li><a href="/movie/" class="btn white"><span class="more"><span>動画ライブラリー</span></span></a></li>
+							<li><a href="/security_qa/" class="btn white"><span class="more"><span>よくある質問</span></span></a></li>
+						</ul>
+					</div>
+					<div class="col p-0 right">
+						<ul>
+							<li><a href="/showroom/"><span>本社ショールーム</span></a></li>
+							<li><a href="/flow/"><span>導入フロー</span></a></li>
+							<li><a href="https://corp.secureinc.co.jp/aboutus/company/"><span>会社情報</span></a></li>
+							<li><a href="/download/"><span>資料ダウンロード</span></a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="under">
+					<div class="l-cols2 wrap">
+						<div class="col order-2">
+							<nav>
+								<ul>
+									<li><a href="/sitepolicy/">サイトポリシー</a></li>
+									<li><a href="/compliance/">コンプライアンスに関する取り組み</a></li>
+									<li><a href="/privacy/">個人情報保護方針</a></li>
+								</ul>
+							</nav>
+						</div>
+						<div class="col order-1">
+							<p class="copy">Copyright(C)2020 SECURE Inc. All Rights Reserved.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<div class="mask"></div>
+<script>
+	$(function(){
+		$('.tab a').click(function(){
+			$('.tab a').removeClass('is-cr');
+			$(this).addClass('is-cr');
+			var target = $(this).attr('data-target');
+			$('.js-tab-body').fadeOut();
+			$('.' + target).fadeIn();
+		});
+	});
+</script>
+</body>
+</html>
