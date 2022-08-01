@@ -390,7 +390,7 @@ a {
 
 #mv {
   position: relative;
-  min-height: 600px;
+  min-height: 640px;
   margin-bottom: 180px;
 
   display: flex;
@@ -1087,7 +1087,17 @@ a {
   #mv__inner div p .btn:first-child {
     height: 60px;
   }
-
+  #aiob .subsidy{
+    padding-bottom: 10px !important;
+    text-align: center
+  }
+  #aiob #mv .subsidy{
+    padding-left: 0 !important;
+    padding-bottom: 5px !important;
+  }
+  #aiob .subsidy img{
+    width: 220px;
+  }
   #mv__inner div p .btn:nth-of-type(2) {
     height: 44px;
     margin-left: 0;
@@ -4014,6 +4024,17 @@ font-size: 1.8rem;
   left: 50%;
   bottom: 55px;
   transform: translate(-50%,0);
+}
+#aiob #mv .subsidy{
+  padding-left: 47px;
+  padding-bottom: 5px;
+}
+#aiob .subsidy{
+  padding-bottom: 15px;
+}
+#aiob #mv .subsidy{
+  padding-left: 47px;
+  padding-bottom: 5px;
 }
 @media screen and (max-width: 1180px){
   .cp #mv2{

@@ -135,6 +135,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<div>
 						<div class="text">
 							<h1> <span>顔認証クラウド型<br>入退室管理システム<br>AI Office Base</span></h1>
+
+							<p class="subsidy"><img src="./images/cp2_subsidy2.png" alt="IT導入補助金2022採択商品※" width="294"></p>
 							<p><a class="btn" href="#form_b" target="_blank"><img src="./images/icon_dl_white.svg" width="27" /><span>3分でわかる無料資料ダウンロード</span></a></p>
 						</div>
 						<div class="function">
@@ -626,6 +628,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<div id="form_b">
 				<div class="bg-white-top"></div>
 				<div class="inner">
+					
+					<p class="subsidy"><img src="./images/cp2_subsidy2.png" alt="IT導入補助金2022採択商品※" width="294"></p>
 					<h2 id="anchor-9">リモートオフィス運営、<br class="min-view">はじめませんか？<br>今すぐ資料請求・<br class="min-view">お問い合わせはこちら</h2>
 					<section class="formsection">
 						<form id="formarea_b" method="post" action="confirm_b.php">
