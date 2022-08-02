@@ -390,7 +390,7 @@ a {
 
 #mv {
   position: relative;
-  min-height: 640px;
+  min-height: 660px;
   margin-bottom: 180px;
 
   display: flex;
@@ -588,7 +588,7 @@ a {
   margin: 0 auto;
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
   padding: 30px 40px;
-  display: flex;
+491  display: flex;
   align-items: center;
 }
 

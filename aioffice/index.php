@@ -102,8 +102,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 @media screen and (max-width: 680px){   
   .pc { display:none; }
   .sp { display:block; }
+#form_b .notice{
+	margin-top: -20px !important;
+	margin-bottom: 30px !important;
 }
-
+}
+p.notice{
+	margin-top: 10px;
+	font-size: 1rem;
+	line-height: 1.4;
+	opacity: .8;
+}
 </style>
 
 </head>
@@ -138,6 +147,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 							<p class="subsidy"><img src="./images/cp2_subsidy2.png" alt="IT導入補助金2022採択商品※" width="294"></p>
 							<p><a class="btn" href="#form_b" target="_blank"><img src="./images/icon_dl_white.svg" width="27" /><span>3分でわかる無料資料ダウンロード</span></a></p>
+							<p class="notice">※IT導入補助金2022とは経済産業省が推進する、中小企業・小規模事業者を対象とした補助金です。<br>本製品ではソフトウェア費用が1/2補助されます。</p>
 						</div>
 						<div class="function">
 							<h4>主な機能</h4>
@@ -631,6 +641,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					
 					<p class="subsidy"><img src="./images/cp2_subsidy2.png" alt="IT導入補助金2022採択商品※" width="294"></p>
 					<h2 id="anchor-9">リモートオフィス運営、<br class="min-view">はじめませんか？<br>今すぐ資料請求・<br class="min-view">お問い合わせはこちら</h2>
+
+							<p class="notice" style="margin-top: -30px;margin-bottom: 40px;">※IT導入補助金2022とは経済産業省が推進する、中小企業・小規模事業者を対象とした補助金です。<br>本製品ではソフトウェア費用が1/2補助されます。</p>
 					<section class="formsection">
 						<form id="formarea_b" method="post" action="confirm_b.php">
 
