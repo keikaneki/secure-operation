@@ -63,14 +63,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>クラウド型 顔認証・入退室管理 SECURE AI Office Base</title>
-	<meta name="description" content="職場はクラウドで管理する。入退室管理、顔認証の「SECURE AI Office Base」。ABWや職場3密対策に！" />
+	<meta name="description" content="[IT導入補助金2022採択商品]職場はクラウドで管理する。入退室管理、顔認証の「SECURE AI Office Base」。ABWや職場3密対策に！" />
 	<meta name="keywords" content="ABW,職場3密対策,サテライトオフィス,,SECURE,SECURE AI Office Base,職場リモート管理,健康経営,クラウドオフィス管理" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="クラウド型 顔認証・入退室管理 SECURE AI Office Base｜職場はクラウドで管理する" />
 	<meta property="og:image" content="https://secureinc.co.jp/aioffice/images/og.png" />
 	<meta property="og:url" content="https://secureinc.co.jp/aioffice/" />
 	<meta property="og:site_name" content="クラウド型 顔認証・入退室管理 SECURE AI Office Base｜職場はクラウドで管理する" />
-	<meta property="og:description" content="職場はクラウドで管理する。入退室管理、顔認証の「SECURE AI Office Base」。ABWや職場3密対策に！" />
+	<meta property="og:description" content="[IT導入補助金2022採択商品]職場はクラウドで管理する。入退室管理、顔認証の「SECURE AI Office Base」。ABWや職場3密対策に！" />
 	<link href="https://fonts.googleapis.com/css2?family=Hind+Guntur:wght@600&family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="./css/html5reset-1.6.1.css">
 	<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
