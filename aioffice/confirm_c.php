@@ -113,6 +113,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<dt class="any">お問い合わせの内容</dt>
 				<dd><?php print(nl2br($_SESSION['BODY_B'])) ?></dd>
 			</dl>
+									<noscript>フォームを送信するにはブラウザのJavascriptを有効にしてください</noscript>
 			<div class="submitbtn">
 				<div class="flexbtn">
 					<form method="post" action="campaign2206.php#form_b">
@@ -137,5 +138,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</footer><a class="pagetop" href="#wrap"></a>
 	<div class="mask"></div>
 </div>
+	<script type="text/javascript">
+		$(function() {
+			$(".formsection .submitbtn").css("display","block");
+		});
+	</script>
 </body>
 </html>

@@ -9,12 +9,12 @@
 	// 文字種変換
 	$mail1 		= (isset($_POST['mail1'])) ? mb_convert_kana($_POST['mail1'], "as") : "";
 	//$mail2 		= (isset($_POST['mail2'])) ? mb_convert_kana($_POST['mail2'], "as") : "";
-	//$tel 		= (isset($_POST['tel'])) ? mb_convert_kana($_POST['tel'], "as") : "";
+	$tel 		= (isset($_POST['tel'])) ? mb_convert_kana($_POST['tel'], "as") : "";
 
 	// 末尾空白削除
 	$mail1	=rtrim($mail1);
 	//$mail2	=rtrim($mail2);
-	//$tel	=rtrim($tel);
+	$tel	=rtrim($tel);
 
 	// セッションに入力値を代入
 	//$_SESSION['TYPE'] = 		htmlspecialchars($_POST['type']);
@@ -23,7 +23,7 @@
 	//$_SESSION['FURIGANA1'] = 	htmlspecialchars($_POST['furigana1']);
 	//$_SESSION['FURIGANA2'] = 	htmlspecialchars($_POST['furigana2']);
 	$_SESSION['COMPANY'] = 		htmlspecialchars($_POST['company']);
-	//$_SESSION['TEL'] = 			htmlspecialchars($tel);
+	$_SESSION['TEL'] = 			htmlspecialchars($tel);
 	$_SESSION['MAIL1'] = 		htmlspecialchars($mail1);
 	//$_SESSION['MAIL2'] = 		htmlspecialchars($mail2);
 	$_SESSION['PARAM'] = 		htmlspecialchars($_POST['param']);
@@ -107,10 +107,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<dt class="any">会社名</dt>
 				<dd><?php print($_SESSION['COMPANY']) ?></dd>
 			</dl>
-			<!--<dl>
-				<dt class="req">ご連絡先電話番号</dt>
+			<dl>
+				<dt class="any">電話番号</dt>
 				<dd><?php print($_SESSION['TEL']) ?></dd>
-			</dl>-->
+			</dl>
 			<dl>
 				<dt class="req">メールアドレス</dt>
 				<dd><?php print($_SESSION['MAIL1']) ?></dd>
@@ -119,6 +119,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<dt class="any">お問い合わせの内容</dt>
 				<dd><?php print(nl2br($_SESSION['BODY'])) ?></dd>
 			</dl>-->
+									<noscript>フォームを送信するにはブラウザのJavascriptを有効にしてください</noscript>
 			<div class="submitbtn">
 				<div class="flexbtn">
 					<form method="post" action="index.php">
@@ -144,4 +145,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="mask"></div>
 </div>
 </body>
+	<script type="text/javascript">
+		$(function() {
+			$(".formsection .submitbtn").css("display","block");
+		});
+	</script>
 </html>

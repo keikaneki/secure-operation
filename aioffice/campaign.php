@@ -393,6 +393,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 							<dl>
 								<dt></dt>
 								<dd>
+									<noscript>フォームを送信するにはブラウザのJavascriptを有効にしてください</noscript>
 									<div class="submitbtn">
 										<input type="submit" value="確認する" v-if="btnview_b==='submit'">
 										<div class="graybtn btn" v-if="btnview_b===''"><span>確認する</span></div>
@@ -562,6 +563,11 @@ new Vue({
 		var value = query.replace('?', '').replace(/&/g, '\r\n');
 		$('#param_b').val(value);
 	});
+	</script>
+	<script type="text/javascript">
+		$(function() {
+			$(".formsection .submitbtn").css("display","block");
+		});
 	</script>
 	
 

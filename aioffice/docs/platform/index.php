@@ -208,6 +208,7 @@ for ($i=0; $i<sizeof($type_array); $i++) {
 			<dl>
 				<dt></dt>
 				<dd>
+									<noscript>フォームを送信するにはブラウザのJavascriptを有効にしてください</noscript>
 					<div class="submitbtn">
 						<input type="submit" value="送信する" v-if="btnview==='submit'">
 						<div class="graybtn btn" v-if="btnview===''"><span>確認する</span></div>
@@ -397,5 +398,10 @@ for ($i=0; $i<sizeof($type_array); $i++) {
 	})
 </script>
 
+	<script type="text/javascript">
+		$(function() {
+			$(".formsection .submitbtn").css("display","block");
+		});
+	</script>
 </body>
 </html>

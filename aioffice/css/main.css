@@ -3354,8 +3354,15 @@ footer a:hover {
 
 .formsection .submitbtn {
   margin: 20px 0 40px;
+  display: none;
 }
-
+.formsection noscript{
+  color: #ff0000;
+  font-weight: bold;
+  font-size: 2rem;
+  margin-bottom: 40px;
+  display: block;
+}
 .formsection .submitbtn .flexbtn {
   display: flex;
   align-items: center;

@@ -119,7 +119,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					"【 お名前 】 ". 					mb_convert_kana($_SESSION['NAME1']." ".$_SESSION['NAME2'],"aK") . "\n".
 					//"【 ふりがな 】 ". 					mb_convert_kana($_SESSION['FURIGANA1']." ".$_SESSION['FURIGANA2'],"aK") . "\n".
 					"【 会社名 】 ". 					mb_convert_kana($_SESSION['COMPANY'],"aK") . "\n".
-					//"【 ご連絡先電話番号 】 ". 			mb_convert_kana($_SESSION['TEL'],"aK") . "\n".
+					"【 電話番号 】 ". 			mb_convert_kana($_SESSION['TEL'],"aK") . "\n".
 					"【 メールアドレス 】 ". 				mb_convert_kana($_SESSION['MAIL1'],"aK") . "\n"
 					/*"\n【 お問い合わせ内容 】 \n". 		mb_convert_kana($_SESSION['BODY'],"aK") . "\n"*/
 					,"UTF-8","auto");
@@ -153,7 +153,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						"【 お名前 】 ". 					mb_convert_kana($_SESSION['NAME1']." ".$_SESSION['NAME2'],"aK") . "\n".
 						//"【 ふりがな 】 ". 					mb_convert_kana($_SESSION['FURIGANA1']." ".$_SESSION['FURIGANA2'],"aK") . "\n".
 						"【 会社名 】 ". 					mb_convert_kana($_SESSION['COMPANY'],"aK") . "\n".
-						//"【 ご連絡先電話番号 】 ". 			mb_convert_kana($_SESSION['TEL'],"aK") . "\n".
+						"【 電話番号 】 ". 			mb_convert_kana($_SESSION['TEL'],"aK") . "\n".
 						"【 メールアドレス 】 ". 				mb_convert_kana($_SESSION['MAIL1'],"aK") . "\n".
 						"\n -------------------------------------------------------------- \n 株式会社セキュア \n https://secureinc.co.jp/ \n 〒163-0220 \n 東京都新宿区西新宿2-6-1新宿住友ビル20階 \n 電話番号：03-6911-0660 \n FAX番号：03-6911-0664". 	 "\n"
 						,"UTF-8","auto");

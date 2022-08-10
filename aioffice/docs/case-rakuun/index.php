@@ -13,8 +13,12 @@
 	//$type 		=(isset($_SESSION['TYPE'])) 		? $_SESSION['TYPE'] 		: "";
 	$name1 		=(isset($_SESSION['NAME1'])) 		? $_SESSION['NAME1']		: "";
 	$name2 		=(isset($_SESSION['NAME2'])) 		? $_SESSION['NAME2']		: "";
+	$furigana1 	=(isset($_SESSION['FURIGANA1'])) 	? $_SESSION['FURIGANA1']	: "";
+	$furigana2 	=(isset($_SESSION['FURIGANA2'])) 	? $_SESSION['FURIGANA2']	: "";
 	$company 	=(isset($_SESSION['COMPANY'])) 		? $_SESSION['COMPANY']		: "";
+	$tel 		=(isset($_SESSION['TEL'])) 			? $_SESSION['TEL']			: "";
 	$mail1 		=(isset($_SESSION['MAIL1'])) 		? $_SESSION['MAIL1']		: "";
+	$mail2 		=(isset($_SESSION['MAIL2'])) 		? $_SESSION['MAIL2']		: "";
 	$param 		=(isset($_SESSION['PARAM'])) 		? $_SESSION['PARAM']		: "";
 	//$body 		=(isset($_SESSION['BODY'])) 		? $_SESSION['BODY']			: "";
 
@@ -88,8 +92,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</div>
 	<section class="formsection">
 		<p class="lead">以下のフォームに必要項目を入力の上、送信していただきますと、<br>資料閲覧URLをお送りいたします。</p>
-		<form id="formarea" action="https://contents.bownow.jp/forms/handler/sid_11874f0e9b6f3ccc2925" method="POST" accept-charset="UTF-8" >
-
+		<form id="formarea" method="post" action="confirm.php">
 			<!--<dl>
 				<dt class="req">お問い合わせ種別</dt>
 				<dd>
@@ -125,7 +128,19 @@ for ($i=0; $i<sizeof($type_array); $i++) {
 				</dd>
 			</dl>
 
-			
+			<dl>
+				<dt class="any">ふりがな</dt>
+				<dd>
+					<div class="err err3_1" v-if="furiganaerr">
+						<div class="errbox">{{furiganaerr}}</div>
+					</div>
+					<div class="ip2">
+						<input type="text" name="furigana1" placeholder="せきや" v-model.trim="furigana1" :value="furigana1" @blur="furiganacng">
+						<input type="text" name="furigana2" placeholder="たろう" v-model.trim="furigana2" :value="furigana2" @blur="furiganacng">
+					</div>
+					<p class="annotation">※全角ひらがなでご入力ください</p>
+				</dd>
+			</dl>
 
 			<dl>
 				<dt class="any">会社名</dt>
@@ -134,7 +149,13 @@ for ($i=0; $i<sizeof($type_array); $i++) {
 				</dd>
 			</dl>
 
-			
+			<dl>
+				<dt class="any">電話番号</dt>
+				<dd>
+					<input type="text" name="tel" placeholder="03-6911-0660" v-model.trim="tel" :value="tel">
+					<p class="annotation">※ハイフンありなしどちらでも可</p>
+				</dd>
+			</dl>
 
 			<dl>
 				<dt class="req">メールアドレス</dt>
@@ -149,7 +170,15 @@ for ($i=0; $i<sizeof($type_array); $i++) {
 				</dd>
 			</dl>
 
-			
+			<dl>
+				<dt>メールアドレス（確認用）</dt>
+				<dd>
+					<div class="err err6_1" v-if="mail2err">
+						<div class="errbox">{{mail2err}}</div>
+					</div>
+					<input type="text" name="mail2" placeholder="info@secureinc.co.jp" v-model.trim="mail2" :value="mail2" @blur="mail2cng">
+				</dd>
+			</dl>
 
 			<!--<dl>
 				<dt class="any">お問い合わせの内容</dt>
@@ -174,9 +203,10 @@ for ($i=0; $i<sizeof($type_array); $i++) {
 			<dl>
 				<dt></dt>
 				<dd>
+									<noscript>フォームを送信するにはブラウザのJavascriptを有効にしてください</noscript>
 					<div class="submitbtn">
 						<input type="submit" value="送信する" v-if="btnview==='submit'">
-						<div class="graybtn btn" v-if="btnview===''"><span>送信する</span></div>
+						<div class="graybtn btn" v-if="btnview===''"><span>確認する</span></div>
 						<input id="param" name="param" type="hidden">
 					</div>
 				</dd>
@@ -203,31 +233,31 @@ for ($i=0; $i<sizeof($type_array); $i++) {
 			/*type: 			'<?php print($type) ?>',*/
 			name1: 			'<?php print($name1) ?>',
 			name2: 			'<?php print($name2) ?>',
-			/*furigana1: 		'<?php print($furigana1) ?>',*/
-			/*furigana2: 		'<?php print($furigana2) ?>',*/
+			furigana1: 		'<?php print($furigana1) ?>',
+			furigana2: 		'<?php print($furigana2) ?>',
 			company: 		'<?php print($company) ?>',
-			/*tel: 			'<?php print($tel) ?>',*/
+			tel: 			'<?php print($tel) ?>',
 			mail1: 			'<?php print($mail1) ?>',
-			/*mail2: 			'<?php print($mail2) ?>',*/
+			mail2: 			'<?php print($mail2) ?>',
 			param: 			'<?php print($param) ?>',
 			/*body: 			`<?php print($body) ?>`,*/
 			agree: 			false,
 
 			/*typeerr: 		'',*/
 			nameerr: 		'',
-			/*furiganaerr: 	'',*/
-			/*telerr: 		'',*/
+			furiganaerr: 	'',
+			// telerr: 		'',
 			mail1err: 		'',
-			/*mail2err: 		'',*/
+			mail2err: 		'',
 			/*bodyerr: 		'',*/
 			agreeerr: 		'',
 
 			/*typeflg: 		<?php if($type!="") 						{ print('0'); } else { print('1'); } ?>,*/
 			nameflg: 		<?php if($name1!="" && $name2!="") 			{ print('0'); } else { print('1'); } ?>,
-			/*furiganaflg: 	0,*/
-			/*telflg: 		<?php if($tel!="") 							{ print('0'); } else { print('1'); } ?>,*/
+			furiganaflg: 	0,
+			// telflg: 		<?php if($tel!="") 							{ print('0'); } else { print('1'); } ?>,
 			mail1flg: 		<?php if($mail1!="") 						{ print('0'); } else { print('1'); } ?>,
-			/*mail2flg: 		<?php if($mail2!="") 						{ print('0'); } else { print('1'); } ?>,*/
+			mail2flg: 		<?php if($mail2!="") 						{ print('0'); } else { print('1'); } ?>,
 			/*bodyflg: 		0,*/
 			agreeflg: 		1,
 		},
@@ -256,7 +286,7 @@ for ($i=0; $i<sizeof($type_array); $i++) {
 					this.nameerr = "";
 				};
 			},
-			/*furiganacng: function () {
+			furiganacng: function () {
 				let furigana1data = this.furigana1;
 				let furigana2data = this.furigana2;
 				if(!furigana1data && !furigana2data){
@@ -273,19 +303,19 @@ for ($i=0; $i<sizeof($type_array); $i++) {
 					this.furiganaerr = "";
 				};
 			},
-			telcng: function () {
-				let teldata = this.tel;
-				if(!teldata){
-					this.telflg = 1;
-					this.telerr = "ご連絡先電話番号が入力されていません";
-				}else if(!teldata.match(/^[0-9-]+$/)){
-					this.telflg = 1;
-					this.telerr = "半角数字かハイフンでご入力ください";
-				}else{
-					this.telflg = 0;
-					this.telerr = "";
-				};
-			},*/
+			// telcng: function () {
+			// 	let teldata = this.tel;
+			// 	if(!teldata){
+			// 		this.telflg = 1;
+			// 		this.telerr = "ご連絡先電話番号が入力されていません";
+			// 	}else if(!teldata.match(/^[0-9-]+$/)){
+			// 		this.telflg = 1;
+			// 		this.telerr = "半角数字かハイフンでご入力ください";
+			// 	}else{
+			// 		this.telflg = 0;
+			// 		this.telerr = "";
+			// 	};
+			// },
 			mail1cng: function () {
 				let mail1data = this.mail1;
 				if(!mail1data){
@@ -302,7 +332,7 @@ for ($i=0; $i<sizeof($type_array); $i++) {
 					this.mail1err = "";
 				};
 			},
-			/*mail2cng: function () {
+			mail2cng: function () {
 				let mail1data = this.mail1;
 				let mail2data = this.mail2;
 				if(!mail2data){
@@ -321,7 +351,7 @@ for ($i=0; $i<sizeof($type_array); $i++) {
 					this.mail2flg = 0;
 					this.mail2err = "";
 				};
-			},*/
+			},
 			/*bodycng: function () {
 				let bodydata = this.body;
 				if(bodydata.length > 1000 && bodydata){
@@ -347,13 +377,13 @@ for ($i=0; $i<sizeof($type_array); $i++) {
 			btnview: function () {
 				//let typeflg = 		this.typeflg;
 				let nameflg = 		this.nameflg;
-				//let furiganaflg = 	this.furiganaflg;
-				//let telflg = 		this.telflg;
+				let furiganaflg = 	this.furiganaflg;
+				// let telflg = 		this.telflg;
 				let mail1flg = 		this.mail1flg;
-				//let mail2flg = 		this.mail2flg;
+				let mail2flg = 		this.mail2flg;
 				//let bodyflg = 		this.bodyflg;
 				let agreeflg = 		this.agreeflg;
-				if (/*typeflg==0 && */nameflg==0 && /*furiganaflg==0 && telflg==0 && */mail1flg==0 && /*mail2flg==0 && bodyflg==0 && */agreeflg==0) {
+				if (/*typeflg==0 && */nameflg==0 && furiganaflg==0 && /*telflg==0 &&*/ mail1flg==0 && mail2flg==0 && /*bodyflg==0 && */agreeflg==0) {
 					return "submit";
 				} else {
 					return "";
@@ -363,5 +393,10 @@ for ($i=0; $i<sizeof($type_array); $i++) {
 	})
 </script>
 
+	<script type="text/javascript">
+		$(function() {
+			$(".formsection .submitbtn").css("display","block");
+		});
+	</script>
 </body>
 </html>

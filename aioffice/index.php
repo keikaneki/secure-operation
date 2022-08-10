@@ -734,6 +734,7 @@ p.notice{
 							<dl>
 								<dt></dt>
 								<dd>
+									<noscript>フォームを送信するにはブラウザのJavascriptを有効にしてください</noscript>
 									<div class="submitbtn">
 										<input type="submit" value="送信する" v-if="btnview_b==='submit'">
 										<div class="graybtn btn" v-if="btnview_b===''"><span>確認する</span></div>
@@ -1295,6 +1296,11 @@ new Vue({
 			}else{
 				$("header .blink").attr("href","#form");
 			}
+		});
+	</script>
+	<script type="text/javascript">
+		$(function() {
+			$(".formsection .submitbtn").css("display","block");
 		});
 	</script>
 

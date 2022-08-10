@@ -16,7 +16,7 @@
 	//$furigana1 	=(isset($_SESSION['FURIGANA1'])) 	? $_SESSION['FURIGANA1']	: "";
 	//$furigana2 	=(isset($_SESSION['FURIGANA2'])) 	? $_SESSION['FURIGANA2']	: "";
 	$company 	=(isset($_SESSION['COMPANY'])) 		? $_SESSION['COMPANY']		: "";
-	//$tel 		=(isset($_SESSION['TEL'])) 			? $_SESSION['TEL']			: "";
+	$tel 		=(isset($_SESSION['TEL'])) 			? $_SESSION['TEL']			: "";
 	$mail1 		=(isset($_SESSION['MAIL1'])) 		? $_SESSION['MAIL1']		: "";
 	//$mail2 		=(isset($_SESSION['MAIL2'])) 		? $_SESSION['MAIL2']		: "";
 	$param 		=(isset($_SESSION['PARAM'])) 		? $_SESSION['PARAM']		: "";
@@ -93,8 +93,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</div>
 	<section class="formsection">
 		<p class="lead">以下のフォームに必要項目を入力の上、送信していただきますと、<br>資料閲覧URLをお送りいたします。</p>
-		<form id="formarea" action="https://contents.bownow.jp/forms/handler/sid_9d40f9bf802226eb700c" method="POST" accept-charset="UTF-8" >
-
+		<form id="formarea" method="post" action="confirm.php">
 			<!--<dl>
 				<dt class="req">お問い合わせ種別</dt>
 				<dd>
@@ -150,17 +149,13 @@ for ($i=0; $i<sizeof($type_array); $i++) {
 					<input type="text" name="company" placeholder="株式会社セキュア" v-model.trim="company" :value="company">
 				</dd>
 			</dl>
-
-			<!--<dl>
-				<dt class="req">ご連絡先電話番号</dt>
+<dl>
+				<dt class="any">電話番号</dt>
 				<dd>
-					<div class="err err4_1" v-if="telerr">
-						<div class="errbox">{{telerr}}</div>
-					</div>
-					<input type="text" name="tel" placeholder="03-6911-0660" v-model.trim="tel" :value="tel" @blur="telcng">
+					<input type="text" name="tel" placeholder="03-6911-0660" v-model.trim="tel" :value="tel">
 					<p class="annotation">※ハイフンありなしどちらでも可</p>
 				</dd>
-			</dl>-->
+			</dl>
 
 			<dl>
 				<dt class="req">メールアドレス</dt>
@@ -208,9 +203,10 @@ for ($i=0; $i<sizeof($type_array); $i++) {
 			<dl>
 				<dt></dt>
 				<dd>
+									<noscript>フォームを送信するにはブラウザのJavascriptを有効にしてください</noscript>
 					<div class="submitbtn">
 						<input type="submit" value="送信する" v-if="btnview==='submit'">
-						<div class="graybtn btn" v-if="btnview===''"><span>送信する</span></div>
+						<div class="graybtn btn" v-if="btnview===''"><span>確認する</span></div>
 						<input id="param" name="param" type="hidden">
 					</div>
 				</dd>
@@ -240,7 +236,7 @@ for ($i=0; $i<sizeof($type_array); $i++) {
 			/*furigana1: 		'<?php print($furigana1) ?>',*/
 			/*furigana2: 		'<?php print($furigana2) ?>',*/
 			company: 		'<?php print($company) ?>',
-			/*tel: 			'<?php print($tel) ?>',*/
+			tel: 			'<?php print($tel) ?>',
 			mail1: 			'<?php print($mail1) ?>',
 			/*mail2: 			'<?php print($mail2) ?>',*/
 			param: 			'<?php print($param) ?>',
@@ -397,5 +393,10 @@ for ($i=0; $i<sizeof($type_array); $i++) {
 	})
 </script>
 
+	<script type="text/javascript">
+		$(function() {
+			$(".formsection .submitbtn").css("display","block");
+		});
+	</script>
 </body>
 </html>

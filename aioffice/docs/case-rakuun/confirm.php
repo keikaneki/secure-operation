@@ -108,7 +108,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<dd><?php print($_SESSION['COMPANY']) ?></dd>
 			</dl>
 			<dl>
-				<dt class="req">ご連絡先電話番号</dt>
+				<dt class="any">電話番号</dt>
 				<dd><?php print($_SESSION['TEL']) ?></dd>
 			</dl>
 			<dl>
@@ -119,6 +119,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<dt class="any">お問い合わせの内容</dt>
 				<dd><?php print(nl2br($_SESSION['BODY'])) ?></dd>
 			</dl>-->
+									<noscript>フォームを送信するにはブラウザのJavascriptを有効にしてください</noscript>
 			<div class="submitbtn">
 				<div class="flexbtn">
 					<form method="post" action="index.php">
@@ -144,4 +145,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="mask"></div>
 </div>
 </body>
+	<script type="text/javascript">
+		$(function() {
+			$(".formsection .submitbtn").css("display","block");
+		});
+	</script>
 </html>

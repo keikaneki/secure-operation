@@ -90,7 +90,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<div>
 		  <h1> <span style="color:#000;">データセンター向け<br>トータル物理セキュリティソリューション</span></h1>
 		  <figure><img src="./doc_thumbnail_data-center.png" width="180">
-		  	<figcaption style="color:#000;">データセンターのセキュリティ強化と省人化を実現するには？<br>入退室管理から共連れ防止対策、センター内を視覚なく監視しさらにそれを遠隔で管理できる手法をご紹介。</figcaption></figure>
+		  	<figcaption style="color:#000;">データセンターのセキュリティ強化と省人化を実現するには？<br>入退室管理から共連れ防止対策、センター内を死角なく監視しさらにそれを遠隔で管理できる手法をご紹介。</figcaption></figure>
 		</div>
 	  </div>
 	</div>
@@ -207,6 +207,7 @@ for ($i=0; $i<sizeof($type_array); $i++) {
 			<dl>
 				<dt></dt>
 				<dd>
+									<noscript>フォームを送信するにはブラウザのJavascriptを有効にしてください</noscript>
 					<div class="submitbtn">
 						<input type="submit" value="送信する" v-if="btnview==='submit'">
 						<div class="graybtn btn" v-if="btnview===''"><span>確認する</span></div>
@@ -396,5 +397,10 @@ for ($i=0; $i<sizeof($type_array); $i++) {
 	})
 </script>
 
+	<script type="text/javascript">
+		$(function() {
+			$(".formsection .submitbtn").css("display","block");
+		});
+	</script>
 </body>
 </html>
