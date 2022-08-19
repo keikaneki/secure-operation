@@ -13,7 +13,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<meta charset="UTF-8">
 	<title>防犯カメラ・監視カメラ｜DC-S3283WHX｜顔認証セキュリティはセキュア|SECURE</title>
 	<meta name="description" content="監視カメラシステムや入退室システム等のセキュリティソリューションを提供する株式会社セキュアのブランド「SECURE」のデバイス「DC-S3283WHX」ページです。特長やスペックをご紹介します。">
-	<meta name="keywords" content="セキュア,SECURE,DC-S3283WHX,フルHD屋外対応PTZ ネットワークカメラ,監視カメラ,防犯カメラ,監視システム,SECURE eye">
+	<meta name="keywords" content="セキュア,SECURE,DC-S3283WHX,フルHD屋外対応PTZ ネットワークカメラ,監視カメラ,防犯カメラ,監視システム,SECURE VS">
 	<link rel="shortcut icon" href="/assets/img/fav.ico">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="format-detection" content="telephone=no">
@@ -161,12 +161,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 											</li>
 											<li>
 												<a href="/solution/eye.html">
-													SECURE eye（監視カメラシステム）
+													SECURE VS（監視カメラシステム）
 												</a>
 											</li>
 											<li>
 												<a href="/solution/analytics.html">
-													SECURE analytics（画像解析ソリューション）
+													SECURE Analytics（画像解析ソリューション）
 												</a>
 											</li>
 
@@ -323,8 +323,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<dd>
 								<ul>
 									<li><a href="/solution/pass.html"><span>SECURE AC（入退室管理）</span></a></li>
-									<li><a href="/solution/eye.html"><span>SECURE eye（監視カメラシステム）</span></a></li>
-									<li><a href="/solution/analytics.html"><span>SECURE analytics（画像解析ソリューション）</span></a></li>
+									<li><a href="/solution/eye.html"><span>SECURE VS（監視カメラシステム）</span></a></li>
+									<li><a href="/solution/analytics.html"><span>SECURE Analytics（画像解析ソリューション）</span></a></li>
 									<li><a href="/solution/face.html"><span>SECURE face（顔認証システム）</span></a></li>
 									<li><a href="/device/"><span>デバイス一覧</span></a></li>
 								</ul>

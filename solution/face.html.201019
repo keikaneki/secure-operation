@@ -9,15 +9,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-5873P36');</script>
 <!-- End Google Tag Manager -->
 	<meta charset="UTF-8">
-	<title>商品から探す｜SECURE eye（監視カメラシステム）｜顔認証セキュリティはセキュアのSECURE | SECURE</title>
-	<meta name="description" content="監視カメラシステムや入退室システム等のセキュリティソリューションを提供する株式会社セキュアのブランド「SECURE」サイトの商品、SECURE eye（監視カメラシステム）のページです。お客様のニーズに合わせた監視カメラシステムをご紹介します。">
-	<meta name="keywords" content="セキュア,SECURE,セキュリティ,物理セキュリティ,監視カメラ,防犯カメラ,セキュリティ対策,監視システム,SECURE eye">
+	<title>商品から探す｜SECURE VS（監視カメラシステム）｜顔認証セキュリティはセキュアのSECURE | SECURE</title>
+	<meta name="description" content="監視カメラシステムや入退室システム等のセキュリティソリューションを提供する株式会社セキュアのブランド「SECURE」サイトの商品、SECURE VS（監視カメラシステム）のページです。お客様のニーズに合わせた監視カメラシステムをご紹介します。">
+	<meta name="keywords" content="セキュア,SECURE,セキュリティ,物理セキュリティ,監視カメラ,防犯カメラ,セキュリティ対策,監視システム,SECURE VS">
 	<link rel="shortcut icon" href="/assets/img/fav.ico">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="format-detection" content="telephone=no">
-	<meta property="og:title" content="商品から探す｜SECURE eye（監視カメラシステム）｜顔認証セキュリティはセキュアのSECURE">
+	<meta property="og:title" content="商品から探す｜SECURE VS（監視カメラシステム）｜顔認証セキュリティはセキュアのSECURE">
 	<meta property="og:type" content="website">
-	<meta property="og:description" content="監視カメラシステムや入退室システム等のセキュリティソリューションを提供する株式会社セキュアのブランド「SECURE」サイトの商品、SECURE eye（監視カメラシステム）のページです。お客様のニーズに合わせた監視カメラシステムをご紹介します。">
+	<meta property="og:description" content="監視カメラシステムや入退室システム等のセキュリティソリューションを提供する株式会社セキュアのブランド「SECURE」サイトの商品、SECURE VS（監視カメラシステム）のページです。お客様のニーズに合わせた監視カメラシステムをご紹介します。">
 	<meta property="og:url" content="https://secureinc.co.jp/">
 	<meta property="og:image" content="/assets/img/share.png">
 	<meta property="og:site_name" content="入退室管理・防犯カメラなど、オフィスセキュリティのことならセキュア">
@@ -160,12 +160,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 											</li>
 											<li>
 												<a href="/solution/eye.html">
-													SECURE eye（監視カメラシステム）
+													SECURE VS（監視カメラシステム）
 												</a>
 											</li>
 											<li>
 												<a href="/solution/analytics.html">
-													SECURE analytics（画像解析ソリューション）
+													SECURE Analytics（画像解析ソリューション）
 												</a>
 											</li>
 
@@ -322,8 +322,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<dd>
 								<ul>
 									<li><a href="/solution/pass.html"><span>SECURE AC（入退室管理）</span></a></li>
-									<li><a href="/solution/eye.html"><span>SECURE eye（監視カメラシステム）</span></a></li>
-									<li><a href="/solution/analytics.html"><span>SECURE analytics（画像解析ソリューション）</span></a></li>
+									<li><a href="/solution/eye.html"><span>SECURE VS（監視カメラシステム）</span></a></li>
+									<li><a href="/solution/analytics.html"><span>SECURE Analytics（画像解析ソリューション）</span></a></li>
 									<li><a href="/solution/face.html"><span>SECURE face（顔認証システム）</span></a></li>
 									<li><a href="/device/"><span>デバイス一覧</span></a></li>
 								</ul>
@@ -783,7 +783,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<img src="/assets/img/thumb/eye.jpg" alt="" class="imgfix">
 							<p class="more"><span class="fs-renner">See More</span></p>
 						</figure>
-						<h3 class="card-cell card-separate ta-c">SECURE eye</h3>
+						<h3 class="card-cell card-separate ta-c">SECURE VS</h3>
 						<div class="card-txt card-cell">
 							<p>高品質な監視カメラ関連製品を万全のサポート体制でご提供</p>
 						</div>
@@ -797,7 +797,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<img src="/assets/img/thumb/analytics.jpg" alt="" class="imgfix">
 							<p class="more"><span class="fs-renner">See More</span></p>
 						</figure>
-						<h3 class="card-cell card-separate ta-c">SECURE analytics</h3>
+						<h3 class="card-cell card-separate ta-c">SECURE Analytics</h3>
 						<div class="card-txt card-cell">
 							<p>人数・行列の長さや密度・滞在時間・移動などに関する測定結果や分析結果をリアルタイムで把握</p>
 						</div>

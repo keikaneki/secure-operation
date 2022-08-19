@@ -12,7 +12,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<meta charset="UTF-8">
 	<title>商品から探す｜デバイス一覧｜顔認証セキュリティはセキュアのSECURE | SECURE</title>
 	<meta name="description" content="監視カメラシステムや入退室システム等のセキュリティソリューションを提供する株式会社セキュアのブランド「SECURE」のデバイスページです。入退室管理デバイス、監視カメラ、周辺機器や、関連ソフトウエアなどをご紹介します。">
-	<meta name="keywords" content="セキュア,SECURE,セキュリティ,デバイス,AI,顔認証,指紋認証,生体認証,カード認証,テンキー認証,画像解析,混雑見える化,入退室管理,入退出管理,監視カメラ,防犯カメラ,監視システム,周辺機器,SECURE AC,SECURE eye,SECURE analytics,SECURE face">
+	<meta name="keywords" content="セキュア,SECURE,セキュリティ,デバイス,AI,顔認証,指紋認証,生体認証,カード認証,テンキー認証,画像解析,混雑見える化,入退室管理,入退出管理,監視カメラ,防犯カメラ,監視システム,周辺機器,SECURE AC,SECURE VS,SECURE Analytics,SECURE face">
 	<link rel="shortcut icon" href="/assets/img/fav.ico">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="format-detection" content="telephone=no">
@@ -159,12 +159,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 											</li>
 											<li>
 												<a href="/solution/eye.html">
-													SECURE eye（監視カメラシステム）
+													SECURE VS（監視カメラシステム）
 												</a>
 											</li>
 											<li>
 												<a href="/solution/analytics.html">
-													SECURE analytics（画像解析ソリューション）
+													SECURE Analytics（画像解析ソリューション）
 												</a>
 											</li>
 
@@ -321,8 +321,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<dd>
 								<ul>
 									<li><a href="/solution/pass.html"><span>SECURE AC（入退室管理）</span></a></li>
-									<li><a href="/solution/eye.html"><span>SECURE eye（監視カメラシステム）</span></a></li>
-									<li><a href="/solution/analytics.html"><span>SECURE analytics（画像解析ソリューション）</span></a></li>
+									<li><a href="/solution/eye.html"><span>SECURE VS（監視カメラシステム）</span></a></li>
+									<li><a href="/solution/analytics.html"><span>SECURE Analytics（画像解析ソリューション）</span></a></li>
 									<li><a href="/solution/face.html"><span>SECURE face（顔認証システム）</span></a></li>
 									<li><a href="/device/"><span>デバイス一覧</span></a></li>
 								</ul>
@@ -398,17 +398,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div>
 				<a href="#sec01" class="btn xs gray anchor"><span>SECURE AC</span></a>
 				<a href="#sec02" class="btn xs gray anchor"><span>SECURE AC(周辺機器）</span></a>
-				<a href="#sec03" class="btn xs gray anchor"><span>SECURE eye(アナログ）</span></a>
+				<a href="#sec03" class="btn xs gray anchor"><span>SECURE VS(アナログ）</span></a>
 			</div>
 			<div>
-				<a href="#sec04" class="btn xs gray anchor"><span>SECURE eye(アナログレコーダー）</span></a>
-				<a href="#sec05" class="btn xs gray anchor"><span>SECURE eye(IPカメラ）</span></a>
-				<a href="#sec06" class="btn xs gray anchor"><span>SECURE eye(IPレコーダー）</span></a>
+				<a href="#sec04" class="btn xs gray anchor"><span>SECURE VS(アナログレコーダー）</span></a>
+				<a href="#sec05" class="btn xs gray anchor"><span>SECURE VS(IPカメラ）</span></a>
+				<a href="#sec06" class="btn xs gray anchor"><span>SECURE VS(IPレコーダー）</span></a>
 			</div>
 			<div>
-				<a href="#sec07" class="btn xs gray anchor"><span>SECURE eye(周辺機器）</span></a>
-				<a href="#sec08" class="btn xs gray anchor"><span>SECURE eye（クラウド）</span></a>
-				<a href="#sec09" class="btn xs gray anchor"><span>SECURE analytics（ソフト）</span></a>
+				<a href="#sec07" class="btn xs gray anchor"><span>SECURE VS(周辺機器）</span></a>
+				<a href="#sec08" class="btn xs gray anchor"><span>SECURE VS（クラウド）</span></a>
+				<a href="#sec09" class="btn xs gray anchor"><span>SECURE Analytics（ソフト）</span></a>
 			</div>
 			<div>
 				<a href="#sec10" class="btn xs gray anchor"><span>SECURE face（ソフト）</span></a>
@@ -470,7 +470,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<article id="sec03" class="block">
 			<div class="block">
-				<h2 class="fs-rennermedium fs-40 orangemarker"><em class="marker">SECURE eye(アナログ）</em></h2>
+				<h2 class="fs-rennermedium fs-40 orangemarker"><em class="marker">SECURE VS(アナログ）</em></h2>
 			</div>
 			<div class="l-cols2">
 				<div class="col card blackline btn-bottom-fix"><div class="l-spcols2"><div class="card-cell card-ttl"><p class="name-jp">アナログフルHDボックスカメラ</p><p class="name-en">TC-B1202<span class="label gray">販売終了品</span></p></div><div class="col card-cell"><img src="/assets/img/logo/idis.png" alt="IDIS" class="logo idis"><img src="/assets/img/device/item19.jpg" alt="" class="imgfix"></div></div><div class="col spec"><ul class="listdisc"><li>フルHD（1080p）解像度</li><li>C / CSマウントレンズ</li><li>デイ＆ナイト機能（ICR）</li><li>WDR（ワイドダイナミックレンジ：15fps）</li><li>モーション検出</li></ul></div><div class="card-btn"><a href="/device/eye/tc-b1202.html" class="btn small orange"><span class="more fs-rennermedium"><span>商品詳細を見る</span></span></a></div></div>
@@ -493,7 +493,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<article id="sec04" class="block">
 			<div class="block">
-				<h2 class="fs-rennermedium fs-40 orangemarker"><em class="marker">SECURE eye(アナログレコーダー）</em></h2>
+				<h2 class="fs-rennermedium fs-40 orangemarker"><em class="marker">SECURE VS(アナログレコーダー）</em></h2>
 			</div>
 			<div class="l-cols2">
 				<div class="col card blackline btn-bottom-fix"><div class="l-spcols2"><div class="card-cell card-ttl"><p class="name-jp">4ch アナログ フルHDレコーダー</p><p class="name-en">TR-2204</p></div><div class="col card-cell"><img src="/assets/img/logo/idis.png" alt="IDIS" class="logo idis"><img src="/assets/img/device/item34.jpg" alt="" class="imgfix"></div></div><div class="col spec"><ul class="listdisc"><li>HD-TVI,AHD,NTSC/PALカメラをサポート</li><li>最大120ipsのフルHD録画</li><li>HDMIおよびVGA出力のフルHDディスプレイ対応</li><li>FENサービスによるワンクリックのネットワーク設定をサポート</li><li>同軸ケーブルでHD-TVIカメラのOSD制御をサポート</li></ul></div><div class="card-btn"><a href="/device/eye/tr-2204.html" class="btn small orange"><span class="more fs-rennermedium"><span>商品詳細を見る</span></span></a></div></div>
@@ -520,7 +520,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<article id="sec05" class="block">
 			<div class="block">
-				<h2 class="fs-rennermedium fs-40 orangemarker"><em class="marker">SECURE eye(IPカメラ）</em></h2>
+				<h2 class="fs-rennermedium fs-40 orangemarker"><em class="marker">SECURE VS(IPカメラ）</em></h2>
 			</div>
 			<div class="l-cols2">
 				<div class="col card blackline btn-bottom-fix"><div class="l-spcols2"><div class="card-cell card-ttl"><p class="name-jp">3Mピクセルボックス型ネットワークカメラ</p><p class="name-en">DC-B3303X</p></div><div class="col card-cell"><img src="/assets/img/logo/idis.png" alt="IDIS" class="logo idis"><img src="/assets/img/device/item37.jpg" alt="" class="imgfix"></div></div><div class="col spec"><ul class="listdisc"><li>H.265、H.264、M-JPEGコーデックをサポート</li><li>30ips 2048×1536（最大）</li><li>4重ストリーミング</li><li>トゥルーワイドダイナミックレンジ</li>
@@ -547,7 +547,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<article id="sec06" class="block">
 			<div class="block">
-				<h2 class="fs-rennermedium fs-40 orangemarker"><em class="marker">SECURE eye(IPレコーダー）</em></h2>
+				<h2 class="fs-rennermedium fs-40 orangemarker"><em class="marker">SECURE VS(IPレコーダー）</em></h2>
 			</div>
 			<div class="l-cols2">
 				<div class="col card blackline btn-bottom-fix"><div class="l-spcols2"><div class="card-cell card-ttl"><p class="name-jp">DirectIP 1200シリーズ4チャンネルフルHDレコーダー</p><p class="name-en">DR-1204P<span class="label gray">販売終了品</span></p></div><div class="col card-cell"><img src="/assets/img/logo/idis.png" alt="IDIS" class="logo idis"><img src="/assets/img/device/item53.jpg" alt="" class="imgfix"></div></div><div class="col spec"><ul class="listdisc"><li>合計帯域幅84Mbps</li><li>最大120ipsのフルHDリアルタイム録画</li><li>最大120ipsのライブ表示</li><li>4チャンネルPoEスイッチ内蔵</li><li>最大6TBまで拡張可能</li></ul></div><div class="card-btn"><a href="/device/eye/dr-1204p.html" class="btn small orange"><span class="more fs-rennermedium"><span>商品詳細を見る</span></span></a></div></div>
@@ -562,7 +562,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<article id="sec07" class="block">
 			<div class="block">
-				<h2 class="fs-rennermedium fs-40 orangemarker"><em class="marker">SECURE eye(周辺機器）</em></h2>
+				<h2 class="fs-rennermedium fs-40 orangemarker"><em class="marker">SECURE VS(周辺機器）</em></h2>
 			</div>
 			<div class="l-cols2">
 				<div class="col card blackline btn-bottom-fix"><div class="l-spcols2"><div class="card-cell card-ttl"><p class="name-jp">ネットワークキーボード</p><p class="name-en">NK-1200</p></div><div class="col card-cell"><img src="/assets/img/logo/idis.png" alt="IDIS" class="logo idis"><img src="/assets/img/device/item60.jpg" alt="" class="imgfix"></div></div><div class="col spec"><ul class="listdisc"><li>ネットワーク接続を介したリモートコントロール</li><li>ネットワーク接続経由でNVRを制御</li><li>双方向オーディオ通信</li><li>ファームウェアの複製と自動回復機能</li><li>PoE（IEEE 802.3af クラス0）に対応</li></ul></div><div class="card-btn"><a href="/device/eye/option.html#nk-1200" class="btn small orange"><span class="more fs-rennermedium"><span>商品詳細を見る</span></span></a></div></div>
@@ -587,7 +587,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<article id="sec08" class="block">
 			<div class="block">
-				<h2 class="fs-rennermedium fs-40 orangemarker"><em class="marker">SECURE eye（クラウド）</em></h2>
+				<h2 class="fs-rennermedium fs-40 orangemarker"><em class="marker">SECURE VS（クラウド）</em></h2>
 			</div>
 			<div class="l-cols2">
 				<div class="col card blackline btn-bottom-fix"><div class="l-spcols2"><div class="card-cell card-ttl"><p class="name-jp">屋外用SECURE VSaaS専用クラウドカメラ（IP66対応）</p>
@@ -604,7 +604,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 		<article id="sec09" class="block">
 			<div class="block">
-				<h2 class="fs-rennermedium fs-40 orangemarker"><em class="marker">SECURE analytics（ソフト）</em></h2>
+				<h2 class="fs-rennermedium fs-40 orangemarker"><em class="marker">SECURE Analytics（ソフト）</em></h2>
 			</div>
 			<div class="l-cols2">
 				<div class="col card blackline btn-bottom-fix"><div class="l-spcols2"><div class="card-cell card-ttl"><p class="name-jp">混雑見える化ソリューション</p><p class="name-en">comieru</p></div><div class="col card-cell"><img src="/assets/img/logo/secure.png" alt="secure" class="logo secure"><img src="/assets/img/device/item81.jpg" alt="" class="imgfix"></div></div><div class="col spec"><ul class="listdisc"><li>3Dセンサー</li><li>API連携</li><li>過去データ管理</li><li>混雑状況の5段階表示</li><li>管理画面から簡単管理</li></ul></div><div class="card-btn"><a href="/solution/analytics/comieru.html" class="btn small orange"><span class="more fs-rennermedium"><span>商品詳細を見る</span></span></a></div></div>

@@ -160,12 +160,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 											</li>
 											<li>
 												<a href="/solution/eye.html">
-													SECURE eye（監視カメラシステム）
+													SECURE VS（監視カメラシステム）
 												</a>
 											</li>
 											<li>
 												<a href="/solution/analytics.html">
-													SECURE analytics（画像解析ソリューション）
+													SECURE Analytics（画像解析ソリューション）
 												</a>
 											</li>
 
@@ -322,8 +322,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<dd>
 								<ul>
 									<li><a href="/solution/pass.html"><span>SECURE AC（入退室管理）</span></a></li>
-									<li><a href="/solution/eye.html"><span>SECURE eye（監視カメラシステム）</span></a></li>
-									<li><a href="/solution/analytics.html"><span>SECURE analytics（画像解析ソリューション）</span></a></li>
+									<li><a href="/solution/eye.html"><span>SECURE VS（監視カメラシステム）</span></a></li>
+									<li><a href="/solution/analytics.html"><span>SECURE Analytics（画像解析ソリューション）</span></a></li>
 									<li><a href="/solution/face.html"><span>SECURE face（顔認証システム）</span></a></li>
 									<li><a href="/device/"><span>デバイス一覧</span></a></li>
 								</ul>
@@ -728,7 +728,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<img src="/assets/img/thumb/eye.jpg" alt="" class="imgfix">
 							<p class="more"><span class="fs-renner">See More</span></p>
 						</figure>
-						<h3 class="card-cell card-separate ta-c">SECURE eye</h3>
+						<h3 class="card-cell card-separate ta-c">SECURE VS</h3>
 						<div class="card-txt card-cell">
 							<p>高品質な監視カメラ関連製品を万全のサポート体制でご提供</p>
 						</div>
@@ -742,7 +742,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							<img src="/assets/img/thumb/analytics.jpg" alt="" class="imgfix">
 							<p class="more"><span class="fs-renner">See More</span></p>
 						</figure>
-						<h3 class="card-cell card-separate ta-c">SECURE analytics</h3>
+						<h3 class="card-cell card-separate ta-c">SECURE Analytics</h3>
 						<div class="card-txt card-cell">
 							<p>人数・行列の長さや密度・滞在時間・移動などに関する測定結果や分析結果をリアルタイムで把握</p>
 						</div>
