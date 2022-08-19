@@ -18,6 +18,7 @@
 	$_SESSION['NAME2_B'] = 		htmlspecialchars($_POST['name2_b']);
 	$_SESSION['COMPANY_B'] = 		htmlspecialchars($_POST['company_b']);
 	$_SESSION['MAIL1_B'] = 		htmlspecialchars($mail1_b);
+	$_SESSION['TEL_B'] = 		htmlspecialchars($_POST['tel_b']);
 	$_SESSION['DEMO_B'] = 		isset($_POST['demo_b']) ? implode(" / ", $_POST["demo_b"]) : '';
 	$_SESSION['PARAM_B'] = 		htmlspecialchars($_POST['param_b']);
 	$_SESSION['BODY_B'] = 		htmlspecialchars($_POST['body_b']);
@@ -103,6 +104,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<dd><?php print($_SESSION['MAIL1_B']) ?></dd>
 			</dl>
 			<dl>
+				<dt class="any">電話番号</dt>
+				<dd><?php print($_SESSION['TEL_B']) ?></dd>
+			</dl>
+			<dl>
 				<dt class="any">デモ希望</dt>
 				<dd><?php print($_SESSION['DEMO_B']) ?></dd>
 			</dl>
@@ -114,8 +119,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<dt class="any">お問い合わせの内容</dt>
 				<dd><?php print(nl2br($_SESSION['BODY_B'])) ?></dd>
 			</dl>
-									<noscript>フォームを送信するにはブラウザのJavascriptを有効にしてください</noscript>
-			<div class="submitbtn">
+			<div class="submitbtn" style="display:block !important;">
 				<div class="flexbtn">
 					<form method="post" action="index.php#form_b">
 						<input type="submit" value="修正する" class="white">
@@ -139,10 +143,5 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</footer><a class="pagetop" href="#wrap"></a>
 	<div class="mask"></div>
 </div>
-	<script type="text/javascript">
-		$(function() {
-			$(".formsection .submitbtn").css("display","block");
-		});
-	</script>
 </body>
 </html>

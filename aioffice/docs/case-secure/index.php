@@ -54,6 +54,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<link rel="shortcut icon" href="./images/favicon.ico">
 	<link rel="apple-touch-icon" href="./images/apple-touch-icon.png" sizes="180x180">
 	<link rel="stylesheet" type="text/css" href="../../css/main.css">
+	<noscript>
+		<link rel="stylesheet" type="text/css" href="../../css/noscript.css">
+	</noscript>
 	<script src="../../js/jquery1.8.3.js"></script>
 	<script src="../../js/common.min.js"></script>
 	<script src="../../js/bundle.js"></script>
@@ -121,8 +124,8 @@ for ($i=0; $i<sizeof($type_array); $i++) {
 						<div class="errbox">{{nameerr}}</div>
 					</div>
 					<div class="ip2">
-						<input type="text" name="name1" placeholder="関谷" v-model.trim="name1" :value="name1" @blur="namecng">
-						<input type="text" name="name2" placeholder="太郎" v-model.trim="name2" :value="name2" @blur="namecng">
+						<input type="text" name="name1" placeholder="関谷" v-model.trim="name1" :value="name1" @blur="namecng" required>
+						<input type="text" name="name2" placeholder="太郎" v-model.trim="name2" :value="name2" @blur="namecng" required>
 					</div>
 					<p class="annotation">※全角でご入力ください</p>
 				</dd>
@@ -164,7 +167,7 @@ for ($i=0; $i<sizeof($type_array); $i++) {
 					<div class="err err5_1" v-if="mail1err">
 						<div class="errbox">{{mail1err}}</div>
 					</div>
-					<input type="text" name="mail1" placeholder="info@secureinc.co.jp" v-model.trim="mail1" :value="mail1" @blur="mail1cng">
+					<input type="email" name="mail1" placeholder="info@secureinc.co.jp" v-model.trim="mail1" :value="mail1" @blur="mail1cng" required>
 					<p class="annotation">※半角英数字でご入力ください<br>
 					※入力いただいたアドレスに、送信いただいた内容の控えをお送りします<br>
 					※メールアドレスに誤りがある場合、ご回答いたしかねますのでご注意ください</p>
@@ -197,15 +200,14 @@ for ($i=0; $i<sizeof($type_array); $i++) {
 					<div class="err err8_1" v-if="agreeerr">
 						<div class="errbox">{{agreeerr}}</div>
 					</div>
-					<input type="checkbox" name="agree" id="ckbox" v-model="agree" :value="agree" @change="agreecng"><label for="ckbox">同意する</label>
+					<input type="checkbox" name="agree" id="ckbox" v-model="agree" :value="agree" @change="agreecng" required><label for="ckbox">同意する</label>
 					<p class="annotation">※個人情報の取り扱いについては<a href="https://secureinc.co.jp/privacy/" target="_blank" class="blackunderline">「個人情報の取り扱いページ」</a>をご確認ください。</p>
 				</dd>
 			</dl>
 			<dl>
 				<dt></dt>
 				<dd>
-									<noscript>フォームを送信するにはブラウザのJavascriptを有効にしてください</noscript>
-					<div class="submitbtn">
+					<div class="submitbtn" style="display:block !important;">
 						<input type="submit" value="確認する" v-if="btnview==='submit'">
 						<div class="graybtn btn" v-if="btnview===''"><span>確認する</span></div>
 						<input id="param" name="param" type="hidden">
@@ -394,10 +396,5 @@ for ($i=0; $i<sizeof($type_array); $i++) {
 	})
 </script>
 
-	<script type="text/javascript">
-		$(function() {
-			$(".formsection .submitbtn").css("display","block");
-		});
-	</script>
 </body>
 </html>

@@ -67,12 +67,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		@media screen and (max-width: 960px){
 			header h2 a img{margin-top:-35px;}
 		}		
-		input[type="submit"]+.graybtn{
-			display: none;
-		}
-		.errbox{
-			display: none;
-		}
 	</style>
 </head>
 
@@ -176,7 +170,7 @@ for ($i=0; $i<sizeof($type_array); $i++) {
 					<div class="err err5_1" v-if="mail1err">
 						<div class="errbox">{{mail1err}}</div>
 					</div>
-					<input type="text" name="mail1" placeholder="info@secureinc.co.jp" v-model.trim="mail1" :value="mail1" @blur="mail1cng" required>
+					<input type="email" name="mail1" placeholder="info@secureinc.co.jp" v-model.trim="mail1" :value="mail1" @blur="mail1cng" required>
 					<p class="annotation">※半角英数字でご入力ください<br>
 					※入力いただいたアドレスに、送信いただいた内容の控えをお送りします<br>
 					※メールアドレスに誤りがある場合、ご回答いたしかねますのでご注意ください</p>
@@ -404,12 +398,5 @@ for ($i=0; $i<sizeof($type_array); $i++) {
 		}
 	})
 </script>
-
-	<script type="text/javascript">
-		$(function() {
-			$(".formsection .submitbtn").css("display","block");
-			$(".errbox").css("display","block");
-		});
-	</script>
 </body>
 </html>

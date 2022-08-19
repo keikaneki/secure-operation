@@ -3311,6 +3311,7 @@ footer a:hover {
 }
 
 .formsection input[type=text],
+.formsection input[type=email],
 .formsection select,
 .formsection textarea {
   width: 100%;
@@ -3329,6 +3330,7 @@ footer a:hover {
 }
 
 #thanks .formsection input[type=text],
+#thanks .formsection input[type=email],
 #thanks .formsection select,
 #thanks .formsection textarea {
   background: #f9f9f9;

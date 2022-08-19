@@ -53,6 +53,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<link rel="shortcut icon" href="./images/favicon.ico">
 	<link rel="apple-touch-icon" href="./images/apple-touch-icon.png" sizes="180x180">
 	<link rel="stylesheet" type="text/css" href="./css/main.css?202206">
+	<noscript>
+		<link rel="stylesheet" type="text/css" href="./css/noscript.css">
+	</noscript>
 	<script src="./js/jquery1.8.3.js"></script>
 
 	<script src="./js/common.min.js"></script>
@@ -347,7 +350,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 									<div class="err err10_1" v-if="comperr_b">
 										<div class="errbox">{{comperr_b}}</div>
 									</div>
-									<input type="text" name="company_b" placeholder="株式会社セキュア" v-model.trim="company_b" :value="company_b" @blur="compcng_b">
+									<input type="text" name="company_b" placeholder="株式会社セキュア" v-model.trim="company_b" :value="company_b" @blur="compcng_b" required>
 								</dd>
 							</dl>
 							<dl>
@@ -357,8 +360,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 										<div class="errbox">{{nameerr_b}}</div>
 									</div>
 									<div class="ip2">
-										<input type="text" name="name1_b" placeholder="関谷" v-model.trim="name1_b" :value="name1_b" @blur="namecng_b">
-										<input type="text" name="name2_b" placeholder="太郎" v-model.trim="name2_b" :value="name2_b" @blur="namecng_b">
+										<input type="text" name="name1_b" placeholder="関谷" v-model.trim="name1_b" :value="name1_b" @blur="namecng_b" required>
+										<input type="text" name="name2_b" placeholder="太郎" v-model.trim="name2_b" :value="name2_b" @blur="namecng_b" required>
 									</div>
 									<p class="annotation">※全角でご入力ください</p>
 								</dd>
@@ -370,7 +373,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 									<div class="err err5_1" v-if="mail1err_b">
 										<div class="errbox">{{mail1err_b}}</div>
 									</div>
-									<input type="text" name="mail1_b" placeholder="info@secureinc.co.jp" v-model.trim="mail1_b" :value="mail1_b" @blur="mail1cng_b">
+									<input type="email" name="mail1_b" placeholder="info@secureinc.co.jp" v-model.trim="mail1_b" :value="mail1_b" @blur="mail1cng_b" required>
 									<p class="annotation">※半角英数字でご入力ください</p>
 								</dd>
 							</dl>
@@ -429,15 +432,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 									<div class="err err8_1" v-if="agreeerr_b">
 										<div class="errbox">{{agreeerr_b}}</div>
 									</div>
-									<input type="checkbox" name="agree_b" id="ckbox_b" v-model="agree_b" :value="agree_b" @change="agreecng_b"><label for="ckbox_b">同意する</label>
+									<input type="checkbox" name="agree_b" id="ckbox_b" v-model="agree_b" :value="agree_b" @change="agreecng_b" required><label for="ckbox_b">同意する</label>
 									<p class="annotation">※個人情報の取り扱いについては<a href="https://secureinc.co.jp/privacy/" target="_blank" class="blackunderline">「個人情報の取り扱いページ」</a>をご確認ください。</p>
 								</dd>
 							</dl>
 							<dl>
 								<dt></dt>
 								<dd>
-									<noscript>フォームを送信するにはブラウザのJavascriptを有効にしてください</noscript>
-									<div class="submitbtn">
+									<div class="submitbtn" style="display:block !important;">
 										<input type="submit" value="確認する" v-if="btnview_b==='submit'">
 										<div class="graybtn btn" v-if="btnview_b===''"><span>確認する</span></div>
 										<input id="param_b" name="param_b" type="hidden">
@@ -608,11 +610,4 @@ new Vue({
 		$('#param_b').val(value);
 	});
 	</script>
-	<script type="text/javascript">
-		$(function() {
-			$(".formsection .submitbtn").css("display","block");
-		});
-	</script>
-	
-
 </html>

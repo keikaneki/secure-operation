@@ -149,9 +149,4 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div class="mask"></div>
 </div>
 </body>
-	<script type="text/javascript">
-		$(function() {
-			$(".formsection .submitbtn").css("display","block");
-		});
-	</script>
 </html>

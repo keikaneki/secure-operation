@@ -98,7 +98,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				$thxmes = "ダウンロードのお申込みありがとうございました";
 				break;
 		}*/
-				$subj = "イベント会場向け本人確認ソリューションのご紹介ダウンロード通知";
+				$subj = "【株式会社セキュア】 イベント会場向け本人確認ソリューションのご紹介ダウンロード通知";
 				$thxmes = "資料ダウンロードのお申込みありがとうございました。\nこちらより閲覧いただけます。\nhttps://secureinc.co.jp/aioffice/docs/event_flyer/event_solution_flyer.pdf\n";
 
 		$mail->FromName		= mb_encode_mimeheader($fromUserName,"ISO-2022-JP","UTF-8"); // "表示名" <メールアドレス>

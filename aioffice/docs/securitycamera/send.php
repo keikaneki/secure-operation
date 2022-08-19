@@ -98,7 +98,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				$thxmes = "ダウンロードのお申込みありがとうございました";
 				break;
 		}*/
-				$subj = "【防犯カメラ&入退室管理】施設別導入・活用ガイドダウンロード通知";
+				$subj = "【株式会社セキュア】 防犯カメラ&入退室管理施設別導入・活用ガイドダウンロード通知";
 				$thxmes = "資料ダウンロードのお申込みありがとうございました。\nこちらより閲覧いただけます。\nhttps://secureinc.co.jp/aioffice/docs/securitycamera/facility-specific-guide.pdf\n";
 
 		$mail->FromName		= mb_encode_mimeheader($fromUserName,"ISO-2022-JP","UTF-8"); // "表示名" <メールアドレス>

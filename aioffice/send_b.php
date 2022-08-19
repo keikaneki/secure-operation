@@ -120,6 +120,7 @@ if($num == ""){
 					"【 会社名 】 ". 					mb_convert_kana($_SESSION['COMPANY_B'],"aK") . "\n".
 					"【 お名前 】 ". 					mb_convert_kana($_SESSION['NAME1_B']." ".$_SESSION['NAME2_B'],"aK") . "\n".
 					"【 メールアドレス 】 ". 				mb_convert_kana($_SESSION['MAIL1_B'],"aK") . "\n".
+					"【 電話番号 】 ". 				mb_convert_kana($_SESSION['TEL_B'],"aK") . "\n".
 					"【 デモ希望 】 ". 				mb_convert_kana($_SESSION['DEMO_B'],"aK") . "\n".
 					"【 導入予定時期 】 ". 				$typePrint . "\n".
 					"【 お問い合わせ内容 】 \n". 		mb_convert_kana($_SESSION['BODY_B'],"aK") . "\n\n".
@@ -165,6 +166,7 @@ if($num == ""){
 						"【 会社名 】 ". 					mb_convert_kana($_SESSION['COMPANY_B'],"aK") . "\n".
 						"【 お名前 】 ". 					mb_convert_kana($_SESSION['NAME1_B']." ".$_SESSION['NAME2_B'],"aK") . "\n".
 						"【 メールアドレス 】 ". 				mb_convert_kana($_SESSION['MAIL1_B'],"aK") . "\n".
+						"【 電話番号 】 ". 				mb_convert_kana($_SESSION['TEL_B'],"aK") . "\n".
 						"【 デモ希望 】 ". 				mb_convert_kana($_SESSION['DEMO_B'],"aK") . "\n".
 						"【 導入予定時期 】 ". 				$typePrint . "\n".
 						"【 お問い合わせ内容 】 \n". 		mb_convert_kana($_SESSION['BODY_B'],"aK") . "\n\n".

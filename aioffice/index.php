@@ -39,6 +39,7 @@
 	$name2_b    =(isset($_SESSION['NAME2_B']))    ? $_SESSION['NAME2_B']    : "";
 	$company_b  =(isset($_SESSION['COMPANY_B']))    ? $_SESSION['COMPANY_B']    : "";
 	$mail1_b    =(isset($_SESSION['MAIL1_B']))    ? $_SESSION['MAIL1_B']    : "";
+	$tel_b    =(isset($_SESSION['TEL_B']))    ? $_SESSION['TEL_B']    : "";
 	$demo_b    =(isset($_SESSION['DEMO_B']))    ? $_SESSION['DEMO_B']    : "";
 	$param_b 		=(isset($_SESSION['PARAM_B'])) 		? $_SESSION['PARAM_B']		: "";
 	$body_b     =(isset($_SESSION['BODY_B']))     ? $_SESSION['BODY_B']     : "";
@@ -78,6 +79,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<link rel="shortcut icon" href="./images/favicon.ico">
 	<link rel="apple-touch-icon" href="./images/apple-touch-icon.png" sizes="180x180">
 	<link rel="stylesheet" type="text/css" href="./css/main.css?202112">
+	<noscript>
+		<link rel="stylesheet" type="text/css" href="./css/noscript.css">
+	</noscript>
 	<script src="./js/jquery1.8.3.js"></script>
 
 	<script src="./js/common.min.js"></script>
@@ -653,7 +657,7 @@ p.notice{
 									<div class="err err10_1" v-if="comperr_b">
 										<div class="errbox">{{comperr_b}}</div>
 									</div>
-									<input type="text" name="company_b" placeholder="株式会社セキュア" v-model.trim="company_b" :value="company_b" @blur="compcng_b">
+									<input type="text" name="company_b" placeholder="株式会社セキュア" v-model.trim="company_b" :value="company_b" @blur="compcng_b" required>
 								</dd>
 							</dl>
 							<dl>
@@ -663,8 +667,8 @@ p.notice{
 										<div class="errbox">{{nameerr_b}}</div>
 									</div>
 									<div class="ip2">
-										<input type="text" name="name1_b" placeholder="関谷" v-model.trim="name1_b" :value="name1_b" @blur="namecng_b">
-										<input type="text" name="name2_b" placeholder="太郎" v-model.trim="name2_b" :value="name2_b" @blur="namecng_b">
+										<input type="text" name="name1_b" placeholder="関谷" v-model.trim="name1_b" :value="name1_b" @blur="namecng_b" required>
+										<input type="text" name="name2_b" placeholder="太郎" v-model.trim="name2_b" :value="name2_b" @blur="namecng_b" required>
 									</div>
 									<p class="annotation">※全角でご入力ください</p>
 								</dd>
@@ -676,7 +680,15 @@ p.notice{
 									<div class="err err5_1" v-if="mail1err_b">
 										<div class="errbox">{{mail1err_b}}</div>
 									</div>
-									<input type="text" name="mail1_b" placeholder="info@secureinc.co.jp" v-model.trim="mail1_b" :value="mail1_b" @blur="mail1cng_b">
+									<input type="email" name="mail1_b" placeholder="info@secureinc.co.jp" v-model.trim="mail1_b" :value="mail1_b" @blur="mail1cng_b" required>
+									<p class="annotation">※半角英数字でご入力ください</p>
+								</dd>
+							</dl>
+
+							<dl>
+								<dt class="any">電話番号</dt>
+								<dd>
+									<input type="text" name="tel_b" placeholder="03-1234-5678" v-model.trim="tel_b" :value="tel_b">
 									<p class="annotation">※半角英数字でご入力ください</p>
 								</dd>
 							</dl>
@@ -727,16 +739,15 @@ p.notice{
 									<div class="err err8_1" v-if="agreeerr_b">
 										<div class="errbox">{{agreeerr_b}}</div>
 									</div>
-									<input type="checkbox" name="agree_b" id="ckbox_b" v-model="agree_b" :value="agree_b" @change="agreecng_b"><label for="ckbox_b">同意する</label>
+									<input type="checkbox" name="agree_b" id="ckbox_b" v-model="agree_b" :value="agree_b" @change="agreecng_b" required><label for="ckbox_b">同意する</label>
 									<p class="annotation">※個人情報の取り扱いについては<a href="https://secureinc.co.jp/privacy/" target="_blank" class="blackunderline">「個人情報の取り扱いページ」</a>をご確認ください。</p>
 								</dd>
 							</dl>
 							<dl>
 								<dt></dt>
 								<dd>
-									<noscript>フォームを送信するにはブラウザのJavascriptを有効にしてください</noscript>
-									<div class="submitbtn">
-										<input type="submit" value="送信する" v-if="btnview_b==='submit'">
+									<div class="submitbtn" style="display:block !important;">
+										<input type="submit" value="確認する" v-if="btnview_b==='submit'">
 										<div class="graybtn btn" v-if="btnview_b===''"><span>確認する</span></div>
 										<input id="param_b" name="param_b" type="hidden">
 									</div>
@@ -747,117 +758,6 @@ p.notice{
 				</div>
 			</div>
 		</main>
-		<!-- <aside>
-			<div id="form">
-				<div class="scroll">
-					<div class="bg-white-top"></div>
-					<div class="inner">
-						<h2 id="anchor-7"><span>お問合せ・資料請求</span></h2>
-						<section class="formsection">
-							<form id="formarea" method="post" action="confirm.php">
-								
-								
-								<dl>
-									<dt class="req">会社名</dt>
-									<dd>
-										<div class="err err10_1" v-if="comperr">
-											<div class="errbox">{{comperr}}</div>
-										</div>
-										<input type="text" name="company" placeholder="株式会社セキュア" v-model.trim="company" :value="company" @blur="compcng">
-									</dd>
-								</dl>
-								<dl>
-									<dt class="req">お名前</dt>
-									<dd>
-										<div class="err err2_1" v-if="nameerr">
-											<div class="errbox">{{nameerr}}</div>
-										</div>
-										<div class="ip2">
-											<input type="text" name="name1" placeholder="関谷" v-model.trim="name1" :value="name1" @blur="namecng">
-											<input type="text" name="name2" placeholder="太郎" v-model.trim="name2" :value="name2" @blur="namecng">
-										</div>
-									</dd>
-								</dl>
-								
-								
-								<dl>
-									<dt class="req">メールアドレス</dt>
-									<dd>
-										<div class="err err5_1" v-if="mail1err">
-											<div class="errbox">{{mail1err}}</div>
-										</div>
-										<input type="text" name="mail1" placeholder="info@secureinc.co.jp" v-model.trim="mail1" :value="mail1" @blur="mail1cng">
-									</dd>
-								</dl>
-
-								<dl>
-									<dt class="any">デモ希望</dt>
-									<dd class="mt">
-										<div class="err err6_1" v-if="demoerr">
-											<div class="errbox">{{demoerr}}</div>
-										</div>
-										<input type="checkbox" name="demo[]" id="demockbox" v-model="demo" value="デモを希望する" @change="democng"><label for="demockbox">ショールーム見学もしくはデモ希望（日本全国対応）</label>
-									</dd>
-								</dl>
-
-								<dl>
-									<dt class="any">導入予定時期</dt>
-									<dd>
-										<div class="err err1_1" v-if="typeerr">
-											<div class="errbox">{{typeerr}}</div>
-										</div>
-										<div class="cp_ipselect">
-											<select name="type" v-model="type" @blur="typecng">
-												<option value="" hidden>選択してください</option>
-											<?php
-											for ($i=0; $i<sizeof($type_array); $i++) {
-											?>
-												<option value="type<?php print($i) ?>"><?php print($type_array[$i]) ?></option>
-											<?php
-											}
-											?>
-											</select>
-										</div>
-									</dd>
-								</dl>
-								<dl>
-									<dt class="any">お問い合わせの内容</dt>
-									<dd>
-										<div class="err err7_1" v-if="bodyerr">
-											<div class="errbox">{{bodyerr}}</div>
-										</div>
-										<textarea name="body" placeholder="記入例：会社のセキュリティを強化したいと考えています。事務所の扉に指紋か顔認証で出入りできるようにしたいのですが、予算感を教えてください。" v-model.trim="body" :value="body" @blur="bodycng"></textarea>
-									</dd>
-								</dl>
-								<dl>
-									<dt class="req">個人情報の取り扱いについて</dt>
-									<dd class="mt">
-										<div class="err err8_1" v-if="agreeerr">
-											<div class="errbox">{{agreeerr}}</div>
-										</div>
-										<input type="checkbox" name="agree" id="ckbox" v-model="agree" :value="agree" @change="agreecng"><label for="ckbox">同意する</label>
-										<p class="annotation">※個人情報の取り扱いについては<a href="https://secureinc.co.jp/privacy/" target="_blank" class="blackunderline">「個人情報の取り扱いページ」</a>をご確認ください。</p>
-									</dd>
-								</dl>
-								<dl>
-									<dt></dt>
-									<dd>
-										<div class="submitbtn">
-											<input type="submit" value="送信する" v-if="btnview==='submit'">
-											<div class="graybtn btn" v-if="btnview===''"><span>確認する</span></div>
-											<input id="param" name="param" type="hidden">
-										</div>
-									</dd>
-								</dl>
-							</form>
-						</section>
-								
-								
-								
-								
-					</div>
-				</div></div>
-		</aside> -->
 
 		<!-- free download -->
 		<div id="bottom_btn">
@@ -1071,6 +971,7 @@ new Vue({
 		name2_b:      '<?php print($name2_b) ?>',
 		company_b:    '<?php print($company_b) ?>',
 		mail1_b:      '<?php print($mail1_b) ?>',
+		tel_b:      '<?php print($tel_b) ?>',
 		param_b: 			'<?php print($param_b) ?>',
 		demo_b:      [],
 		body_b:       `<?php print($body_b) ?>`,
@@ -1296,11 +1197,6 @@ new Vue({
 			}else{
 				$("header .blink").attr("href","#form");
 			}
-		});
-	</script>
-	<script type="text/javascript">
-		$(function() {
-			$(".formsection .submitbtn").css("display","block");
 		});
 	</script>
 

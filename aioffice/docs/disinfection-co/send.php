@@ -95,7 +95,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				$thxmes = "ダウンロードのお申込みありがとうございました";
 				break;
 		}*/
-				$subj = "【AI Office Base】 消毒会社一覧資料ダウンロード通知";
+				$subj = "【株式会社セキュア】 消毒会社一覧資料ダウンロード通知";
 				$thxmes = "資料ダウンロードのお申込みありがとうございました。\nこちらより閲覧いただけます。\nhttps://secureinc.co.jp/aioffice/docs/disinfection-co/disinfection-co_wp_210115.pdf\n";
 
 		$mail->FromName		= mb_encode_mimeheader($fromUserName,"ISO-2022-JP","UTF-8"); // "表示名" <メールアドレス>
@@ -124,7 +124,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		if ( $mail->send() ) {
 			$mail->ClearAddresses();
 			$mail->FromName		= mb_encode_mimeheader($fromUserName,"ISO-2022-JP","UTF-8"); // "表示名" <メールアドレス>
-			$mail->Subject		= mb_encode_mimeheader("【AI Office Base】 資料ダウンロードありがとうございます","ISO-2022-JP", "UTF-8");
+			$mail->Subject		= mb_encode_mimeheader("【株式会社セキュア】 資料ダウンロードありがとうございます","ISO-2022-JP", "UTF-8");
 			$mail->AddAddress($returnMailtoAddress);
 //			$mail->AddCC($mailCcAddress);
 			$mail->Body		= mb_convert_encoding(
