@@ -1,6 +1,4 @@
 <?php
-  header("Location: https://secureinc.co.jp/");
-  exit;
 	session_name('CONTACT');
 	session_start();
 
@@ -119,41 +117,6 @@ p.notice{
 	line-height: 1.4;
 	opacity: .8;
 }
-.redirect{
-	margin: 0 auto 100px;
-}
-.redirect a{
-	position: relative;
-	margin: 0 auto;
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		height: 80px;
-		padding: 5px 30px 0;
-	    background: linear-gradient(90deg, #F56753, #FFBD66);
-	    color: #fff;
-	    font-weight: bold;
-	    border-radius: 40px;
-	    line-height: 1;
-	    max-width: 480px;
-	    box-shadow: 0 3px 6px rgb(0 0 0 / 15%);
-}
-.redirect a:hover{
-	box-shadow: 0 10px 20px rgb(0 0 0 / 15%);
-	filter: brightness(110%);
-}
-.redirect a::after{
-	content: "";
-	display: block;
-	position: absolute;
-	right: 30px;
-	top: 50%;
-	width: 12px;
-	height: 12px;
-	border-right: 2px solid #fff;
-	border-bottom: 2px solid #fff;
-	transform: translateY(-50%) rotate(-45deg);
-}
 </style>
 
 </head>
@@ -169,7 +132,7 @@ p.notice{
 					<h2><span class="pc-view">AI顔認証クラウド型入退管理システム</span><img src="./images/head_logo.png" alt="SECURE AI Office Base" /></h2>
 					<button class="hamburger sp-view"><span></span><span></span><span></span></button>
 					<div>
-						<p><span><i>お電話でのお問い合わせは</i><a href="tel:08009199500"><img src="./images/icon_tel.svg" /></a><strong><a href="tel:08009199500">0800-919-9500</a></strong></span><small>フリーコール (土日祝日除く9:30 ～ 18:00)</small></p><a class="btn e-head-btn" href="https://secureinc.info/contact/"><span>資料請求・お問い合わせ</span></a>
+						<p><span><i>お電話でのお問い合わせは</i><a href="tel:08009199500"><img src="./images/icon_tel.svg" /></a><strong><a href="tel:08009199500">0800-919-9500</a></strong></span><small>フリーコール (土日祝日除く9:30 ～ 18:00)</small></p><a class="btn e-head-btn" href="#form_b"><span>資料請求・お問い合わせ</span></a>
 						<ul>
 							<li><a href="#anchor-1">よくあるお悩み</a></li>
 							<li><a href="#anchor-2">AI Office Baseとは</a></li>
@@ -187,7 +150,7 @@ p.notice{
 							<h1> <span>顔認証クラウド型<br>入退室管理システム<br>AI Office Base</span></h1>
 
 							<p class="subsidy"><img src="./images/cp2_subsidy2.png" alt="IT導入補助金2022採択商品※" width="294"></p>
-							<p><a class="btn" href="https://secureinc.info/contact/" target="_blank"><img src="./images/icon_dl_white.svg" width="27" /><span>3分でわかる無料資料ダウンロード</span></a></p>
+							<p><a class="btn" href="#form_b" target="_blank"><img src="./images/icon_dl_white.svg" width="27" /><span>3分でわかる無料資料ダウンロード</span></a></p>
 							<p class="notice">※IT導入補助金2022とは経済産業省が推進する、中小企業・小規模事業者を対象とした補助金です。<br>本製品ではソフトウェア費用が1/2補助されます。</p>
 						</div>
 						<div class="function">
@@ -685,8 +648,7 @@ p.notice{
 
 							<p class="notice" style="margin-top: -30px;margin-bottom: 40px;">※IT導入補助金2022とは経済産業省が推進する、中小企業・小規模事業者を対象とした補助金です。<br>本製品ではソフトウェア費用が1/2補助されます。</p>
 					<section class="formsection">
-						<p class="redirect"><a href="https://secureinc.info/contact/">お問い合わせ</a></p>
-						<!-- <form id="formarea_b" method="post" action="confirm_b.php">
+						<form id="formarea_b" method="post" action="confirm_b.php">
 
 
 							<dl>
@@ -791,7 +753,7 @@ p.notice{
 									</div>
 								</dd>
 							</dl>
-						</form> -->
+						</form>
 					</section>
 				</div>
 			</div>

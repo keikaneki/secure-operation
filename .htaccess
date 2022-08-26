@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteRule ^company(.*)$ https://corp.secureinc.co.jp/ [L,R=301]
+RewriteEngine on
+RewriteRule ^aioffice/docs(.*)$ https://secureinc.info/contact/ [R=302,L]

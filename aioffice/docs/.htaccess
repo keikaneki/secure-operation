@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{http_host} ^www.secureinc.co.jp/aioffice/docs/
+RewriteRule ^(.*)$ https://secureinc.info/contact/$1 [R=302,L]

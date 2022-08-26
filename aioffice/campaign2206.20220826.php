@@ -1,6 +1,4 @@
 <?php
-  header("Location: https://secureinc.co.jp/");
-  exit;
 	session_name('CONTACT');
 	session_start();
 
@@ -83,41 +81,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   .pc { display:none; }
   .sp { display:block; }
 }
-.redirect{
-	margin: 0 auto 100px;
-}
-.redirect a{
-	position: relative;
-	margin: 0 auto;
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		height: 80px;
-		padding: 5px 30px 0;
-	    background: linear-gradient(90deg, #F56753, #FFBD66);
-	    color: #fff;
-	    font-weight: bold;
-	    border-radius: 40px;
-	    line-height: 1;
-	    max-width: 480px;
-	    box-shadow: 0 3px 6px rgb(0 0 0 / 15%);
-}
-.redirect a:hover{
-	box-shadow: 0 10px 20px rgb(0 0 0 / 15%);
-	filter: brightness(110%);
-}
-.redirect a::after{
-	content: "";
-	display: block;
-	position: absolute;
-	right: 30px;
-	top: 50%;
-	width: 12px;
-	height: 12px;
-	border-right: 2px solid #fff;
-	border-bottom: 2px solid #fff;
-	transform: translateY(-50%) rotate(-45deg);
-}
+
 </style>
 
 </head>
@@ -131,7 +95,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<header>
 					<h2><img src="./images/acaas_logo.png" alt="SECURE ACaaS" width="256" /></h2>
 					<div>
-						<p><span><i>お電話でのお問い合わせは</i><a href="tel:08009199500"><img src="./images/icon_tel_black.svg" /></a><strong><a href="tel:08009199500">0800-919-9500</a></strong></span><small>フリーコール (土日祝日除く9:30 ～ 18:00)</small></p><a class="btn e-head-btn" href="https://secureinc.info/contact/"><i><img src="./images/cp_mail.svg" alt=""></i><span>お問い合わせ</span></a>
+						<p><span><i>お電話でのお問い合わせは</i><a href="tel:08009199500"><img src="./images/icon_tel_black.svg" /></a><strong><a href="tel:08009199500">0800-919-9500</a></strong></span><small>フリーコール (土日祝日除く9:30 ～ 18:00)</small></p><a class="btn e-head-btn" href="#contact"><i><img src="./images/cp_mail.svg" alt=""></i><span>お問い合わせ</span></a>
 					</div>
 				</header>
 			<div id="mv2">
@@ -150,7 +114,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					</div>
 				</div>
 				<p class="subsidy"><img src="./images/cp2_subsidy2.png" alt="IT導入補助金2022採択商品※" width="294"></p>
-				<p class="cv"><a href="https://secureinc.info/contact/">キャンペーン<br class="sp-view">ご応募・お問合せはこちら</a><small>※IT導入補助金2022とは経済産業省が推進する、中小企業・小規模事業者を対象とした補助金です。<br>本製品ではソフトウェア費用が1/2補助されます。</small></p>
+				<p class="cv"><a href="#contact">キャンペーン<br class="sp-view">ご応募・お問合せはこちら</a><small>※IT導入補助金2022とは経済産業省が推進する、中小企業・小規模事業者を対象とした補助金です。<br>本製品ではソフトウェア費用が1/2補助されます。</small></p>
 			</div>
 			<section id="problem">
 				<div class="inner">
@@ -377,8 +341,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<div class="inner">
 					<h2 id="contact">キャンペーンご応募・お問い合わせ</h2>
 					<section class="formsection">
-						<p class="redirect"><a href="https://secureinc.info/contact/">お問い合わせ</a></p>
-						<!-- <form id="formarea_b" method="post" action="confirm_c.php">
+						<form id="formarea_b" method="post" action="confirm_c.php">
 
 
 							<dl>
@@ -483,7 +446,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 									</div>
 								</dd>
 							</dl>
-						</form> -->
+						</form>
 					</section>
 				</div>
 			</div>
