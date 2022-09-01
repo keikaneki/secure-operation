@@ -4068,7 +4068,8 @@ header .l-inner .below ul .gnav:not(:last-child)>a span::before {
 	background: #000;
 	position: absolute;
 	top: 50%;
-	right: -22px;
+	/*right: -22px;*/
+	right: -35px;
 	transform: translateY(-50%);
 	transition: all 0.3s;
 }
