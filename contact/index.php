@@ -1,4 +1,6 @@
 <?php
+  header("Location: https://secureinc.info/contact/");
+  exit;
 	session_name('CONTACT');
 	session_start();
 
