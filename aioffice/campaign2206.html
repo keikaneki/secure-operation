@@ -1,30 +1,3 @@
-<?php
-  header("Location: https://secureinc.co.jp/aioffice/campaign2206.html");
-  exit;
-	session_name('CONTACT');
-	session_start();
-
-	require_once "definition.php";
-
-	$type_check_b = array();
-	for ($i=0; $i<sizeof($type_array);  $i++) { $type_check_b[$i] = "";   }
-	if (isset($_GET['id'])) $_SESSION['TYPE_B'] = htmlspecialchars($_GET['id']);
-
-	$type_b     =(isset($_SESSION['TYPE_B']))     ? $_SESSION['TYPE_B']     : "";
-	$name1_b    =(isset($_SESSION['NAME1_B']))    ? $_SESSION['NAME1_B']    : "";
-	$name2_b    =(isset($_SESSION['NAME2_B']))    ? $_SESSION['NAME2_B']    : "";
-	$company_b  =(isset($_SESSION['COMPANY_B']))    ? $_SESSION['COMPANY_B']    : "";
-	$mail1_b    =(isset($_SESSION['MAIL1_B']))    ? $_SESSION['MAIL1_B']    : "";
-	$tel_b    =(isset($_SESSION['TEL_B']))    ? $_SESSION['TEL_B']    : "";
-	$demo_b    =(isset($_SESSION['DEMO_B']))    ? $_SESSION['DEMO_B']    : "";
-	$param_b 		=(isset($_SESSION['PARAM_B'])) 		? $_SESSION['PARAM_B']		: "";
-	$body_b     =(isset($_SESSION['BODY_B']))     ? $_SESSION['BODY_B']     : "";
-
-	if ($type_b!="") {
-		$num = substr(htmlspecialchars($type_b),4);
-		$type_check_b[$num] = " selected ";
-	}
-?>
 <!DOCTYPE html>
 <html>
 
@@ -37,7 +10,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5873P36');</script>
 <!-- End Google Tag Manager -->
-
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>クラウド型 顔認証・入退室管理 SECURE AI Office Base</title>
 	<meta name="description" content="職場はクラウドで管理する。入退室管理、顔認証の「SECURE AI Office Base」。ABWや職場3密対策に！" />
@@ -131,7 +103,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<header>
 					<h2><img src="./images/acaas_logo.png" alt="SECURE ACaaS" width="256" /></h2>
 					<div>
-						<p><span><i>お電話でのお問い合わせは</i><a href="tel:08009199500"><img src="./images/icon_tel_black.svg" /></a><strong><a href="tel:08009199500">0800-919-9500</a></strong></span><small>フリーコール (土日祝日除く9:30 ～ 18:00)</small></p><a class="btn e-head-btn" href="https://secureinc.info/contact/"><i><img src="./images/cp_mail.svg" alt=""></i><span>お問い合わせ</span></a>
+						<p><span><i>お電話でのお問い合わせは</i><a href="tel:08009199500"><img src="./images/icon_tel_black.svg" /></a><strong><a href="tel:08009199500">0800-919-9500</a></strong></span><small>フリーコール (土日祝日除く9:30 ～ 18:00)</small></p><a class="btn e-head-btn" href="https://secureinc.info/forms/acaas/contact/"><i><img src="./images/cp_mail.svg" alt=""></i><span>お問い合わせ</span></a>
 					</div>
 				</header>
 			<div id="mv2">
@@ -144,13 +116,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 						<h1><span><small>初期・月額</small><br>使用料が<em>「0」</em><span>円</span></h1>
 						<small>〜顔認証も選べる！<br class="sp-view">設置工事・機器レンタル費全て込み込み〜</small>
 						<div class="period">
-							<p>キャンペーン期間：<strong>2022年8月末日</strong>まで</p>
+							<p>キャンペーン期間：<strong>2022年10月末日</strong>まで</p>
 						</div>
 						<p class="annotation">※基本、最大3ヶ月間の月額使用料が無料。<br>　他社乗り換えの場合最大6ヶ月の月額使用料が無料。</p>
 					</div>
 				</div>
 				<p class="subsidy"><img src="./images/cp2_subsidy2.png" alt="IT導入補助金2022採択商品※" width="294"></p>
-				<p class="cv"><a href="https://secureinc.info/contact/">キャンペーン<br class="sp-view">ご応募・お問合せはこちら</a><small>※IT導入補助金2022とは経済産業省が推進する、中小企業・小規模事業者を対象とした補助金です。<br>本製品ではソフトウェア費用が1/2補助されます。</small></p>
+				<p class="cv"><a href="https://secureinc.info/forms/acaas/contact/">キャンペーン<br class="sp-view">ご応募・お問合せはこちら</a><small>※IT導入補助金2022とは経済産業省が推進する、中小企業・小規模事業者を対象とした補助金です。<br>本製品ではソフトウェア費用が1/2補助されます。</small></p>
 			</div>
 			<section id="problem">
 				<div class="inner">
@@ -377,7 +349,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<div class="inner">
 					<h2 id="contact">キャンペーンご応募・お問い合わせ</h2>
 					<section class="formsection">
-						<p class="redirect"><a href="https://secureinc.info/contact/">お問い合わせ</a></p>
+						<p class="redirect"><a href="https://secureinc.info/forms/acaas/contact/">お問い合わせ</a></p>
 						<!-- <form id="formarea_b" method="post" action="confirm_c.php">
 
 
@@ -500,138 +472,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		</footer><a class="pagetop" href="#wrap"></a>
 	</div>
 	
-	<script>
-
-new Vue({
-	el: '#formarea_b',
-	data: {
-		type_b:       '<?php print($type_b) ?>',
-		name1_b:      '<?php print($name1_b) ?>',
-		name2_b:      '<?php print($name2_b) ?>',
-		company_b:    '<?php print($company_b) ?>',
-		mail1_b:      '<?php print($mail1_b) ?>',
-		tel_b:      '<?php print($tel_b) ?>',
-		param_b: 			'<?php print($param_b) ?>',
-		demo_b:      [],
-		body_b:       `<?php print($body_b) ?>`,
-		agree_b:      false,
-
-		typeerr_b:    '',
-		nameerr_b:    '',
-		comperr_b:    '',
-		mail1err_b:     '',
-		demoerr_b:     '',
-		bodyerr_b:    '',
-		agreeerr_b:     '',
-
-		typeflg_b:    <?php if($type_b!="")             { print('0'); } else { print('1'); } ?>,
-		nameflg_b:    <?php if($name1_b!="" && $name2_b!="")      { print('0'); } else { print('1'); } ?>,
-		compflg_b:  <?php if($company_b!="")              { print('0'); } else { print('1'); } ?>,
-		mail1flg_b:     <?php if($mail1_b!="")            { print('0'); } else { print('1'); } ?>,
-		demoflg_b:     1,
-		bodyflg_b:    0,
-		agreeflg_b:     1,
-	},
-	methods:{
-		typecng_b: function () {
-			let typedata = this.type_b;
-			/*if(!typedata){
-				this.typeflg_b = 1;
-				this.typeerr_b = "お問い合わせ種別が選択されていません";
-			}else{
-				this.typeflg_b = 0;
-				this.typeerr_b = "";
-			};*/
-				this.typeflg_b = 0;
-				this.typeerr_b = "";
-		},
-		namecng_b: function () {
-			let name1data = this.name1_b;
-			let name2data = this.name2_b;
-			if(!name1data || !name2data){
-				this.nameflg_b = 1;
-				this.nameerr_b = "お名前が入力されていません";
-			}else if(!name1data.match(/^[^\x01-\x7E\xA1-\xDF]+$/) || !name2data.match(/^[^\x01-\x7E\xA1-\xDF]+$/)){
-				this.nameflg_b = 1;
-				this.nameerr_b = "全角でご入力ください";
-			}else{
-				this.nameflg_b = 0;
-				this.nameerr_b = "";
-			};
-		},
-		compcng_b: function () {
-			let compdata = this.company_b;
-			if(!compdata){
-				this.compflg_b = 1;
-				this.comperr_b = "会社名が入力されていません";
-			}else{
-				this.compflg_b = 0;
-				this.comperr_b = "";
-			};
-		},
-		mail1cng_b: function () {
-			let mail1data = this.mail1_b;
-			if(!mail1data){
-				this.mail1flg_b = 1;
-				this.mail1err_b = "メールアドレスが入力されていません";
-			}else if(!mail1data.match(/^[\x20-\x7e]+$/)){
-				this.mail1flg_b = 1;
-				this.mail1err_b = "半角英数字でご入力ください";
-			}else if(!mail1data.match(/^[^@]+@.+\..+$/)){
-				this.mail1flg_b = 1;
-				this.mail1err_b = "メールアドレスの書式でご入力ください";
-			}else{
-				this.mail1flg_b = 0;
-				this.mail1err_b = "";
-			};
-		},
-		bodycng_b: function () {
-			let bodydata = this.body_b;
-			if(bodydata.length > 1000 && bodydata){
-				this.bodyflg_b = 1;
-				this.bodyerr_b = "お問い合わせは1000文字以内でご入力下さい";
-			}else{
-				this.bodyflg_b = 0;
-				this.bodyerr_b = "";
-			};
-		},
-		agreecng_b: function () {
-			let agreedata = this.agree_b;
-			if(!agreedata){
-				this.agreeflg_b = 1;
-				this.agreeerr_b = "同意チェックボックスがチェックされていません";
-			}else{
-				this.agreeflg_b = 0;
-				this.agreeerr_b = "";
-			};
-		},
-		democng_b: function () {
-			let demodata = this.demo_b;
-			if(!demodata.length){
-				this.demoflg_b = 1;
-			}else{
-				this.demoflg_b = 0;
-			};
-		}
-	},
-	computed:{
-		btnview_b: function () {
-			let typeflg_b =     this.typeflg_b;
-			let nameflg_b =     this.nameflg_b;
-			let compflg_b =   this.compflg_b;
-			let mail1flg_b =    this.mail1flg_b;
-			let demoflg_b =    this.demoflg_b;
-			let bodyflg_b =     this.bodyflg_b;
-			let agreeflg_b =    this.agreeflg_b;
-			if (nameflg_b==0 && compflg_b==0 && mail1flg_b==0 && bodyflg_b==0 && agreeflg_b==0) {
-				return "submit";
-			} else {
-				return "";
-			}
-		}
-	}
-})
-</script>
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
