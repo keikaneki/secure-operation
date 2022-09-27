@@ -870,5 +870,35 @@ p.notice{
 			}
 		});
 	</script>
-
+	<script>
+	$(function() {
+			var param=location.search;
+			var count = 0;
+			if(param.indexOf("?")>=0){
+				console.log(param);
+				function addParam(){
+					$.each($("a"), function(i,elem){
+						if(!$(elem).data("param")){
+							var href=String($(elem).attr("href"));
+							if(href.includes("secure") || href.startsWith("/") || href.startsWith(".")){
+								if(href.includes("?")){
+									var addparam = param.replace("?","&");
+									$(elem).attr("href",href+addparam);
+								}else{
+									$(elem).attr("href",href+param);
+								}
+							}
+							$(elem).data("param",true);
+						}
+					});
+					count++;
+					if(count>5){
+						clearInterval(addParamInt);
+					}
+				}
+				/*addParamInt = setInterval(addParam,1000);*/
+				addParam();
+			}
+		});
+	</script>
 </html>

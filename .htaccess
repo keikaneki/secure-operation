@@ -3,6 +3,3 @@ RewriteRule ^company(.*)$ https://corp.secureinc.co.jp/ [L,R=301]
 RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !^(.*)\.(gif|png|jpg|jpeg|css|pdf)$ [NC]
 RewriteRule ^aioffice/docs(.*)$ https://secureinc.info/contact/ [R=302,L]
-RewriteEngine on
-RewriteCond %{REQUEST_FILENAME} !^(.*)\.(gif|png|jpg|jpeg|css)$ [NC]
-RewriteRule ^aioffice/media/(.*)$ https://secureinc.co.jp/ [R=302,L]
