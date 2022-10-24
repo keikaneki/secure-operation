@@ -13,3 +13,6 @@ RewriteRule ^aioffice/docs/sc-step/$ https://secureinc.info/forms/docs/sc-step/ 
 RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !^(.*)\.(gif|png|jpg|jpeg|css|pdf)$ [NC]
 RewriteRule ^aioffice/docs(.*)$ https://secureinc.info/contact/ [R=302,L]
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !^(.*)\.(gif|png|jpg|jpeg|css|pdf)$ [NC]
+RewriteRule ^recruit/(.*)$ https://hikoma.jp/secureinc [R=301,L]
