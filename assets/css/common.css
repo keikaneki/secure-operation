@@ -11002,15 +11002,18 @@ body.with-chat #bottom_btn{
 }
 .main-panel__item h2{
 	font-size: 32px;
-	margin-bottom: 30px;
+	margin-bottom: 25px;
 	font-weight: bold;
 }
 .main-panel__item p{
 	line-height: 1.6;
 }
+.main-panel__item p:not(.btn){
+	margin-bottom: auto;
+}
 .main-panel__item .btn{
 	color: #000;
-	margin-top: auto;
+	margin-top: 15px;
 }
 .main-panel__item .btn a{
 	position: relative;
@@ -11144,7 +11147,8 @@ body.with-chat #bottom_btn{
 	.main-panel__item{
 		width: 100%;
 		padding: 20px 20px;
-		height: 220px;
+		min-height: 220px;
+		height: auto;
 	}
 	.main-panel__item.bg-rightcenter{
 		background-position: right center;
@@ -11152,6 +11156,15 @@ body.with-chat #bottom_btn{
 	.main-panel__item h2{
 		font-size: 20px;
 		margin-bottom: 10px;
+	}
+	.main-panel__item p:not(.btn){
+		margin-bottom: 20px;
+	}
+	.main-panel__item p:not(.btn) + .btn{
+		margin-top: auto;
+	}
+	.main-panel__item .btn{
+		margin-top: 10px;
 	}
 	.main-panel__item .btn a{
 		font-size: 13px;
