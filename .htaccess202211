@@ -1,6 +1,6 @@
 RewriteEngine on
-RewriteBase /
 RewriteRule ^company(.*)$ https://corp.secureinc.co.jp/ [L,R=301]
+RewriteEngine on
 RewriteRule ^aioffice/docs/aiob3min/$ https://secureinc.info/forms/aiob/aiob3min/ [R=302,L]
 RewriteRule ^aioffice/docs/ac-step/$ https://secureinc.info/forms/docs/ac-step/ [R=302,L]
 RewriteRule ^aioffice/docs/alcohol-checker/$ https://secureinc.info/forms/docs/alcohol-checker/ [R=302,L]
@@ -10,10 +10,10 @@ RewriteRule ^aioffice/docs/event_flyer/$ https://secureinc.info/forms/docs/event
 RewriteRule ^aioffice/docs/fitness-solution/$ https://secureinc.info/forms/docs/fitness-solution/ [R=302,L]
 RewriteRule ^aioffice/docs/logistics-solution/$ https://secureinc.info/forms/docs/logistics-solution/ [R=302,L]
 RewriteRule ^aioffice/docs/sc-step/$ https://secureinc.info/forms/docs/sc-step/ [R=302,L]
-RewriteRule ^device/index.html$ https://secureinc.co.jp/solution/product/ [R=302,L]
-RewriteRule ^device/$ https://secureinc.co.jp/solution/product/ [R=302,L]
+RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !^(.*)\.(gif|png|jpg|jpeg|css|pdf)$ [NC]
-RewriteCond %{REQUEST_URI} !(^aioffice/docs/fb(.*))
-RewriteRule ^aioffice/docs/(.*)$ https://secureinc.info/contact/ [R=302,L]
+RewriteCond %{REQUEST_URI} !(^aioffice/docs/fb(.*)$)
+RewriteRule ^aioffice/docs(.*)$ https://secureinc.info/contact/ [R=302,L]
+RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !^(.*)\.(gif|png|jpg|jpeg|css|pdf)$ [NC]
 RewriteRule ^recruit/(.*)$ https://hikoma.jp/secureinc [R=301,L]

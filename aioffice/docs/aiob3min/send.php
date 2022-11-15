@@ -20,7 +20,7 @@
 
 	require_once "./initfile/setting.php";
 
-/*	$mail->SMTPDebug = 1; */
+$mail->SMTPDebug = 3;
 
 ?>
 <!DOCTYPE html>
